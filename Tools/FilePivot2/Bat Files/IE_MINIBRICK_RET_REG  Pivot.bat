@@ -1,0 +1,2 @@
+FilePivot.exe pivot_IE_MINIBRICK_RET_REG.xml
+pause

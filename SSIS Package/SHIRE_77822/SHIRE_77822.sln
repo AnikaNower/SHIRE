@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "SHIRE_77822", "SHIRE_77822\SHIRE_77822.dtproj", "{7C41CF09-92A4-4C53-8A0A-5F48C4D60798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C41CF09-92A4-4C53-8A0A-5F48C4D60798}.Development|Default.ActiveCfg = Development
+		{7C41CF09-92A4-4C53-8A0A-5F48C4D60798}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

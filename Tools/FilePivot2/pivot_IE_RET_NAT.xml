@@ -1,0 +1,33 @@
+<configuration>
+<SourceFile>D:\customers\77822_Shire_Staging\Data\Ireland\RET_NAT\Input\IRL_RET_NAT_DUMP.TXT</SourceFile>
+<SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+
+<SourceKeyColumns>CRP,MNF,PRES,CLASS3,CLASS4,PRD,PRD-AGE,GMS,FORM,PCK,PCK-AGE,STR,COMP,MOL,DCKey 1,EURO/LP JAN/08</SourceKeyColumns>
+
+<SourceValueColumns>EURO ,UN </SourceValueColumns>
+
+<SkipSourceValueColumns>UN MAT,EURO MAT,UN YEAR,EURO YEAR,EURO QTR,UN QTR</SkipSourceValueColumns>
+
+
+<TargetFileName>D:\customers\77822_Shire_Staging\Data\Ireland\RET_NAT\Input\IRL_RET_NAT_PIVOTED.TXT</TargetFileName>
+
+
+<TargetKeyColumns>CRP,MNF,PRES,CLASS3,CLASS4,PRD,PRD-AGE,GMS,FORM,PCK,PCK-AGE,STR,COMP,MOL,DCKey 1,Latest Price</TargetKeyColumns>
+
+
+<DCKeyColumn>DCKey 1</DCKeyColumn>
+<MoleculeColumn></MoleculeColumn>
+<TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+<TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+</configuration>
+
+
+
+
+
+
+
+
+
+
+

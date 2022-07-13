@@ -1,0 +1,12 @@
+<configuration>
+  <SourceFile>D:\customers\77822_Shire_Staging\Data\United Kingdom\RSA_BRICK\Input\Temp\DUMP_DBNSIMAA.TXT</SourceFile>
+  <SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+  <SourceKeyColumns>TERR~ITORY,BRICK,RO,StHA,PCO,MKT,PROD</SourceKeyColumns>
+  <SourceValueColumns>VALUES,UNITS</SourceValueColumns>
+  <TargetFileName>D:\customers\77822_Shire_Staging\Data\United Kingdom\RSA_BRICK\Input\Temp\PIVOT_DBNSIMAA.TXT</TargetFileName>
+  <TargetKeyColumns>[TERR~ITORY],BRICK,RO,StHA,PCO,MKT,PROD</TargetKeyColumns>
+  <TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+  <TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+  <DCKeyColumn></DCKeyColumn>
+  <MoleculeColumn></MoleculeColumn>
+</configuration>

@@ -1,0 +1,1500 @@
+<?xml version="1.0"?><DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts" DTS:ExecutableType="MSDTS.Package.1"><DTS:Property DTS:Name="PackageFormatVersion">2</DTS:Property><DTS:Property DTS:Name="VersionComments"></DTS:Property><DTS:Property DTS:Name="CreatorName">BDDH01-S0005\Administrator</DTS:Property><DTS:Property DTS:Name="CreatorComputerName">BDDH01-S0005</DTS:Property><DTS:Property DTS:Name="CreationDate" DTS:DataType="7">5/17/2007 11:08:39 AM</DTS:Property><DTS:Property DTS:Name="PackageType">5</DTS:Property><DTS:Property DTS:Name="ProtectionLevel">1</DTS:Property><DTS:Property DTS:Name="MaxConcurrentExecutables">-1</DTS:Property><DTS:Property DTS:Name="PackagePriorityClass">0</DTS:Property><DTS:Property DTS:Name="VersionMajor">1</DTS:Property><DTS:Property DTS:Name="VersionMinor">0</DTS:Property><DTS:Property DTS:Name="VersionBuild">36</DTS:Property><DTS:Property DTS:Name="VersionGUID">{B409C2E3-2863-4FF7-9278-35C1C4147DA5}</DTS:Property><DTS:Property DTS:Name="EnableConfig">0</DTS:Property><DTS:Property DTS:Name="CheckpointFileName"></DTS:Property><DTS:Property DTS:Name="SaveCheckpoints">0</DTS:Property><DTS:Property DTS:Name="CheckpointUsage">0</DTS:Property><DTS:Property DTS:Name="SuppressConfigurationWarnings">0</DTS:Property>
+<DTS:ConnectionManager><DTS:Property DTS:Name="DelayValidation">0</DTS:Property><DTS:Property DTS:Name="ObjectName">BDDH01-S0004\SQL2K5.77822_SHIRE_STAGING</DTS:Property><DTS:Property DTS:Name="DTSID">{6F0DD224-9AC1-46DD-9B75-208F6A9EF517}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName">OLEDB</DTS:Property><DTS:ObjectData><DTS:ConnectionManager><DTS:Property DTS:Name="Retain">0</DTS:Property><DTS:Property DTS:Name="ConnectionString">Data Source=PLYSSQL126U;Initial Catalog=SHIRE;Provider=SQLNCLI.1;Integrated Security=SSPI;Auto Translate=False;</DTS:Property></DTS:ConnectionManager></DTS:ObjectData></DTS:ConnectionManager>
+<DTS:ConnectionManager><DTS:Property DTS:Name="DelayValidation">0</DTS:Property><DTS:Property DTS:Name="ObjectName">BDDH01-S0004\SQL2K5.77822_SHIRE_STAGING.sa</DTS:Property><DTS:Property DTS:Name="DTSID">{EDF4E66D-438F-40EA-B7A7-67AD85737AA4}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName">OLEDB</DTS:Property><DTS:ObjectData><DTS:ConnectionManager><DTS:Property DTS:Name="Retain">0</DTS:Property><DTS:Property DTS:Name="ConnectionString">Data Source=PLYSSQL126U;Initial Catalog=SHIRE;Provider=SQLNCLI.1;Integrated Security=SSPI;Auto Translate=False;</DTS:Property></DTS:ConnectionManager></DTS:ObjectData></DTS:ConnectionManager>
+<DTS:ConnectionManager><DTS:Property DTS:Name="DelayValidation">0</DTS:Property><DTS:Property DTS:Name="ObjectName">Flat File Connection Manager</DTS:Property><DTS:Property DTS:Name="DTSID">{8A63171D-DF89-4DF1-97E5-19557BDB55F6}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName">FLATFILE</DTS:Property><DTS:ObjectData><DTS:ConnectionManager><DTS:Property DTS:Name="FileUsageType">0</DTS:Property><DTS:Property DTS:Name="Format">Delimited</DTS:Property><DTS:Property DTS:Name="LocaleID">1033</DTS:Property><DTS:Property DTS:Name="Unicode">-1</DTS:Property><DTS:Property DTS:Name="HeaderRowsToSkip">0</DTS:Property><DTS:Property DTS:Name="HeaderRowDelimiter" xml:space="preserve">_x000D__x000A_</DTS:Property><DTS:Property DTS:Name="ColumnNamesInFirstDataRow">-1</DTS:Property><DTS:Property DTS:Name="RowDelimiter" xml:space="preserve"></DTS:Property><DTS:Property DTS:Name="DataRowsToSkip">0</DTS:Property><DTS:Property DTS:Name="TextQualifier">"</DTS:Property><DTS:Property DTS:Name="CodePage">1252</DTS:Property>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">2</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">COUNTRY</DTS:Property><DTS:Property DTS:Name="DTSID">{AE9D7BC4-4862-428B-B154-46AF2A82C8F5}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">PERIOD</DTS:Property><DTS:Property DTS:Name="DTSID">{C4DCD6DD-6D51-4136-A352-E18395A61FED}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">PANEL</DTS:Property><DTS:Property DTS:Name="DTSID">{D60480F6-3506-4199-85E6-C9261E951917}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">MARKET</DTS:Property><DTS:Property DTS:Name="DTSID">{F3366E0D-F7C3-4B9D-9334-E4C98307E1E3}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">ATC1</DTS:Property><DTS:Property DTS:Name="DTSID">{F4220AB3-1645-46EA-9653-355FBE357847}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">ATC2</DTS:Property><DTS:Property DTS:Name="DTSID">{FFC1CB5D-FA06-4E68-89D3-27DA7CF81E7E}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">ATC3</DTS:Property><DTS:Property DTS:Name="DTSID">{6F9A2E4E-3BE9-41D8-A443-40362B84B907}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">ATC4</DTS:Property><DTS:Property DTS:Name="DTSID">{FFE3A5A1-423B-452C-A011-035DBF33182D}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">CRP</DTS:Property><DTS:Property DTS:Name="DTSID">{5D3F47C9-DF6E-4EEE-817B-3B95D7C3FA37}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">MNF</DTS:Property><DTS:Property DTS:Name="DTSID">{ED6F65F7-F8F8-4F4C-800F-BF772E3AD579}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">PRODUCT</DTS:Property><DTS:Property DTS:Name="DTSID">{4FE7DCB3-7000-40E3-ADF7-66CC22839F80}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">PRODUCT_AGE</DTS:Property><DTS:Property DTS:Name="DTSID">{47B4992B-585C-4F28-B43C-AD1BCB0ED387}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">PACK</DTS:Property><DTS:Property DTS:Name="DTSID">{87188634-B5A7-4AB3-AF18-32CFAD4E4B9B}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">PACK_AGE</DTS:Property><DTS:Property DTS:Name="DTSID">{F9A30C57-C3B5-4EFE-81AE-5C0252EAD851}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">NFC123</DTS:Property><DTS:Property DTS:Name="DTSID">{483D9E02-A3C1-41B8-9963-C86ED9A86BCD}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">STRENGTH</DTS:Property><DTS:Property DTS:Name="DTSID">{DBADF86A-BAD6-4582-8059-9B0199EBB8A4}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">GENERIC_FLAG</DTS:Property><DTS:Property DTS:Name="DTSID">{EB5EF92E-5125-41BF-90C8-B5B7E4ED3E33}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">PI_FLAG</DTS:Property><DTS:Property DTS:Name="DTSID">{AB3FC08F-5581-4D33-A0A0-24DA5F6E29F0}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">COMPOSITION</DTS:Property><DTS:Property DTS:Name="DTSID">{F1C28D07-FE67-4FB5-8737-4FF5FF29773D}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">REIMBURSABLE</DTS:Property><DTS:Property DTS:Name="DTSID">{17FED6A7-9EDA-41C9-AACF-5E4AF03AF569}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">RX_BOUND</DTS:Property><DTS:Property DTS:Name="DTSID">{1EC964B5-37B8-4A58-BC52-D586DDE196DF}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">255</DTS:Property><DTS:Property DTS:Name="DataType">129</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">-1</DTS:Property><DTS:Property DTS:Name="ObjectName">MOLECULE</DTS:Property><DTS:Property DTS:Name="DTSID">{215F7DD5-6429-46A7-AFF7-0EA412E47C05}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">0</DTS:Property><DTS:Property DTS:Name="DataType">14</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">0</DTS:Property><DTS:Property DTS:Name="ObjectName">SALES_UNITS</DTS:Property><DTS:Property DTS:Name="DTSID">{954C0EAF-6D63-4E8D-BE67-28DDE0261E6B}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">0</DTS:Property><DTS:Property DTS:Name="DataType">14</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">0</DTS:Property><DTS:Property DTS:Name="ObjectName">SALES_LC</DTS:Property><DTS:Property DTS:Name="DTSID">{36AF9289-1473-4A8D-BBC9-1890FFC393CD}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x003B_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">0</DTS:Property><DTS:Property DTS:Name="DataType">14</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">0</DTS:Property><DTS:Property DTS:Name="ObjectName">SALES_CU</DTS:Property><DTS:Property DTS:Name="DTSID">{FC69D6B5-E3F0-4C9F-A7E9-5DAB6E8A4F50}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn>
+<DTS:FlatFileColumn><DTS:Property DTS:Name="ColumnType">Delimited</DTS:Property><DTS:Property DTS:Name="ColumnDelimiter" xml:space="preserve">_x000D__x000A_</DTS:Property><DTS:Property DTS:Name="ColumnWidth">0</DTS:Property><DTS:Property DTS:Name="MaximumWidth">0</DTS:Property><DTS:Property DTS:Name="DataType">14</DTS:Property><DTS:Property DTS:Name="DataPrecision">0</DTS:Property><DTS:Property DTS:Name="DataScale">0</DTS:Property><DTS:Property DTS:Name="TextQualified">0</DTS:Property><DTS:Property DTS:Name="ObjectName">LATEST_PRICE_LC</DTS:Property><DTS:Property DTS:Name="DTSID">{F938C089-EB50-476F-B8BB-875216303203}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:FlatFileColumn><DTS:Property DTS:Name="ConnectionString">D:\customers\77822_Shire_Staging\Data\United Kingdom\HOS_NAT\Output\IMS_UK_HPA_NATIONAL_HOSPITAL_SFF01.txt</DTS:Property></DTS:ConnectionManager></DTS:ObjectData></DTS:ConnectionManager>
+<DTS:PackageVariable><DTS:Property DTS:Name="PackageVariableValue" DTS:DataType="8">&lt;PrecedenceConstraint xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0"&gt;&lt;dwd:EvalOp&gt;Constraint&lt;/dwd:EvalOp&gt;&lt;/PrecedenceConstraint&gt;</DTS:Property><DTS:Property DTS:Name="Namespace">dts-designer-1.0</DTS:Property><DTS:Property DTS:Name="ObjectName">{1F2F6B6E-1683-41BC-B117-2C9E24E5C1EC}</DTS:Property><DTS:Property DTS:Name="DTSID">{970B5D42-E223-489D-BF2C-2ACF6ED90E54}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:PackageVariable>
+<DTS:PackageVariable><DTS:Property DTS:Name="PackageVariableValue" DTS:DataType="8">&lt;Package xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0"&gt;&lt;dwd:DtsControlFlowDiagram&gt;&lt;dwd:BoundingLeft&gt;1000&lt;/dwd:BoundingLeft&gt;&lt;dwd:BoundingTop&gt;1000&lt;/dwd:BoundingTop&gt;&lt;dwd:Layout&gt;&lt;dds&gt;
+  &lt;diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="Microsoft.DataWarehouse.Layout.GraphLayout" defaultlineroute="Microsoft.DataWarehouse.Layout.GraphLayout" version="7" nextobject="10" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="0" scrolltop="0" gridx="150" gridy="150" marginx="1000" marginy="1000" zoom="100" x="18018" y="13600" backcolor="15334399" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="1" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}"&gt;
+    &lt;font&gt;
+      &lt;ddsxmlobjectstreamwrapper binary="01010000900180380100065461686f6d61" /&gt;
+    &lt;/font&gt;
+    &lt;mouseicon&gt;
+      &lt;ddsxmlobjectstreamwrapper binary="6c74000000000000" /&gt;
+    &lt;/mouseicon&gt;
+  &lt;/diagram&gt;
+  &lt;layoutmanager&gt;
+    &lt;ddsxmlobj /&gt;
+  &lt;/layoutmanager&gt;
+  &lt;ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge.1" tooltip="Data Flow Task" left="1000" top="1000" logicalid="4" controlid="1" masterid="0" hint1="0" hint2="0" width="3598" height="1164" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0"&gt;
+    &lt;control&gt;
+      &lt;ddsxmlobjectstreaminitwrapper binary="000800000e0e00008c040000" /&gt;
+    &lt;/control&gt;
+    &lt;layoutobject&gt;
+      &lt;ddsxmlobj&gt;
+        &lt;property name="LogicalObject" value="{C06966F3-CD07-4B3C-B773-FF62291D6BE9}" vartype="8" /&gt;
+        &lt;property name="ShowConnectorSource" value="0" vartype="2" /&gt;
+      &lt;/ddsxmlobj&gt;
+    &lt;/layoutobject&gt;
+    &lt;shape groupshapeid="0" groupnode="0" /&gt;
+  &lt;/ddscontrol&gt;
+  &lt;ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge.1" tooltip="Script Task" left="7882" top="1015" logicalid="5" controlid="2" masterid="0" hint1="0" hint2="0" width="6615" height="1164" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0"&gt;
+    &lt;control&gt;
+      &lt;ddsxmlobjectstreaminitwrapper binary="00080000d71900008c040000" /&gt;
+    &lt;/control&gt;
+    &lt;layoutobject&gt;
+      &lt;ddsxmlobj&gt;
+        &lt;property name="LogicalObject" value="{f3f34d67-70d8-4642-bcf8-45cbd837565d}" vartype="8" /&gt;
+        &lt;property name="ShowConnectorSource" value="0" vartype="2" /&gt;
+      &lt;/ddsxmlobj&gt;
+    &lt;/layoutobject&gt;
+    &lt;shape groupshapeid="0" groupnode="0" /&gt;
+  &lt;/ddscontrol&gt;
+  &lt;ddscontrol controlprogid="MSDDS.Polyline" left="4199" top="1183" logicalid="6" controlid="3" masterid="0" hint1="0" hint2="0" width="3983" height="814" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0"&gt;
+    &lt;control&gt;
+      &lt;ddsxmlobj&gt;
+        &lt;polyline endtypedst="3" endtypesrc="1" usercolor="32768" linestyle="0" linerender="2" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" /&gt;
+      &lt;/ddsxmlobj&gt;
+    &lt;/control&gt;
+    &lt;layoutobject&gt;
+      &lt;ddsxmlobj&gt;
+        &lt;property name="LogicalObject" value="{1F2F6B6E-1683-41BC-B117-2C9E24E5C1EC}" vartype="8" /&gt;
+        &lt;property name="Virtual" value="0" vartype="11" /&gt;
+        &lt;property name="VisibleAP" value="0" vartype="3" /&gt;
+      &lt;/ddsxmlobj&gt;
+    &lt;/layoutobject&gt;
+    &lt;connector lineroutestyle="Microsoft.DataWarehouse.Layout.GraphLayout" sourceid="1" destid="2" sourceattachpoint="15" destattachpoint="22" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="2" relatedid="0" virtual="0"&gt;
+      &lt;point x="4598" y="1582" /&gt;
+      &lt;point x="6240" y="1582" /&gt;
+      &lt;point x="6240" y="1597" /&gt;
+      &lt;point x="7882" y="1597" /&gt;
+    &lt;/connector&gt;
+  &lt;/ddscontrol&gt;
+&lt;/dds&gt;&lt;/dwd:Layout&gt;&lt;/dwd:DtsControlFlowDiagram&gt;&lt;/Package&gt;</DTS:Property><DTS:Property DTS:Name="Namespace">dts-designer-1.0</DTS:Property><DTS:Property DTS:Name="ObjectName">{52805489-FE36-4AF0-A5CB-5FD291D2F727}</DTS:Property><DTS:Property DTS:Name="DTSID">{3B008D5B-A568-414C-B3B0-80058ABC1A50}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:PackageVariable>
+<DTS:PackageVariable><DTS:Property DTS:Name="PackageVariableValue" DTS:DataType="8">&lt;TaskHost xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0"&gt;&lt;dwd:DtsDataFlowDiagram&gt;&lt;dwd:Layout&gt;&lt;dds&gt;
+  &lt;diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="Microsoft.DataWarehouse.Layout.GraphLayout" defaultlineroute="Microsoft.DataWarehouse.Layout.GraphLayout" version="7" nextobject="10" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="0" scrolltop="0" gridx="150" gridy="150" marginx="1000" marginy="1000" zoom="100" x="18018" y="12674" backcolor="15334399" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="1" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="0" backpictureclsid="{00000000-0000-0000-0000-000000000000}"&gt;
+    &lt;font&gt;
+      &lt;ddsxmlobjectstreamwrapper binary="01010000900180380100065461686f6d61" /&gt;
+    &lt;/font&gt;
+    &lt;mouseicon&gt;
+      &lt;ddsxmlobjectstreamwrapper binary="6c74000000000000" /&gt;
+    &lt;/mouseicon&gt;
+  &lt;/diagram&gt;
+  &lt;layoutmanager&gt;
+    &lt;ddsxmlobj /&gt;
+  &lt;/layoutmanager&gt;
+  &lt;ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge.1" tooltip="OLE DB Source" left="2223" top="3016" logicalid="4" controlid="1" masterid="0" hint1="0" hint2="0" width="3598" height="1164" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0"&gt;
+    &lt;control&gt;
+      &lt;ddsxmlobjectstreaminitwrapper binary="000800000e0e00008c040000" /&gt;
+    &lt;/control&gt;
+    &lt;layoutobject&gt;
+      &lt;ddsxmlobj&gt;
+        &lt;property name="LogicalObject" value="{C06966F3-CD07-4B3C-B773-FF62291D6BE9}/components/1053" vartype="8" /&gt;
+        &lt;property name="ShowConnectorSource" value="0" vartype="2" /&gt;
+      &lt;/ddsxmlobj&gt;
+    &lt;/layoutobject&gt;
+    &lt;shape groupshapeid="0" groupnode="0" /&gt;
+  &lt;/ddscontrol&gt;
+  &lt;ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge.1" tooltip="Flat File Destination" left="9737" top="3308" logicalid="5" controlid="2" masterid="0" hint1="0" hint2="0" width="3598" height="1164" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0"&gt;
+    &lt;control&gt;
+      &lt;ddsxmlobjectstreaminitwrapper binary="000800000e0e00008c040000" /&gt;
+    &lt;/control&gt;
+    &lt;layoutobject&gt;
+      &lt;ddsxmlobj&gt;
+        &lt;property name="LogicalObject" value="{C06966F3-CD07-4B3C-B773-FF62291D6BE9}/components/1162" vartype="8" /&gt;
+        &lt;property name="ShowConnectorSource" value="0" vartype="2" /&gt;
+      &lt;/ddsxmlobj&gt;
+    &lt;/layoutobject&gt;
+    &lt;shape groupshapeid="0" groupnode="0" /&gt;
+  &lt;/ddscontrol&gt;
+  &lt;ddscontrol controlprogid="MSDDS.Polyline" left="5422" top="3199" logicalid="6" controlid="3" masterid="0" hint1="0" hint2="0" width="4615" height="1091" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0"&gt;
+    &lt;control&gt;
+      &lt;ddsxmlobj&gt;
+        &lt;polyline endtypedst="3" endtypesrc="1" usercolor="32768" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" /&gt;
+      &lt;/ddsxmlobj&gt;
+    &lt;/control&gt;
+    &lt;layoutobject&gt;
+      &lt;ddsxmlobj&gt;
+        &lt;property name="LogicalObject" value="{C06966F3-CD07-4B3C-B773-FF62291D6BE9}/paths/1167" vartype="8" /&gt;
+        &lt;property name="Virtual" value="0" vartype="11" /&gt;
+        &lt;property name="VisibleAP" value="0" vartype="3" /&gt;
+      &lt;/ddsxmlobj&gt;
+    &lt;/layoutobject&gt;
+    &lt;connector lineroutestyle="Microsoft.DataWarehouse.Layout.GraphLayout" sourceid="1" destid="2" sourceattachpoint="15" destattachpoint="14" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="2" relatedid="0" virtual="0"&gt;
+      &lt;point x="5821" y="3598" /&gt;
+      &lt;point x="7779" y="3598" /&gt;
+      &lt;point x="7779" y="3890" /&gt;
+      &lt;point x="9737" y="3890" /&gt;
+    &lt;/connector&gt;
+  &lt;/ddscontrol&gt;
+&lt;/dds&gt;&lt;/dwd:Layout&gt;&lt;/dwd:DtsDataFlowDiagram&gt;&lt;dwd:DtsComponentDesignerPropertiesList&gt;&lt;dwd:DtsComponentDesignTimeProperty&gt;&lt;dwd:key xsi:type="xsd:string"&gt;1	DataSourceViewID&lt;/dwd:key&gt;&lt;/dwd:DtsComponentDesignTimeProperty&gt;&lt;dwd:DtsComponentDesignTimeProperty&gt;&lt;dwd:key xsi:type="xsd:string"&gt;1053	DataSourceViewID&lt;/dwd:key&gt;&lt;/dwd:DtsComponentDesignTimeProperty&gt;&lt;/dwd:DtsComponentDesignerPropertiesList&gt;&lt;/TaskHost&gt;</DTS:Property><DTS:Property DTS:Name="Namespace">dts-designer-1.0</DTS:Property><DTS:Property DTS:Name="ObjectName">{C06966F3-CD07-4B3C-B773-FF62291D6BE9}</DTS:Property><DTS:Property DTS:Name="DTSID">{7AE00BBB-0791-4B27-8751-47A0BC2106FC}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:PackageVariable>
+<DTS:PackageVariable><DTS:Property DTS:Name="PackageVariableValue" DTS:DataType="8">&lt;PipelinePath xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0"&gt;&lt;dwd:SourceName&gt;OLE DB Source Output&lt;/dwd:SourceName&gt;&lt;dwd:DestinationName&gt;Flat File Destination Input&lt;/dwd:DestinationName&gt;&lt;/PipelinePath&gt;</DTS:Property><DTS:Property DTS:Name="Namespace">dts-designer-1.0</DTS:Property><DTS:Property DTS:Name="ObjectName">{C06966F3-CD07-4B3C-B773-FF62291D6BE9}-1167</DTS:Property><DTS:Property DTS:Name="DTSID">{588E2F04-4CFC-4DD0-8588-91FC05283C69}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:PackageVariable><DTS:Property DTS:Name="ForceExecValue">0</DTS:Property><DTS:Property DTS:Name="ExecValue" DTS:DataType="3">0</DTS:Property><DTS:Property DTS:Name="ForceExecutionResult">-1</DTS:Property><DTS:Property DTS:Name="Disabled">0</DTS:Property><DTS:Property DTS:Name="FailPackageOnFailure">0</DTS:Property><DTS:Property DTS:Name="FailParentOnFailure">0</DTS:Property><DTS:Property DTS:Name="MaxErrorCount">1</DTS:Property><DTS:Property DTS:Name="ISOLevel">1048576</DTS:Property><DTS:Property DTS:Name="LocaleID">1033</DTS:Property><DTS:Property DTS:Name="TransactionOption">1</DTS:Property><DTS:Property DTS:Name="DelayValidation">0</DTS:Property>
+<DTS:LoggingOptions><DTS:Property DTS:Name="LoggingMode">0</DTS:Property><DTS:Property DTS:Name="FilterKind">1</DTS:Property><DTS:Property DTS:Name="EventFilter" DTS:DataType="8"></DTS:Property></DTS:LoggingOptions>
+<DTS:Executable DTS:ExecutableType="DTS.Pipeline.1"><DTS:Property DTS:Name="ExecutionLocation">0</DTS:Property><DTS:Property DTS:Name="ExecutionAddress"></DTS:Property><DTS:Property DTS:Name="TaskContact">Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server v9; (C) 2004 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1</DTS:Property><DTS:Property DTS:Name="ForceExecValue">0</DTS:Property><DTS:Property DTS:Name="ExecValue" DTS:DataType="3">0</DTS:Property><DTS:Property DTS:Name="ForceExecutionResult">-1</DTS:Property><DTS:Property DTS:Name="Disabled">0</DTS:Property><DTS:Property DTS:Name="FailPackageOnFailure">0</DTS:Property><DTS:Property DTS:Name="FailParentOnFailure">0</DTS:Property><DTS:Property DTS:Name="MaxErrorCount">1</DTS:Property><DTS:Property DTS:Name="ISOLevel">1048576</DTS:Property><DTS:Property DTS:Name="LocaleID">-1</DTS:Property><DTS:Property DTS:Name="TransactionOption">1</DTS:Property><DTS:Property DTS:Name="DelayValidation">0</DTS:Property>
+<DTS:LoggingOptions><DTS:Property DTS:Name="LoggingMode">0</DTS:Property><DTS:Property DTS:Name="FilterKind">1</DTS:Property><DTS:Property DTS:Name="EventFilter" DTS:DataType="8"></DTS:Property></DTS:LoggingOptions><DTS:Property DTS:Name="ObjectName">Data Flow Task</DTS:Property><DTS:Property DTS:Name="DTSID">{C06966F3-CD07-4B3C-B773-FF62291D6BE9}</DTS:Property><DTS:Property DTS:Name="Description">Data Flow Task</DTS:Property><DTS:Property DTS:Name="CreationName">DTS.Pipeline.1</DTS:Property><DTS:Property DTS:Name="DisableEventHandlers">0</DTS:Property><DTS:ObjectData><pipeline id="0" name="pipelineXml" description="pipelineXml" defaultBufferMaxRows="10000" engineThreads="5" defaultBufferSize="10485760" BLOBTempStoragePath="" bufferTempStoragePath="" runInOptimizedMode="true">
+<components>
+<component id="1162" name="Flat File Destination" componentClassID="{A1DF9F6D-8EE4-4EF0-BB2E-D526130D7A7B}" description="Flat File Destination" localeId="1033" usesDispositions="false" validateExternalMetadata="True" version="0" pipelineVersion="0" contactInfo="Flat File Destination;Microsoft Corporation;Microsoft SqlServer v9; (C) 2005 Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0">
+<properties>
+<property id="1165" name="Overwrite" dataType="System.Boolean" state="default" isArray="false" description="Specifies whether the data will overwrite or append to the destination file." typeConverter="" UITypeEditor="" containsID="false" expressionType="None">true</property>
+<property id="1166" name="Header" dataType="System.Null" state="default" isArray="false" description="Specifies the text to write to the destination file before any data is written." typeConverter="" UITypeEditor="" containsID="false" expressionType="Notify"/></properties>
+<connections>
+<connection id="1164" name="FlatFileConnection" description="" connectionManagerID="{8A63171D-DF89-4DF1-97E5-19557BDB55F6}"/></connections>
+<inputs>
+<input id="1163" name="Flat File Destination Input" description="" hasSideEffects="true" dangling="false" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed"><inputColumns>
+<inputColumn id="1204" name="" description="" lineageId="1084" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1178"/>
+<inputColumn id="1205" name="" description="" lineageId="1087" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1179"/>
+<inputColumn id="1206" name="" description="" lineageId="1090" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1180"/>
+<inputColumn id="1207" name="" description="" lineageId="1093" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1181"/>
+<inputColumn id="1208" name="" description="" lineageId="1096" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1182"/>
+<inputColumn id="1209" name="" description="" lineageId="1099" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1183"/>
+<inputColumn id="1210" name="" description="" lineageId="1102" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1184"/>
+<inputColumn id="1211" name="" description="" lineageId="1105" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1185"/>
+<inputColumn id="1212" name="" description="" lineageId="1108" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1186"/>
+<inputColumn id="1213" name="" description="" lineageId="1111" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1187"/>
+<inputColumn id="1214" name="" description="" lineageId="1114" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1188"/>
+<inputColumn id="1215" name="" description="" lineageId="1117" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1189"/>
+<inputColumn id="1216" name="" description="" lineageId="1120" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1190"/>
+<inputColumn id="1217" name="" description="" lineageId="1123" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1191"/>
+<inputColumn id="1218" name="" description="" lineageId="1126" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1192"/>
+<inputColumn id="1219" name="" description="" lineageId="1129" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1193"/>
+<inputColumn id="1220" name="" description="" lineageId="1132" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1194"/>
+<inputColumn id="1221" name="" description="" lineageId="1135" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1195"/>
+<inputColumn id="1222" name="" description="" lineageId="1138" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1196"/>
+<inputColumn id="1223" name="" description="" lineageId="1141" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1197"/>
+<inputColumn id="1224" name="" description="" lineageId="1144" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1198"/>
+<inputColumn id="1225" name="" description="" lineageId="1147" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1199"/>
+<inputColumn id="1226" name="" description="" lineageId="1150" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1200"/>
+<inputColumn id="1227" name="" description="" lineageId="1153" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1201"/>
+<inputColumn id="1228" name="" description="" lineageId="1156" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1202"/>
+<inputColumn id="1229" name="" description="" lineageId="1159" usageType="readOnly" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="1203"/>
+</inputColumns><externalMetadataColumns isUsed="True">
+<externalMetadataColumn id="1178" name="COUNTRY" description="" precision="0" scale="0" length="2" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1179" name="PERIOD" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1180" name="PANEL" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1181" name="MARKET" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1182" name="ATC1" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1183" name="ATC2" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1184" name="ATC3" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1185" name="ATC4" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1186" name="CRP" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1187" name="MNF" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1188" name="PRODUCT" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1189" name="PRODUCT_AGE" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1190" name="PACK" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1191" name="PACK_AGE" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1192" name="NFC123" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1193" name="STRENGTH" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1194" name="GENERIC_FLAG" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1195" name="PI_FLAG" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1196" name="COMPOSITION" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1197" name="REIMBURSABLE" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1198" name="RX_BOUND" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1199" name="MOLECULE" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1200" name="SALES_UNITS" description="" precision="0" scale="0" length="0" dataType="decimal" codePage="0"/>
+<externalMetadataColumn id="1201" name="SALES_LC" description="" precision="0" scale="0" length="0" dataType="decimal" codePage="0"/>
+<externalMetadataColumn id="1202" name="SALES_CU" description="" precision="0" scale="0" length="0" dataType="decimal" codePage="0"/>
+<externalMetadataColumn id="1203" name="LATEST_PRICE_LC" description="" precision="0" scale="0" length="0" dataType="decimal" codePage="0"/></externalMetadataColumns></input>
+</inputs>
+</component>
+<component id="1053" name="OLE DB Source" componentClassID="{2C0A8BE5-1EDC-4353-A0EF-B778599C65A0}" description="OLE DB Source" localeId="-1" usesDispositions="true" validateExternalMetadata="True" version="7" pipelineVersion="0" contactInfo="OLE DB Source;Microsoft Corporation;Microsoft SqlServer v9; (C) 2005 Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;7">
+<properties>
+<property id="1054" name="CommandTimeout" dataType="System.Int32" state="default" isArray="false" description="The number of seconds before a command times out.  A value of 0 indicates an infinite time-out." typeConverter="" UITypeEditor="" containsID="false" expressionType="None">0</property>
+<property id="1055" name="OpenRowset" dataType="System.String" state="default" isArray="false" description="Specifies the name of the database object used to open a rowset." typeConverter="" UITypeEditor="" containsID="false" expressionType="None"></property>
+<property id="1056" name="OpenRowsetVariable" dataType="System.String" state="default" isArray="false" description="Specifies the variable that contains the name of the database object used to open a rowset." typeConverter="" UITypeEditor="" containsID="false" expressionType="None"></property>
+<property id="1057" name="SqlCommand" dataType="System.String" state="default" isArray="false" description="The SQL command to be executed." typeConverter="" UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor, Microsoft.DataTransformationServices.Controls, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" containsID="false" expressionType="None">exec SSDF_SPO_UK_HOSPITAL_NATIONAL_OUTPUT_MONTHLY_DATA</property>
+<property id="1058" name="SqlCommandVariable" dataType="System.String" state="default" isArray="false" description="The variable that contains the SQL command to be executed." typeConverter="" UITypeEditor="" containsID="false" expressionType="None"></property>
+<property id="1059" name="DefaultCodePage" dataType="System.Int32" state="default" isArray="false" description="Specifies the column code page to use when code page information is unavailable from the data source." typeConverter="" UITypeEditor="" containsID="false" expressionType="None">1252</property>
+<property id="1060" name="AlwaysUseDefaultCodePage" dataType="System.Boolean" state="default" isArray="false" description="Forces the use of the DefaultCodePage property value when describing character data." typeConverter="" UITypeEditor="" containsID="false" expressionType="None">false</property>
+<property id="1061" name="AccessMode" dataType="System.Int32" state="default" isArray="false" description="Specifies the mode used to access the database." typeConverter="AccessMode" UITypeEditor="" containsID="false" expressionType="None">2</property>
+<property id="1067" name="ParameterMapping" dataType="System.String" state="default" isArray="false" description="The mappings between the parameters in the SQL command and variables." typeConverter="" UITypeEditor="" containsID="false" expressionType="None"></property></properties>
+<connections>
+<connection id="1062" name="OleDbConnection" description="The OLE DB runtime connection used to access the database." connectionManagerID="{6F0DD224-9AC1-46DD-9B75-208F6A9EF517}"/></connections>
+<outputs>
+<output id="1063" name="OLE DB Source Output" description="" exclusionGroup="0" synchronousInputId="0" deleteOutputOnPathDetached="false" hasSideEffects="false" dangling="false" isErrorOut="false" isSorted="false" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed"><outputColumns>
+<outputColumn id="1084" name="COUNTRY" description="" lineageId="1084" precision="0" scale="0" length="2" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1083"/>
+<outputColumn id="1087" name="PERIOD" description="" lineageId="1087" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1086"/>
+<outputColumn id="1090" name="PANEL" description="" lineageId="1090" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1089"/>
+<outputColumn id="1093" name="MARKET" description="" lineageId="1093" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1092"/>
+<outputColumn id="1096" name="ATC1" description="" lineageId="1096" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1095"/>
+<outputColumn id="1099" name="ATC2" description="" lineageId="1099" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1098"/>
+<outputColumn id="1102" name="ATC3" description="" lineageId="1102" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1101"/>
+<outputColumn id="1105" name="ATC4" description="" lineageId="1105" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1104"/>
+<outputColumn id="1108" name="CRP" description="" lineageId="1108" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1107"/>
+<outputColumn id="1111" name="MNF" description="" lineageId="1111" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1110"/>
+<outputColumn id="1114" name="PRODUCT" description="" lineageId="1114" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1113"/>
+<outputColumn id="1117" name="PRODUCT_AGE" description="" lineageId="1117" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1116"/>
+<outputColumn id="1120" name="PACK" description="" lineageId="1120" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1119"/>
+<outputColumn id="1123" name="PACK_AGE" description="" lineageId="1123" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1122"/>
+<outputColumn id="1126" name="NFC123" description="" lineageId="1126" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1125"/>
+<outputColumn id="1129" name="STRENGTH" description="" lineageId="1129" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1128"/>
+<outputColumn id="1132" name="GENERIC_FLAG" description="" lineageId="1132" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1131"/>
+<outputColumn id="1135" name="PI_FLAG" description="" lineageId="1135" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1134"/>
+<outputColumn id="1138" name="COMPOSITION" description="" lineageId="1138" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1137"/>
+<outputColumn id="1141" name="REIMBURSABLE" description="" lineageId="1141" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1140"/>
+<outputColumn id="1144" name="RX_BOUND" description="" lineageId="1144" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1143"/>
+<outputColumn id="1147" name="MOLECULE" description="" lineageId="1147" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1146"/>
+<outputColumn id="1150" name="SALES_UNITS" description="" lineageId="1150" precision="18" scale="3" length="0" dataType="numeric" codePage="0" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1149"/>
+<outputColumn id="1153" name="SALES_LC" description="" lineageId="1153" precision="18" scale="3" length="0" dataType="numeric" codePage="0" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1152"/>
+<outputColumn id="1156" name="SALES_CU" description="" lineageId="1156" precision="18" scale="3" length="0" dataType="numeric" codePage="0" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1155"/>
+<outputColumn id="1159" name="LATEST_PRICE_LC" description="" lineageId="1159" precision="18" scale="3" length="0" dataType="numeric" codePage="0" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="Conversion" errorRowDisposition="FailComponent" truncationRowDisposition="FailComponent" externalMetadataColumnId="1158"/></outputColumns><externalMetadataColumns isUsed="True">
+<externalMetadataColumn id="1083" name="COUNTRY" description="" precision="0" scale="0" length="2" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1086" name="PERIOD" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1089" name="PANEL" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1092" name="MARKET" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1095" name="ATC1" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1098" name="ATC2" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1101" name="ATC3" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1104" name="ATC4" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1107" name="CRP" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1110" name="MNF" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1113" name="PRODUCT" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1116" name="PRODUCT_AGE" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1119" name="PACK" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1122" name="PACK_AGE" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1125" name="NFC123" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1128" name="STRENGTH" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1131" name="GENERIC_FLAG" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1134" name="PI_FLAG" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1137" name="COMPOSITION" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1140" name="REIMBURSABLE" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1143" name="RX_BOUND" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1146" name="MOLECULE" description="" precision="0" scale="0" length="255" dataType="str" codePage="1252"/>
+<externalMetadataColumn id="1149" name="SALES_UNITS" description="" precision="18" scale="3" length="0" dataType="numeric" codePage="0"/>
+<externalMetadataColumn id="1152" name="SALES_LC" description="" precision="18" scale="3" length="0" dataType="numeric" codePage="0"/>
+<externalMetadataColumn id="1155" name="SALES_CU" description="" precision="18" scale="3" length="0" dataType="numeric" codePage="0"/>
+<externalMetadataColumn id="1158" name="LATEST_PRICE_LC" description="" precision="18" scale="3" length="0" dataType="numeric" codePage="0"/></externalMetadataColumns></output>
+<output id="1064" name="OLE DB Source Error Output" description="" exclusionGroup="0" synchronousInputId="0" deleteOutputOnPathDetached="false" hasSideEffects="false" dangling="false" isErrorOut="true" isSorted="false" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed"><outputColumns>
+<outputColumn id="1085" name="COUNTRY" description="" lineageId="1085" precision="0" scale="0" length="2" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1088" name="PERIOD" description="" lineageId="1088" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1091" name="PANEL" description="" lineageId="1091" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1094" name="MARKET" description="" lineageId="1094" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1097" name="ATC1" description="" lineageId="1097" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1100" name="ATC2" description="" lineageId="1100" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1103" name="ATC3" description="" lineageId="1103" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1106" name="ATC4" description="" lineageId="1106" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1109" name="CRP" description="" lineageId="1109" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1112" name="MNF" description="" lineageId="1112" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1115" name="PRODUCT" description="" lineageId="1115" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1118" name="PRODUCT_AGE" description="" lineageId="1118" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1121" name="PACK" description="" lineageId="1121" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1124" name="PACK_AGE" description="" lineageId="1124" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1127" name="NFC123" description="" lineageId="1127" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1130" name="STRENGTH" description="" lineageId="1130" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1133" name="GENERIC_FLAG" description="" lineageId="1133" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1136" name="PI_FLAG" description="" lineageId="1136" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1139" name="COMPOSITION" description="" lineageId="1139" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1142" name="REIMBURSABLE" description="" lineageId="1142" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1145" name="RX_BOUND" description="" lineageId="1145" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1148" name="MOLECULE" description="" lineageId="1148" precision="0" scale="0" length="255" dataType="str" codePage="1252" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1151" name="SALES_UNITS" description="" lineageId="1151" precision="18" scale="3" length="0" dataType="numeric" codePage="0" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1154" name="SALES_LC" description="" lineageId="1154" precision="18" scale="3" length="0" dataType="numeric" codePage="0" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1157" name="SALES_CU" description="" lineageId="1157" precision="18" scale="3" length="0" dataType="numeric" codePage="0" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1160" name="LATEST_PRICE_LC" description="" lineageId="1160" precision="18" scale="3" length="0" dataType="numeric" codePage="0" sortKeyPosition="0" comparisonFlags="0" specialFlags="0" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1065" name="ErrorCode" description="" lineageId="1065" precision="0" scale="0" length="0" dataType="i4" codePage="0" sortKeyPosition="0" comparisonFlags="0" specialFlags="1" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/>
+<outputColumn id="1066" name="ErrorColumn" description="" lineageId="1066" precision="0" scale="0" length="0" dataType="i4" codePage="0" sortKeyPosition="0" comparisonFlags="0" specialFlags="2" errorOrTruncationOperation="" errorRowDisposition="NotUsed" truncationRowDisposition="NotUsed" externalMetadataColumnId="0"/></outputColumns><externalMetadataColumns isUsed="False"/></output>
+</outputs>
+</component>
+</components>
+<paths>
+<path id="1167" name="OLE DB Source Output" description="" startId="1063" endId="1163"/>
+</paths></pipeline></DTS:ObjectData></DTS:Executable>
+<DTS:Executable DTS:ExecutableType="Microsoft.SqlServer.Dts.Tasks.ScriptTask.ScriptTask, Microsoft.SqlServer.ScriptTask, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" DTS:ThreadHint="0"><DTS:Property DTS:Name="ExecutionLocation">0</DTS:Property><DTS:Property DTS:Name="ExecutionAddress"></DTS:Property><DTS:Property DTS:Name="TaskContact"></DTS:Property><DTS:Property DTS:Name="ForceExecValue">0</DTS:Property><DTS:Property DTS:Name="ExecValue" DTS:DataType="3">0</DTS:Property><DTS:Property DTS:Name="ForceExecutionResult">-1</DTS:Property><DTS:Property DTS:Name="Disabled">-1</DTS:Property><DTS:Property DTS:Name="FailPackageOnFailure">0</DTS:Property><DTS:Property DTS:Name="FailParentOnFailure">0</DTS:Property><DTS:Property DTS:Name="MaxErrorCount">1</DTS:Property><DTS:Property DTS:Name="ISOLevel">1048576</DTS:Property><DTS:Property DTS:Name="LocaleID">-1</DTS:Property><DTS:Property DTS:Name="TransactionOption">1</DTS:Property><DTS:Property DTS:Name="DelayValidation">0</DTS:Property>
+<DTS:LoggingOptions><DTS:Property DTS:Name="LoggingMode">0</DTS:Property><DTS:Property DTS:Name="FilterKind">1</DTS:Property><DTS:Property DTS:Name="EventFilter" DTS:DataType="8"></DTS:Property></DTS:LoggingOptions><DTS:Property DTS:Name="ObjectName">Change Header, Rename with latest period and Zip file</DTS:Property><DTS:Property DTS:Name="DTSID">{f3f34d67-70d8-4642-bcf8-45cbd837565d}</DTS:Property><DTS:Property DTS:Name="Description">Script Task</DTS:Property><DTS:Property DTS:Name="CreationName">Microsoft.SqlServer.Dts.Tasks.ScriptTask.ScriptTask, Microsoft.SqlServer.ScriptTask, Version=9.0.242.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91</DTS:Property><DTS:Property DTS:Name="DisableEventHandlers">0</DTS:Property><DTS:ObjectData><ScriptProject Name="ScriptTask_be7e152b471b478a9133b082e1194c38" Language="Microsoft Visual Basic .NET" EntryPoint="ScriptMain" SaveBinaries="True" ReadOnlyVariables="" ReadWriteVariables="" OptimizeScriptExecution="True"><ProjectItem Name="dts://Scripts/ScriptTask_be7e152b471b478a9133b082e1194c38/ScriptTask_be7e152b471b478a9133b082e1194c38.vsaproj">
+<![CDATA[<VisualStudioProject>
+    <VisualBasic
+        Version = "8.0.50727.42"
+        MVID = "{658F1517-03EE-4633-B138-AB6698EFB934}"
+        ProjectType = "Local"
+        ProductVersion = "8.0.50727"
+        SchemaVersion = "2.0"
+    >
+        <Build>
+            <Settings
+                DefaultNamespace = "ScriptTask_be7e152b471b478a9133b082e1194c38"
+                OptionCompare = "0"
+                OptionExplicit = "1"
+                OptionStrict = "1"
+                ProjectName = "ScriptTask_be7e152b471b478a9133b082e1194c38"
+                ReferencePath = "C:\WINDOWS\assembly\GAC_MSIL\Microsoft.SqlServer.ScriptTask\9.0.242.0__89845dcd8080cc91\;C:\WINDOWS\assembly\GAC_MSIL\Microsoft.SqlServer.ManagedDTS\9.0.242.0__89845dcd8080cc91\"
+                TreatWarningsAsErrors = "false"
+                WarningLevel = "1"
+                RootNamespace = "ScriptTask_be7e152b471b478a9133b082e1194c38"
+            >
+                <Config
+                    Name = "Debug"
+                    DefineConstants = ""
+                    DefineDebug = "true"
+                    DefineTrace = "true"
+                    DebugSymbols = "true"
+                    RemoveIntegerChecks = "false"
+                />
+            </Settings>
+            <References>
+                <Reference
+                    Name = "System"
+                    AssemblyName = "System"
+                />
+                <Reference
+                    Name = "System.Data"
+                    AssemblyName = "System.Data"
+                />
+                <Reference
+                    Name = "Microsoft.SqlServer.ScriptTask"
+                    AssemblyName = "Microsoft.SqlServer.ScriptTask"
+                />
+                <Reference
+                    Name = "Microsoft.SqlServer.ManagedDTS"
+                    AssemblyName = "Microsoft.SqlServer.ManagedDTS"
+                />
+            </References>
+            <Imports>
+                <Import Namespace = "Microsoft.VisualBasic" />
+            </Imports>
+        </Build>
+        <Files>
+            <Include>
+                <File
+                    RelPath = "ScriptMain"
+                    BuildAction = "Compile"
+                    ItemType = "2"
+                />
+                <VSAAppGlobal
+                    VSAAppGlobalName = "Dts"
+                    ItemType = "1"
+                    VSAAppGlobalType = "Microsoft.SqlServer.Dts.Tasks.ScriptTask.ScriptObjectModel"
+                />
+            </Include>
+        </Files>
+        <Folders>
+            <Include/>
+        </Folders>
+    </VisualBasic>
+</VisualStudioProject>]]></ProjectItem><ProjectItem Name="dts://Scripts/ScriptTask_be7e152b471b478a9133b082e1194c38/ScriptMain.vsaitem">
+<![CDATA[' Microsoft SQL Server Integration Services Script Task
+' Write scripts using Microsoft Visual Basic
+' The ScriptMain class is the entry point of the Script Task.
+
+Imports System
+Imports System.Data
+Imports System.Math
+Imports Microsoft.SqlServer.Dts.Runtime
+Imports System.Data.SqlClient
+Imports System.IO.Compression
+Imports System.IO
+Imports System.Diagnostics
+
+
+Public Class ScriptMain
+
+	' The execution engine calls this method when the task executes.
+	' To access the object model, use the Dts object. Connections, variables, events,
+	' and logging features are available as static members of the Dts class.
+	' Before returning from this method, set the value of Dts.TaskResult to indicate success or failure.
+	' 
+	' To open Code and Text Editor Help, press F1.
+	' To open Object Browser, press Ctrl+Alt+J.
+
+	Public Sub Main()
+		'
+		' Add your code here
+        '
+        Dim conn As SqlClient.SqlConnection
+        Dim command As SqlClient.SqlCommand
+
+        conn = New SqlClient.SqlConnection("Data Source=BDDH01-S0005\SQ2K5T_02;Initial Catalog=77822_SHIRE_STAGING;Integrated Security=false;User ID=sa;Password=Pa$$w0rd")
+        conn.Open()
+
+        Dim cmdText As String = "select max(period) from dbo.SSFD_77822_UK_HOSPITAL_NATIONAL_MONTHLY_DATA_EXPORT"
+
+        Dim SQLCmd As SqlCommand = New SqlCommand(cmdText, conn)
+        Dim rd As SqlDataReader = SQLCmd.ExecuteReader()
+
+        Dim sDate As String
+
+        While rd.Read()
+            sDate = rd.GetString(0)
+        End While
+
+        Dim sReader As New System.IO.StreamReader("D:\customers\77822_Shire_Staging\Data\United Kingdom\HOS_NAT\Output\IMS_UK_HPA_NATIONAL_HOSPITAL_SFF01.TXT")
+        Dim sWriter As System.IO.StreamWriter
+
+        Dim rev As Integer
+        For rev = 1 To 9
+            If System.IO.File.Exists("D:\customers\77822_Shire_Staging\Data\United Kingdom\HOS_NAT\Output\IMS_UK_HPA_NATIONAL_HOSPITAL_SFF01_" + sDate + "_0" + rev.ToString() + ".TXT") Then
+            Else
+                Exit For
+            End If
+        Next
+
+        sWriter = New System.IO.StreamWriter("D:\customers\77822_Shire_Staging\Data\United Kingdom\HOS_NAT\Output\IMS_UK_HPA_NATIONAL_HOSPITAL_SFF01_" + sDate + "_0" + rev.ToString() + ".TXT", False, System.Text.Encoding.Unicode)
+
+        Dim i As Int64 = 0
+        Do
+            Dim sHeader As String
+            sHeader = sReader.ReadLine
+
+            If i = 0 Then
+                sHeader = Replace(sHeader, Chr(34), "")
+            End If
+
+            sWriter.Write(sHeader & vbCrLf)
+
+            i = i + 1
+        Loop Until sReader.Peek = -1
+
+        sWriter.Close()
+        sReader.Close()
+
+
+        Dim program As New Process()
+        program.StartInfo.WorkingDirectory = "D:\customers\77822_Shire_Staging\Data\United Kingdom\HOS_NAT\Output"
+        program.StartInfo.FileName = "zip.exe"
+        program.StartInfo.Arguments = "-r IMS_UK_HPA_NATIONAL_HOSPITAL_" & sDate & "_0" & rev.ToString() & ".zip . -i IMS_UK_HPA_NATIONAL_HOSPITAL_SFF01_" & sDate & "_0" & rev.ToString() & ".TXT"
+        program.Start()
+
+        File.Delete("D:\customers\77822_Shire_Staging\Data\United Kingdom\HOS_NAT\Output\IMS_UK_HPA_NATIONAL_HOSPITAL_SFF01.TXT")
+
+        Dts.TaskResult = Dts.Results.Success
+    End Sub
+
+
+End Class]]></ProjectItem><BinaryItem Name="dts://Scripts/ScriptTask_be7e152b471b478a9133b082e1194c38/ScriptTask_be7e152b471b478a9133b082e1194c38.pdb">TWljcm9zb2Z0IEMvQysrIE1TRiA3LjAwDQoaRFMAAAAAAgAAAgAAAF8AAACwAQAAAAAAAFwAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADA
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////zgA
+AAAAAAAAAAAA4P//////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////C8ox
+ATgAAAAAEAAAABAAAAAAAAAVAP//BAAAAAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJQuMQFd
+3+BGAQAAACqCOgO/BoBOgiS4WafBk1oAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC8oxATgA
+AAAAEAAAABAAAAAAAAD/////BAAAAAOAAAAAAAAA/////wAAAAD/////AAAAAP////8AAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC40BI6bMLQ
+EbRCAKAkSh3SxEVLmenm0hGQPwDAT6MCoQudhloRZtMRvSoAAPgISb1gpm5Az2SCTLbwQtSBcqeZ
+EAAAAAAAAAD+EKnNQaa0vRwH23opHYB1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALjQEjpswtAR
+tEIAoCRKHdLERUuZ6ebSEZA/AMBPowKhC52GWhFm0xG9KgAA+AhJvWCmbkDPZIJMtvBC1IFyp5kQ
+AAAAAAAAAELAVzaXMBQUyXVjUAs7sBUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuNASOmzC0BG0
+QgCgJEod0sRFS5np5tIRkD8AwE+jAqELnYZaEWbTEb0qAAD4CEm9YKZuQM9kgky28ELUgXKnmRAA
+AAAAAAAA8ESyRsn2tv0/ZJ3WwRASOgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEIE
+AAAAAAAAQgQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7v/u8BAAAAOwEA
+AAAxN2QxNGY1Yy1hMzM3LTQ5NzgtODI4MS01MzQ5MzM3OGMxMDcxLnZiAABkdHM6Ly9TY3JpcHRz
+L1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgvX1N0YXJ0dXAAZHRz
+Olxcc2NyaXB0c1xzY3JpcHR0YXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4XF9z
+dGFydHVwAGR0czovL1NjcmlwdHMvU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJl
+MTE5NGMzOC9TY3JpcHRNYWluAGR0czpcXHNjcmlwdHNcc2NyaXB0dGFza19iZTdlMTUyYjQ3MWI0
+NzhhOTEzM2IwODJlMTE5NGMzOFxzY3JpcHRtYWluAAsAAAAAAAAAKgAAAG4AAAABAAAAKwAAALEA
+AAD2AAAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAG+IwAdgAAAD00zOo
+DvHHAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAAAAG
+AAAAAQAAAAcAAAAAAAAA9gAAACgAAAAb4jABCrG2T1gAAACxAAAAKgAAAPYAAABlAAAAAAAAAAAA
+AAABAAAAKAAAABviMAHzqpzeWAAAAAEAAAAqAAAAAQAAAGUAAAAAAAAAAAAAAG4AAAAoAAAAG+Iw
+AUSqBMRYAAAAKwAAACoAAABuAAAAZQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAALgAqEQAAAACM
+BQAAAAAAABQCAAAAAAAAAAAAACEAAAYuAgAAAQAAAABNYWluAAAAFgADEQQAAACIBQAAFAIAAC4C
+AAABAAAAOgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9V
+dGlsaXR5AAAARgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4
+Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAAFgAkEVN5c3RlbS5EaWFnbm9zdGljcwAADgAkEVN5c3Rl
+bS5JTwAAABoAJBFTeXN0ZW0uSU8uQ29tcHJlc3Npb24AAAAaACQRU3lzdGVtLkRhdGEuU3FsQ2xp
+ZW50AAAAIgAkEU1pY3Jvc29mdC5TcWxTZXJ2ZXIuRHRzLlJ1bnRpbWUADgAkEVN5c3RlbS5NYXRo
+AA4AJBFTeXN0ZW0uRGF0YQAKACQRU3lzdGVtAAAuACQRU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0
+NzhhOTEzM2IwODJlMTE5NGMzOAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNi
+MDgyZTExOTRjMzguTXkuTXlQcm9qZWN0AAAAGgAkEU1pY3Jvc29mdC5WaXN1YWxCYXNpYwAAACYA
+JBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnN0YW50cwAAAAAmACQRI01pY3Jvc29mdC5WaXN1
+YWxCYXNpYy5Db252ZXJzaW9uAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRGF0ZUFuZFRp
+bWUAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbGVTeXN0ZW0AAAAmACQRI01pY3Jvc29m
+dC5WaXN1YWxCYXNpYy5GaW5hbmNpYWwAAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuR2xv
+YmFscwAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW5mb3JtYXRpb24AACYAJBEjTWljcm9z
+b2Z0LlZpc3VhbEJhc2ljLkludGVyYWN0aW9uAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5W
+Qk1hdGgAAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5TdHJpbmdzAAAuACQRU2NyaXB0VGFz
+a19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOABCACQRU2NyaXB0VGFza19iZTdlMTUy
+YjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRpb25PYmplY3RzABoAIBEAAAAAIwAA
+EQAAAAAAAAAAY21kVGV4dAAaACARAQAAACQAABEAAAAAAAAAAGNvbW1hbmQAGgAgEQIAAAAlAAAR
+AAAAAAAAAABjb25uAAAAABYAIBEDAAAAJgAAEQAAAAAAAAAAaQAAABoAIBEEAAAAJwAAEQAAAAAA
+AAAAcHJvZ3JhbQAWACARBQAAACgAABEAAAAAAAAAAHJkAAAWACARBgAAACkAABEAAAAAAAAAAHJl
+dgAaACARBwAAACoAABEAAAAAAAAAAHNEYXRlAAAAGgAgEQgAAAArAAARAAAAAAAAAABTUUxDbWQA
+ABoAIBEJAAAALAAAEQAAAAAAAAAAc1JlYWRlcgAaACARCgAAAC0AABEAAAAAAAAAAHNXcml0ZXIA
+IgAgEQwAAAAuAAARAAAAAAAABABWQiR0X2FycmF5JFMwAAAAFgADETQAAACEBQAAPgAAACoDAAAB
+AAAAGgAgEQsAAAAvAAARAAAAAAAAAABzSGVhZGVyAAIABgACAAYAAgAGAPIAAADgAQAALgIAAAEA
+AQAUAgAAAAAAACYAAADUAQAAAAAAABkAAIABAAAAIAAAgAwAAAAhAACAEwAAACMAAIAZAAAAJQAA
+gCIAAAAmAACAKwAAAO7v/oAtAAAAKwAAgDcAAAAsAACAOAAAACoAAIBBAAAALgAAgE0AAAAyAACA
+UAAAADMAAICZAAAANAAAgJoAAAA1AACAnQAAADYAAICeAAAANwAAgKUAAADu7/6AqwAAADkAAID4
+AAAAOwAAgPsAAAA8AACA/AAAAD4AAIAFAQAAQAAAgAoBAABBAACAIAEAAEIAAIAhAQAARAAAgDUB
+AABGAACAOgEAAEcAAIBEAQAASQAAgEwBAABKAACAVAEAAE0AAIBbAQAATgAAgG0BAABPAACAfwEA
+AFAAAID0AQAAUQAAgPwBAABTAACABwIAAFUAAIATAgAAVgAAgAIAEwAJAKwACQAUAA0AcgANAEEA
+DQA5AAEAAgANACQACQASAAkAGAANAKAACQAZAA0AvgANABEAEQAZAA0AEwAJAA0AAQACAAkA5gAN
+ABsACQALAA0AJwANABoAEQA4AA0AEwANACwADQAWAAkAJQAJABgACQAYAA0AJQAJAHMACQAvAAkA
+xAAJABgACQCCAAkALQAFAAwA9AAAAAgAAACxAAAAAAAAAAgAAAAAAAAAFAAAAAQAABJlBAABAhwE
+AAEIHAUAAQESbQQHARJtBQABARIhBAcBEiUDBwEYBCABHA4DBwEcByACAQ4SgIEFIAASgIkEIAEO
+CAMgAAIFAAEOHQ4EAAECDgUAABKAoQggAwEOAhKAoQsABg4ODg4ICAQAAAA2ACoRAAAAAGADAAAA
+AAAADQAAAAAAAAAAAAAAEQAABhoBAAABAAAAAFN0b3BEZWJ1Z2dpbmcAABYAAxEEAAAAXAMAAA0A
+AAAaAQAAAQAAADoAJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMz
+OC5fVXRpbGl0eQAAAEYAJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5
+NGMzOC5fQXBwbGljYXRpb25PYmplY3RzAAAAAC4AJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3
+OGE5MTMzYjA4MmUxMTk0YzM4AD4AJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2Iw
+ODJlMTE5NGMzOC5NeS5NeVByb2plY3QAAAAaACQRTWljcm9zb2Z0LlZpc3VhbEJhc2ljAAAAJgAk
+ESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29uc3RhbnRzAAAAACYAJBEjTWljcm9zb2Z0LlZpc3Vh
+bEJhc2ljLkNvbnZlcnNpb24AAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5EYXRlQW5kVGlt
+ZQAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmlsZVN5c3RlbQAAACYAJBEjTWljcm9zb2Z0
+LlZpc3VhbEJhc2ljLkZpbmFuY2lhbAAAAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5HbG9i
+YWxzAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbmZvcm1hdGlvbgAAJgAkESNNaWNyb3Nv
+ZnQuVmlzdWFsQmFzaWMuSW50ZXJhY3Rpb24AACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlZC
+TWF0aAAAACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlN0cmluZ3MAAC4AJBFTY3JpcHRUYXNr
+X2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4AEIAJBFTY3JpcHRUYXNrX2JlN2UxNTJi
+NDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAgAGAAIABgA6ACoR
+AAAAAMQGAAAAAAAAHAAAAAAAAAAAAAAAEgAABicBAAABAAAAAFJlbGVhc2VJZkNvbU9iamVjdAAW
+AAMRZAMAAMAGAAAcAAAAJwEAAAEAAAA6ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkx
+MzNiMDgyZTExOTRjMzguX1V0aWxpdHkAAABGACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4
+YTkxMzNiMDgyZTExOTRjMzguX0FwcGxpY2F0aW9uT2JqZWN0cwAAAAAuACQRU2NyaXB0VGFza19i
+ZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0
+NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkuTXlQcm9qZWN0AAAAGgAkEU1pY3Jvc29mdC5WaXN1
+YWxCYXNpYwAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnN0YW50cwAAAAAmACQRI01p
+Y3Jvc29mdC5WaXN1YWxCYXNpYy5Db252ZXJzaW9uAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFz
+aWMuRGF0ZUFuZFRpbWUAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbGVTeXN0ZW0AAAAm
+ACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5GaW5hbmNpYWwAAAAAIgAkESNNaWNyb3NvZnQuVmlz
+dWFsQmFzaWMuR2xvYmFscwAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW5mb3JtYXRpb24A
+ACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkludGVyYWN0aW9uAAAiACQRI01pY3Jvc29mdC5W
+aXN1YWxCYXNpYy5WQk1hdGgAAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5TdHJpbmdzAAAu
+ACQRU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOABCACQRU2NyaXB0
+VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRpb25PYmplY3Rz
+AAIABgACAAYANgAqEQAAAAA8CgAAAAAAACEAAAAAAAAAAAAAABMAAAZDAQAAAQAAAABSZWxlYXNl
+T2JqZWN0AAAWAAMRyAYAADgKAAAhAAAAQwEAAAEAAAA6ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0
+NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguX1V0aWxpdHkAAABGACQRI1NjcmlwdFRhc2tfYmU3ZTE1
+MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguX0FwcGxpY2F0aW9uT2JqZWN0cwAAAAAuACQRU2Ny
+aXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOAA+ACQRI1NjcmlwdFRhc2tf
+YmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkuTXlQcm9qZWN0AAAAGgAkEU1pY3Jv
+c29mdC5WaXN1YWxCYXNpYwAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnN0YW50cwAA
+AAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5Db252ZXJzaW9uAAAAJgAkESNNaWNyb3NvZnQu
+VmlzdWFsQmFzaWMuRGF0ZUFuZFRpbWUAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbGVT
+eXN0ZW0AAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5GaW5hbmNpYWwAAAAAIgAkESNNaWNy
+b3NvZnQuVmlzdWFsQmFzaWMuR2xvYmFscwAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW5m
+b3JtYXRpb24AACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkludGVyYWN0aW9uAAAiACQRI01p
+Y3Jvc29mdC5WaXN1YWxCYXNpYy5WQk1hdGgAAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5T
+dHJpbmdzAAAuACQRU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOABC
+ACQRU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRp
+b25PYmplY3RzABYAIBEAAAAAHgAAEQAAAAAAAAAAZQAAAAIABgACAAYA8gAAADwAAAAaAQAAAQAB
+AA0AAAAAAAAAAwAAADAAAAAAAAAABwAAgAEAAAAIAACADAAAAAkAAIACABwAAwAwAAIACQDyAAAA
+VAAAACcBAAABAAEAHAAAAAAAAAAFAAAASAAAAAAAAAAKAACAAQAAAAsAAIAOAAAADAAAgBoAAAAN
+AACAGwAAAA4AAIACAC0AAwBCAAQAPgADAAkAAgAJAPIAAABsAAAAQwEAAAEAAQAhAAAAAAAAAAcA
+AABgAAAAAAAAAA8AAIABAAAAEAAAgAIAAAARAACADgAAAO7v/oAXAAAAEgAAgB8AAAATAACAIAAA
+ABQAAIACACcAAwAGAAQAGQABAAIAAwAeAAMACgACAAkA9AAAAAgAAAArAAAAAAAAABgAAAAsAAAA
+SAAAAGAAAACEAAAAnAAAALgAAAAAAAAA/////wAAAAD//////////xcAAAAAAAAA/////wAAAAD/
+/////////8QCAAAAAAAA/////wAAAAD//////////7kCAAAAAAAA/////wAAAAD//////////4IB
+AAAAAAAA/////wAAAAD/////AAAAAP////8AAAAA/////wQAAAAyACoRAAAAAFwDAAAAAAAACQAA
+AAAAAAAAAAAAFQAABmQBAAABAAAAAFNldFNpdGUAAAAAFgADEQQAAABYAwAACQAAAGQBAAABAAAA
+OgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9VdGlsaXR5
+AAAARgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBs
+aWNhdGlvbk9iamVjdHMAAAAALgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgy
+ZTExOTRjMzgAPgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4
+Lk15Lk15UHJvamVjdAAAABoAJBFNaWNyb3NvZnQuVmlzdWFsQmFzaWMAAAAmACQRI01pY3Jvc29m
+dC5WaXN1YWxCYXNpYy5Db25zdGFudHMAAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29u
+dmVyc2lvbgAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkRhdGVBbmRUaW1lAAAmACQRI01p
+Y3Jvc29mdC5WaXN1YWxCYXNpYy5GaWxlU3lzdGVtAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFz
+aWMuRmluYW5jaWFsAAAAACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkdsb2JhbHMAACYAJBEj
+TWljcm9zb2Z0LlZpc3VhbEJhc2ljLkluZm9ybWF0aW9uAAAmACQRI01pY3Jvc29mdC5WaXN1YWxC
+YXNpYy5JbnRlcmFjdGlvbgAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuVkJNYXRoAAAAIgAk
+ESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuU3RyaW5ncwAALgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0
+NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAQgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkx
+MzNiMDgyZTExOTRjMzguX0FwcGxpY2F0aW9uT2JqZWN0cwACAAYAAgAGADIAKhEAAAAAuAYAAAAA
+AAAJAAAAAAAAAAAAAAAWAAAGbQEAAAEAAAAAU2V0VGl0bGUAAAAWAAMRYAMAALQGAAAJAAAAbQEA
+AAEAAAA6ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguX1V0
+aWxpdHkAAABGACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgu
+X0FwcGxpY2F0aW9uT2JqZWN0cwAAAAAuACQRU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEz
+M2IwODJlMTE5NGMzOAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTEx
+OTRjMzguTXkuTXlQcm9qZWN0AAAAGgAkEU1pY3Jvc29mdC5WaXN1YWxCYXNpYwAAACYAJBEjTWlj
+cm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnN0YW50cwAAAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNp
+Yy5Db252ZXJzaW9uAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRGF0ZUFuZFRpbWUAACYA
+JBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbGVTeXN0ZW0AAAAmACQRI01pY3Jvc29mdC5WaXN1
+YWxCYXNpYy5GaW5hbmNpYWwAAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuR2xvYmFscwAA
+JgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW5mb3JtYXRpb24AACYAJBEjTWljcm9zb2Z0LlZp
+c3VhbEJhc2ljLkludGVyYWN0aW9uAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5WQk1hdGgA
+AAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5TdHJpbmdzAAAuACQRU2NyaXB0VGFza19iZTdl
+MTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOABCACQRU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0
+NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRpb25PYmplY3RzAAIABgACAAYAMgAqEQAAAAAU
+CgAAAAAAAA8AAAAAAAAAAAAAABcAAAZ2AQAAAQAAAABTZXRIYW5kbGUAABYAAxG8BgAAEAoAAA8A
+AAB2AQAAAQAAADoAJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMz
+OC5fVXRpbGl0eQAAAEYAJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5
+NGMzOC5fQXBwbGljYXRpb25PYmplY3RzAAAAAC4AJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3
+OGE5MTMzYjA4MmUxMTk0YzM4AD4AJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2Iw
+ODJlMTE5NGMzOC5NeS5NeVByb2plY3QAAAAaACQRTWljcm9zb2Z0LlZpc3VhbEJhc2ljAAAAJgAk
+ESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29uc3RhbnRzAAAAACYAJBEjTWljcm9zb2Z0LlZpc3Vh
+bEJhc2ljLkNvbnZlcnNpb24AAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5EYXRlQW5kVGlt
+ZQAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmlsZVN5c3RlbQAAACYAJBEjTWljcm9zb2Z0
+LlZpc3VhbEJhc2ljLkZpbmFuY2lhbAAAAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5HbG9i
+YWxzAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbmZvcm1hdGlvbgAAJgAkESNNaWNyb3Nv
+ZnQuVmlzdWFsQmFzaWMuSW50ZXJhY3Rpb24AACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlZC
+TWF0aAAAACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlN0cmluZ3MAAC4AJBFTY3JpcHRUYXNr
+X2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4AEIAJBFTY3JpcHRUYXNrX2JlN2UxNTJi
+NDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAgAGAAIABgA+ACoR
+AAAAAHwNAAAAAAAAFAAAAAAAAAAAAAAAGAAABoUBAAABAAAAAFB1c2hWQkhvc3RJbnRvTGlicmFy
+eQAAFgADERgKAAB4DQAAFAAAAIUBAAABAAAAOgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3
+OGE5MTMzYjA4MmUxMTk0YzM4Ll9VdGlsaXR5AAAARgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcx
+YjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAALgAkEVNjcmlwdFRh
+c2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAPgAkESNTY3JpcHRUYXNrX2JlN2Ux
+NTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAABoAJBFNaWNyb3NvZnQu
+VmlzdWFsQmFzaWMAAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5Db25zdGFudHMAAAAAJgAk
+ESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29udmVyc2lvbgAAACYAJBEjTWljcm9zb2Z0LlZpc3Vh
+bEJhc2ljLkRhdGVBbmRUaW1lAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5GaWxlU3lzdGVt
+AAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmluYW5jaWFsAAAAACIAJBEjTWljcm9zb2Z0
+LlZpc3VhbEJhc2ljLkdsb2JhbHMAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkluZm9ybWF0
+aW9uAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbnRlcmFjdGlvbgAAIgAkESNNaWNyb3Nv
+ZnQuVmlzdWFsQmFzaWMuVkJNYXRoAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuU3RyaW5n
+cwAALgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAQgAkEVNj
+cmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguX0FwcGxpY2F0aW9uT2Jq
+ZWN0cwACAAYAAgAGADoAKhEAAAAABBEAAAAAAAArAAAAAAAAAAAAAAAZAAAGmQEAAAEAAAAAR2V0
+UGFyZW50V2luZG93AAAAABYAAxGADQAAABEAACsAAACZAQAAAQAAADoAJBEjU2NyaXB0VGFza19i
+ZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fVXRpbGl0eQAAAEYAJBEjU2NyaXB0VGFz
+a19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRpb25PYmplY3RzAAAA
+AC4AJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4AD4AJBEjU2Ny
+aXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5NeS5NeVByb2plY3QAAAAa
+ACQRTWljcm9zb2Z0LlZpc3VhbEJhc2ljAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29u
+c3RhbnRzAAAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnZlcnNpb24AAAAmACQRI01p
+Y3Jvc29mdC5WaXN1YWxCYXNpYy5EYXRlQW5kVGltZQAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFz
+aWMuRmlsZVN5c3RlbQAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbmFuY2lhbAAAAAAi
+ACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5HbG9iYWxzAAAmACQRI01pY3Jvc29mdC5WaXN1YWxC
+YXNpYy5JbmZvcm1hdGlvbgAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW50ZXJhY3Rpb24A
+ACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlZCTWF0aAAAACIAJBEjTWljcm9zb2Z0LlZpc3Vh
+bEJhc2ljLlN0cmluZ3MAAC4AJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUx
+MTk0YzM4AEIAJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9B
+cHBsaWNhdGlvbk9iamVjdHMAIgAgEQAAAAAfAAARAAAAAAAAAABHZXRQYXJlbnRXaW5kb3cAAgAG
+AAIABgA2ACoRAAAAAIgUAAAAAAAACwAAAAAAAAAAAAAAGgAABsQBAAABAAAAAEdldFdpbmRvd1Rp
+dGxlABYAAxEIEQAAhBQAAAsAAADEAQAAAQAAADoAJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0
+NzhhOTEzM2IwODJlMTE5NGMzOC5fVXRpbGl0eQAAAEYAJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3
+MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRpb25PYmplY3RzAAAAAC4AJBFTY3JpcHRU
+YXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4AD4AJBEjU2NyaXB0VGFza19iZTdl
+MTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5NeS5NeVByb2plY3QAAAAaACQRTWljcm9zb2Z0
+LlZpc3VhbEJhc2ljAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29uc3RhbnRzAAAAACYA
+JBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnZlcnNpb24AAAAmACQRI01pY3Jvc29mdC5WaXN1
+YWxCYXNpYy5EYXRlQW5kVGltZQAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmlsZVN5c3Rl
+bQAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbmFuY2lhbAAAAAAiACQRI01pY3Jvc29m
+dC5WaXN1YWxCYXNpYy5HbG9iYWxzAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbmZvcm1h
+dGlvbgAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW50ZXJhY3Rpb24AACIAJBEjTWljcm9z
+b2Z0LlZpc3VhbEJhc2ljLlZCTWF0aAAAACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlN0cmlu
+Z3MAAC4AJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4AEIAJBFT
+Y3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9i
+amVjdHMAIgAgEQAAAAAgAAARAAAAAAAAAABHZXRXaW5kb3dUaXRsZQAAAgAGAAIABgAyACoRAAAA
+AAAYAAAAAAAACwAAAAAAAAAAAAAAGwAABs8BAAABAAAAAGdldF9IYW5kbGUAFgADEYwUAAD8FwAA
+CwAAAM8BAAABAAAAOgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0
+YzM4Ll9VdGlsaXR5AAAARgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUx
+MTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAALgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFi
+NDc4YTkxMzNiMDgyZTExOTRjMzgAPgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMz
+YjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAABoAJBFNaWNyb3NvZnQuVmlzdWFsQmFzaWMAAAAm
+ACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5Db25zdGFudHMAAAAAJgAkESNNaWNyb3NvZnQuVmlz
+dWFsQmFzaWMuQ29udmVyc2lvbgAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkRhdGVBbmRU
+aW1lAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5GaWxlU3lzdGVtAAAAJgAkESNNaWNyb3Nv
+ZnQuVmlzdWFsQmFzaWMuRmluYW5jaWFsAAAAACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkds
+b2JhbHMAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkluZm9ybWF0aW9uAAAmACQRI01pY3Jv
+c29mdC5WaXN1YWxCYXNpYy5JbnRlcmFjdGlvbgAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMu
+VkJNYXRoAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuU3RyaW5ncwAALgAkEVNjcmlwdFRh
+c2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAQgAkEVNjcmlwdFRhc2tfYmU3ZTE1
+MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguX0FwcGxpY2F0aW9uT2JqZWN0cwAaACARAAAAACEA
+ABEAAAAAAAAAAEhhbmRsZQAAAgAGAAIABgA2ACoRAAAAAGAbAAAAAAAAAgAAAAAAAAAAAAAAHAAA
+BtoBAAABAAAAAFN0YXJ0dXBIZWxwZXIAABYAAxEEGAAAXBsAAAIAAADaAQAAAQAAADoAJBEjU2Ny
+aXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fVXRpbGl0eQAAAEYAJBEj
+U2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRpb25P
+YmplY3RzAAAAAC4AJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4
+AD4AJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5NeS5NeVBy
+b2plY3QAAAAaACQRTWljcm9zb2Z0LlZpc3VhbEJhc2ljAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFs
+QmFzaWMuQ29uc3RhbnRzAAAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnZlcnNpb24A
+AAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5EYXRlQW5kVGltZQAAJgAkESNNaWNyb3NvZnQu
+VmlzdWFsQmFzaWMuRmlsZVN5c3RlbQAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbmFu
+Y2lhbAAAAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5HbG9iYWxzAAAmACQRI01pY3Jvc29m
+dC5WaXN1YWxCYXNpYy5JbmZvcm1hdGlvbgAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW50
+ZXJhY3Rpb24AACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlZCTWF0aAAAACIAJBEjTWljcm9z
+b2Z0LlZpc3VhbEJhc2ljLlN0cmluZ3MAAC4AJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5
+MTMzYjA4MmUxMTk0YzM4AEIAJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUx
+MTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAgAGAAIABgA2ACoRAAAAAMAeAAAAAAAAEwAAAAAA
+AAAAAAAAHQAABtwBAAABAAAAAFNodXRkb3duSGVscGVyABYAAxFkGwAAvB4AABMAAADcAQAAAQAA
+ADoAJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fVXRpbGl0
+eQAAAEYAJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBw
+bGljYXRpb25PYmplY3RzAAAAAC4AJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4
+MmUxMTk0YzM4AD4AJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMz
+OC5NeS5NeVByb2plY3QAAAAaACQRTWljcm9zb2Z0LlZpc3VhbEJhc2ljAAAAJgAkESNNaWNyb3Nv
+ZnQuVmlzdWFsQmFzaWMuQ29uc3RhbnRzAAAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkNv
+bnZlcnNpb24AAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5EYXRlQW5kVGltZQAAJgAkESNN
+aWNyb3NvZnQuVmlzdWFsQmFzaWMuRmlsZVN5c3RlbQAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJh
+c2ljLkZpbmFuY2lhbAAAAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5HbG9iYWxzAAAmACQR
+I01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbmZvcm1hdGlvbgAAJgAkESNNaWNyb3NvZnQuVmlzdWFs
+QmFzaWMuSW50ZXJhY3Rpb24AACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlZCTWF0aAAAACIA
+JBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlN0cmluZ3MAAC4AJBFTY3JpcHRUYXNrX2JlN2UxNTJi
+NDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4AEIAJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5
+MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAgAGAAIABgAyACoRAAAAADgiAAAA
+AAAAIwAAAAAAAAAAAAAAHgAABu8BAAABAAAAAFN0YXJ0dXAAAAAAFgADEcQeAAA0IgAAIwAAAO8B
+AAABAAAAOgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9V
+dGlsaXR5AAAARgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4
+Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAALgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkx
+MzNiMDgyZTExOTRjMzgAPgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUx
+MTk0YzM4Lk15Lk15UHJvamVjdAAAABoAJBFNaWNyb3NvZnQuVmlzdWFsQmFzaWMAAAAmACQRI01p
+Y3Jvc29mdC5WaXN1YWxCYXNpYy5Db25zdGFudHMAAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFz
+aWMuQ29udmVyc2lvbgAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkRhdGVBbmRUaW1lAAAm
+ACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5GaWxlU3lzdGVtAAAAJgAkESNNaWNyb3NvZnQuVmlz
+dWFsQmFzaWMuRmluYW5jaWFsAAAAACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkdsb2JhbHMA
+ACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkluZm9ybWF0aW9uAAAmACQRI01pY3Jvc29mdC5W
+aXN1YWxCYXNpYy5JbnRlcmFjdGlvbgAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuVkJNYXRo
+AAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuU3RyaW5ncwAALgAkEVNjcmlwdFRhc2tfYmU3
+ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAQgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFi
+NDc4YTkxMzNiMDgyZTExOTRjMzguX0FwcGxpY2F0aW9uT2JqZWN0cwAaACARAAAAACIAABEAAAAA
+AAAAAFRlbXBPYmoAAgAGAAIABgAyACoRAAAAAJQlAAAAAAAAHAAAAAAAAAAAAAAAHwAABhICAAAB
+AAAAAFNodXRkb3duAAAAFgADETwiAACQJQAAHAAAABICAAABAAAAOgAkESNTY3JpcHRUYXNrX2Jl
+N2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9VdGlsaXR5AAAARgAkESNTY3JpcHRUYXNr
+X2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAA
+LgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAPgAkESNTY3Jp
+cHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAABoA
+JBFNaWNyb3NvZnQuVmlzdWFsQmFzaWMAAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5Db25z
+dGFudHMAAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29udmVyc2lvbgAAACYAJBEjTWlj
+cm9zb2Z0LlZpc3VhbEJhc2ljLkRhdGVBbmRUaW1lAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNp
+Yy5GaWxlU3lzdGVtAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmluYW5jaWFsAAAAACIA
+JBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkdsb2JhbHMAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJh
+c2ljLkluZm9ybWF0aW9uAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbnRlcmFjdGlvbgAA
+IgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuVkJNYXRoAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFs
+QmFzaWMuU3RyaW5ncwAALgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTEx
+OTRjMzgAQgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguX0Fw
+cGxpY2F0aW9uT2JqZWN0cwACAAYAAgAGAPIAAAA8AAAAZAEAAAEAAQAJAAAAAAAAAAMAAAAwAAAA
+AAAAACwAAIABAAAALQAAgAgAAAAuAACAAgA3AAMADgACAAkA8gAAADwAAABtAQAAAQABAAkAAAAA
+AAAAAwAAADAAAAAAAAAAMAAAgAEAAAAxAACACAAAADIAAIACADEAAwATAAIACQDyAAAAPAAAAHYB
+AAABAAEADwAAAAAAAAADAAAAMAAAAAAAAAA0AACAAQAAADUAAIAOAAAANgAAgAIAMQADACQAAgAJ
+APIAAABIAAAAhQEAAAEAAQAUAAAAAAAAAAQAAAA8AAAAAAAAADgAAIABAAAAOgAAgAwAAAA7AACA
+EwAAAD0AAIACACQAAwBHAAMAFwACAAkA8gAAAGwAAACZAQAAAQABACsAAAAAAAAABwAAAGAAAAAA
+AAAAQgAAgAEAAABDAACAHgAAAEQAAIAkAAAARQAAgCUAAABGAACAKQAAAEcAAIAqAAAASAAAgAIA
+QQADADAABAASAAMABwAEAA0AAwAJAAIADgDyAAAAPAAAAMQBAAABAAEACwAAAAAAAAADAAAAMAAA
+AAAAAABKAACAAQAAAEsAAIAKAAAATAAAgAIALAADABQAAgAOAPIAAAA8AAAAzwEAAAEAAQALAAAA
+AAAAAAMAAAAwAAAAAAAAAFIAAIABAAAAUwAAgAoAAABUAACAAwAGAAQAEwADAAoA8gAAADAAAADa
+AQAAAQABAAIAAAAAAAAAAgAAACQAAAAAAAAAVwAAgAEAAABYAACAAgATAAIACQDyAAAASAAAANwB
+AAABAAEAEwAAAAAAAAAEAAAAPAAAAAAAAABZAACAAQAAAFoAAIAMAAAAWwAAgBIAAABcAACAAgAU
+AAMAHgADABAAAgAJAPIAAABIAAAA7wEAAAEAAQAjAAAAAAAAAAQAAAA8AAAAAAAAAF0AAIABAAAA
+YQAAgAgAAABjAACAIgAAAGQAAIACABYAAwASAAMAKQACAAkA8gAAAFQAAAASAgAAAQABABwAAAAA
+AAAABQAAAEgAAAAAAAAAZwAAgAEAAABoAACADQAAAGkAAIAUAAAAagAAgBsAAABrAACAAgAXAAMA
+IgADABQAAwATAAIACQD0AAAACAAAACsAAAAAAAAAWAAAANAAAADoAAAAAAEAABgBAAAwAQAASAEA
+AGABAACEAQAAnAEAALwBAADUAQAA9AEAAAwCAAAoAgAAQAIAAFwCAAB0AgAAlAIAAKwCAADEAgAA
+3AIAAPQCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAQAAAAuACoRAAAAALgDAAAAAAAAEQAAAAAAAAAAAAAACAAABm4AAAABAAAA
+AEVxdWFscwAWAAMRBAAAALQDAAARAAAAbgAAAAEAAAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0
+NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkuTXlQcm9qZWN0AAAAOgAkESNTY3JpcHRUYXNrX2Jl
+N2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9VdGlsaXR5AAAARgAkESNTY3JpcHRUYXNr
+X2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAA
+LgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAPgAkESNTY3Jp
+cHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAABoA
+JBFNaWNyb3NvZnQuVmlzdWFsQmFzaWMAAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5Db25z
+dGFudHMAAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29udmVyc2lvbgAAACYAJBEjTWlj
+cm9zb2Z0LlZpc3VhbEJhc2ljLkRhdGVBbmRUaW1lAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNp
+Yy5GaWxlU3lzdGVtAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmluYW5jaWFsAAAAACIA
+JBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkdsb2JhbHMAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJh
+c2ljLkluZm9ybWF0aW9uAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbnRlcmFjdGlvbgAA
+IgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuVkJNYXRoAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFs
+QmFzaWMuU3RyaW5ncwAAMgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTEx
+OTRjMzguTXkAAEIAJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4
+Ll9BcHBsaWNhdGlvbk9iamVjdHMAGgAgEQAAAAAWAAARAAAAAAAAAABFcXVhbHMAAAIABgACAAYA
+NgAqEQAAAAB8BwAAAAAAAAsAAAAAAAAAAAAAAAkAAAZ/AAAAAQAAAABHZXRIYXNoQ29kZQAAAAAW
+AAMRvAMAAHgHAAALAAAAfwAAAAEAAAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkx
+MzNiMDgyZTExOTRjMzguTXkuTXlQcm9qZWN0AAAAOgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcx
+YjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9VdGlsaXR5AAAARgAkESNTY3JpcHRUYXNrX2JlN2UxNTJi
+NDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAALgAkEVNjcmlw
+dFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAPgAkESNTY3JpcHRUYXNrX2Jl
+N2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAABoAJBFNaWNyb3Nv
+ZnQuVmlzdWFsQmFzaWMAAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5Db25zdGFudHMAAAAA
+JgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29udmVyc2lvbgAAACYAJBEjTWljcm9zb2Z0LlZp
+c3VhbEJhc2ljLkRhdGVBbmRUaW1lAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5GaWxlU3lz
+dGVtAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmluYW5jaWFsAAAAACIAJBEjTWljcm9z
+b2Z0LlZpc3VhbEJhc2ljLkdsb2JhbHMAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkluZm9y
+bWF0aW9uAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbnRlcmFjdGlvbgAAIgAkESNNaWNy
+b3NvZnQuVmlzdWFsQmFzaWMuVkJNYXRoAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuU3Ry
+aW5ncwAAMgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkA
+AEIAJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNh
+dGlvbk9iamVjdHMAHgAgEQAAAAAXAAARAAAAAAAAAABHZXRIYXNoQ29kZQACAAYAAgAGADIAKhEA
+AAAAOAsAAAAAAAAPAAAAAAAAAAAAAAAKAAAGigAAAAEAAAAAR2V0VHlwZQAAAAAWAAMRgAcAADQL
+AAAPAAAAigAAAAEAAAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTEx
+OTRjMzguTXkuTXlQcm9qZWN0AAAAOgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMz
+YjA4MmUxMTk0YzM4Ll9VdGlsaXR5AAAARgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5
+MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAALgAkEVNjcmlwdFRhc2tfYmU3
+ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAPgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcx
+YjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAABoAJBFNaWNyb3NvZnQuVmlzdWFs
+QmFzaWMAAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5Db25zdGFudHMAAAAAJgAkESNNaWNy
+b3NvZnQuVmlzdWFsQmFzaWMuQ29udmVyc2lvbgAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2lj
+LkRhdGVBbmRUaW1lAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5GaWxlU3lzdGVtAAAAJgAk
+ESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmluYW5jaWFsAAAAACIAJBEjTWljcm9zb2Z0LlZpc3Vh
+bEJhc2ljLkdsb2JhbHMAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkluZm9ybWF0aW9uAAAm
+ACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbnRlcmFjdGlvbgAAIgAkESNNaWNyb3NvZnQuVmlz
+dWFsQmFzaWMuVkJNYXRoAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuU3RyaW5ncwAAMgAk
+EVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkAAEIAJBFTY3Jp
+cHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVj
+dHMAGgAgEQAAAAAYAAARAAAAAAAAAABHZXRUeXBlAAIABgACAAYAMgAqEQAAAAD4DgAAAAAAAAsA
+AAAAAAAAAAAAAAsAAAaZAAAAAQAAAABUb1N0cmluZwAAABYAAxE8CwAA9A4AAAsAAACZAAAAAQAA
+AD4AJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5NeS5NeVBy
+b2plY3QAAAA6ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgu
+X1V0aWxpdHkAAABGACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRj
+MzguX0FwcGxpY2F0aW9uT2JqZWN0cwAAAAAuACQRU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0Nzhh
+OTEzM2IwODJlMTE5NGMzOAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgy
+ZTExOTRjMzguTXkuTXlQcm9qZWN0AAAAGgAkEU1pY3Jvc29mdC5WaXN1YWxCYXNpYwAAACYAJBEj
+TWljcm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnN0YW50cwAAAAAmACQRI01pY3Jvc29mdC5WaXN1YWxC
+YXNpYy5Db252ZXJzaW9uAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRGF0ZUFuZFRpbWUA
+ACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbGVTeXN0ZW0AAAAmACQRI01pY3Jvc29mdC5W
+aXN1YWxCYXNpYy5GaW5hbmNpYWwAAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuR2xvYmFs
+cwAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW5mb3JtYXRpb24AACYAJBEjTWljcm9zb2Z0
+LlZpc3VhbEJhc2ljLkludGVyYWN0aW9uAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5WQk1h
+dGgAAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5TdHJpbmdzAAAyACQRU2NyaXB0VGFza19i
+ZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5NeQAAQgAkEVNjcmlwdFRhc2tfYmU3ZTE1
+MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguX0FwcGxpY2F0aW9uT2JqZWN0cwAeACARAAAAABkA
+ABEAAAAAAAAAAFRvU3RyaW5nAAAAAAIABgACAAYAOgAqEQAAAADIEgAAAAAAABoAAAAAAAAAAAAA
+AAwAAAakAAAAAQAAAABDcmVhdGVfX0luc3RhbmNlX18AFgADEfwOAADEEgAAGgAAAKQAAAABAAAA
+PgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJv
+amVjdAAAADoAJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5f
+VXRpbGl0eQAAAEYAJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMz
+OC5fQXBwbGljYXRpb25PYmplY3RzAAAAAC4AJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5
+MTMzYjA4MmUxMTk0YzM4AD4AJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJl
+MTE5NGMzOC5NeS5NeVByb2plY3QAAAAaACQRTWljcm9zb2Z0LlZpc3VhbEJhc2ljAAAAJgAkESNN
+aWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29uc3RhbnRzAAAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJh
+c2ljLkNvbnZlcnNpb24AAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5EYXRlQW5kVGltZQAA
+JgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmlsZVN5c3RlbQAAACYAJBEjTWljcm9zb2Z0LlZp
+c3VhbEJhc2ljLkZpbmFuY2lhbAAAAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5HbG9iYWxz
+AAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbmZvcm1hdGlvbgAAJgAkESNNaWNyb3NvZnQu
+VmlzdWFsQmFzaWMuSW50ZXJhY3Rpb24AACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlZCTWF0
+aAAAACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlN0cmluZ3MAADIAJBFTY3JpcHRUYXNrX2Jl
+N2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15AABCACQRU2NyaXB0VGFza19iZTdlMTUy
+YjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRpb25PYmplY3RzACYAIBEAAAAAGgAA
+EQAAAAAAAAAAQ3JlYXRlX19JbnN0YW5jZV9fAAACAAYAAgAGAD4AKhEAAAAAmBYAAAAAAAARAAAA
+AAAAAAAAAAANAAAGvgAAAAEAAAAARGlzcG9zZV9fSW5zdGFuY2VfXwAAAAAWAAMRzBIAAJQWAAAR
+AAAAvgAAAAEAAAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRj
+MzguTXkuTXlQcm9qZWN0AAAAOgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4
+MmUxMTk0YzM4Ll9VdGlsaXR5AAAARgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMz
+YjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAALgAkEVNjcmlwdFRhc2tfYmU3ZTE1
+MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAPgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3
+OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAABoAJBFNaWNyb3NvZnQuVmlzdWFsQmFz
+aWMAAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5Db25zdGFudHMAAAAAJgAkESNNaWNyb3Nv
+ZnQuVmlzdWFsQmFzaWMuQ29udmVyc2lvbgAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkRh
+dGVBbmRUaW1lAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5GaWxlU3lzdGVtAAAAJgAkESNN
+aWNyb3NvZnQuVmlzdWFsQmFzaWMuRmluYW5jaWFsAAAAACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJh
+c2ljLkdsb2JhbHMAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkluZm9ybWF0aW9uAAAmACQR
+I01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbnRlcmFjdGlvbgAAIgAkESNNaWNyb3NvZnQuVmlzdWFs
+QmFzaWMuVkJNYXRoAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuU3RyaW5ncwAAMgAkEVNj
+cmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkAAEIAJBFTY3JpcHRU
+YXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMA
+IgAgEQAAAAAbAAARAAAAAAAABABWQiR0X2dlbmVyaWMkUzAAAgAGAAIABgAuACoRAAAAADQaAAAA
+AAAACQAAAAAAAAAAAAAADgAABs8AAAABAAAAAC5jdG9yAAAWAAMRnBYAADAaAAAJAAAAzwAAAAEA
+AAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkuTXlQ
+cm9qZWN0AAAAOgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4
+Ll9VdGlsaXR5AAAARgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0
+YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAALgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4
+YTkxMzNiMDgyZTExOTRjMzgAPgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4
+MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAABoAJBFNaWNyb3NvZnQuVmlzdWFsQmFzaWMAAAAmACQR
+I01pY3Jvc29mdC5WaXN1YWxCYXNpYy5Db25zdGFudHMAAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFs
+QmFzaWMuQ29udmVyc2lvbgAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkRhdGVBbmRUaW1l
+AAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5GaWxlU3lzdGVtAAAAJgAkESNNaWNyb3NvZnQu
+VmlzdWFsQmFzaWMuRmluYW5jaWFsAAAAACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkdsb2Jh
+bHMAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkluZm9ybWF0aW9uAAAmACQRI01pY3Jvc29m
+dC5WaXN1YWxCYXNpYy5JbnRlcmFjdGlvbgAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuVkJN
+YXRoAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuU3RyaW5ncwAAMgAkEVNjcmlwdFRhc2tf
+YmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkAAEIAJBFTY3JpcHRUYXNrX2JlN2Ux
+NTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAgAGAAIABgDy
+AAAAPAAAAG4AAAABAAEAEQAAAAAAAAADAAAAMAAAAAAAAAD3AACAAQAAAPgAAIAQAAAA+QAAgA0A
+SwARACgADQAZAPIAAAA8AAAAfwAAAAEAAQALAAAAAAAAAAMAAAAwAAAAAAAAAPsAAIABAAAA/AAA
+gAoAAAD9AACADQA/ABEAKgANABkA8gAAADwAAACKAAAAAQABAA8AAAAAAAAAAwAAADAAAAAAAAAA
+/wAAgAEAAAAAAQCADgAAAAEBAIANAEgAEQAuAA0AGQDyAAAAPAAAAJkAAAABAAEACwAAAAAAAAAD
+AAAAMAAAAAAAAAADAQCAAQAAAAQBAIAKAAAABQEAgA0AOwARACcADQAZAPIAAABsAAAApAAAAAEA
+AQAaAAAAAAAAAAcAAABgAAAAAAAAAAgBAIABAAAACQEAgAkAAAAKAQCAEwAAAAsBAIAUAAAADAEA
+gBgAAAANAQCAGQAAAA4BAIAMAF8AEQAsABUAIwARABUAFQAkABEAFwANABkA8gAAADwAAAC+AAAA
+AQABABEAAAAAAAAAAwAAADAAAAAAAAAAEQEAgAEAAAASAQCAEAAAABMBAIANAEcAEQAjAA0AFADy
+AAAAPAAAAM8AAAABAAEACQAAAAAAAAADAAAAMAAAAAAAAAAXAQCAAQAAABgBAIAIAAAAGQEAgA0A
+HQAQABwADQAUAPQAAAAIAAAAAQAAAAAAAAA4AAAADAMAACQDAAA8AwAAWAMAAHADAACIAwAAoAMA
+ALgDAADQAwAA9AMAAAwEAAAwBAAASAQAAFwEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQA
+AAAuACoRAAAAAJwDAAAAAAAACQAAAAAAAAAAAAAAAgAABgAAAAABAAAAAC5jdG9yAAAWAAMRBAAA
+AJgDAAAJAAAAAAAAAAEAAAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgy
+ZTExOTRjMzguTXkuTXlQcm9qZWN0AAAAOgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5
+MTMzYjA4MmUxMTk0YzM4Ll9VdGlsaXR5AAAARgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3
+OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAALgAkEVNjcmlwdFRhc2tf
+YmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAPgAkESNTY3JpcHRUYXNrX2JlN2UxNTJi
+NDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAABoAJBFNaWNyb3NvZnQuVmlz
+dWFsQmFzaWMAAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5Db25zdGFudHMAAAAAJgAkESNN
+aWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29udmVyc2lvbgAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJh
+c2ljLkRhdGVBbmRUaW1lAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5GaWxlU3lzdGVtAAAA
+JgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmluYW5jaWFsAAAAACIAJBEjTWljcm9zb2Z0LlZp
+c3VhbEJhc2ljLkdsb2JhbHMAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkluZm9ybWF0aW9u
+AAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbnRlcmFjdGlvbgAAIgAkESNNaWNyb3NvZnQu
+VmlzdWFsQmFzaWMuVkJNYXRoAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuU3RyaW5ncwAA
+MgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkAAEIAJBFT
+Y3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9i
+amVjdHMAAgAGAAIABgDyAAAAPAAAAAAAAAABAAEACQAAAAAAAAADAAAAMAAAAAAAAABrAACAAQAA
+AGwAAIAIAAAAbQAAgAkAGQANABkACQAQAPQAAAAIAAAAAQAAAAAAAAAIAAAAdAQAAIgEAAAEAAAA
+OgAqEQAAAADkAwAAAAAAAC4AAAAAAAAAAAAAAA8AAAbYAAAAAQAAAABnZXRfR2V0SW5zdGFuY2UA
+AAAAFgADEQQAAADgAwAALgAAANgAAAABAAAAPgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3
+OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAADoAJBEjU2NyaXB0VGFza19iZTdlMTUy
+YjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fVXRpbGl0eQAAAEYAJBEjU2NyaXB0VGFza19iZTdl
+MTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRpb25PYmplY3RzAAAAAC4AJBFT
+Y3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4AD4AJBEjU2NyaXB0VGFz
+a19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5NeS5NeVByb2plY3QAAAAaACQRTWlj
+cm9zb2Z0LlZpc3VhbEJhc2ljAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29uc3RhbnRz
+AAAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnZlcnNpb24AAAAmACQRI01pY3Jvc29m
+dC5WaXN1YWxCYXNpYy5EYXRlQW5kVGltZQAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmls
+ZVN5c3RlbQAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbmFuY2lhbAAAAAAiACQRI01p
+Y3Jvc29mdC5WaXN1YWxCYXNpYy5HbG9iYWxzAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5J
+bmZvcm1hdGlvbgAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW50ZXJhY3Rpb24AACIAJBEj
+TWljcm9zb2Z0LlZpc3VhbEJhc2ljLlZCTWF0aAAAACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2lj
+LlN0cmluZ3MAADIAJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4
+Lk15AABCACQRU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBw
+bGljYXRpb25PYmplY3RzAB4AIBEAAAAAHAAAEQAAAAAAAAAAR2V0SW5zdGFuY2UAGgAgEQEAAAAd
+AAARAAAAAAAAAABWYWx1ZQAAAAIABgACAAYALgAqEQAAAACABwAAAAAAABQAAAAAAAAAAAAAABAA
+AAYGAQAAAQAAAAAuY3RvcgAAFgADEegDAAB8BwAAFAAAAAYBAAABAAAAPgAkESNTY3JpcHRUYXNr
+X2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAADoAJBEjU2Ny
+aXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fVXRpbGl0eQAAAEYAJBEj
+U2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRpb25P
+YmplY3RzAAAAAC4AJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4
+AD4AJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5NeS5NeVBy
+b2plY3QAAAAaACQRTWljcm9zb2Z0LlZpc3VhbEJhc2ljAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFs
+QmFzaWMuQ29uc3RhbnRzAAAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnZlcnNpb24A
+AAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5EYXRlQW5kVGltZQAAJgAkESNNaWNyb3NvZnQu
+VmlzdWFsQmFzaWMuRmlsZVN5c3RlbQAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbmFu
+Y2lhbAAAAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5HbG9iYWxzAAAmACQRI01pY3Jvc29m
+dC5WaXN1YWxCYXNpYy5JbmZvcm1hdGlvbgAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW50
+ZXJhY3Rpb24AACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlZCTWF0aAAAACIAJBEjTWljcm9z
+b2Z0LlZpc3VhbEJhc2ljLlN0cmluZ3MAADIAJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5
+MTMzYjA4MmUxMTk0YzM4Lk15AABCACQRU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2Iw
+ODJlMTE5NGMzOC5fQXBwbGljYXRpb25PYmplY3RzAAIABgACAAYA8gAAAHgAAADYAAAAAQABAC4A
+AAAAAAAACAAAAGwAAAAAAAAASwEAgAEAAABMAQCADQAAAE0BAIAVAAAATgEAgBsAAABPAQCAKAAA
+AFABAIApAAAAUQEAgC0AAABSAQCAEQAUABkANQAVAC0AGQAmABkAMgAVABsAFQAhABEAGADyAAAA
+SAAAAAYBAAABAAEAFAAAAAAAAAAEAAAAPAAAAAAAAABeAQCAAQAAAF8BAIAIAAAAYwEAgBMAAABg
+AQCADQAdABEAHQAeACcADQAUAPQAAAAIAAAAAQAAAAAAAAAQAAAAoAQAAMAEAADYBAAA7AQAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAC4AKhEA
+AAAAnAMAAAAAAAApAAAAAAAAAAAAAAADAAAGCQAAAAEAAAAALmNjdG9yABYAAxEEAAAAmAMAACkA
+AAAJAAAAAQAAAD4AJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMz
+OC5NeS5NeVByb2plY3QAAAA6ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgy
+ZTExOTRjMzguX1V0aWxpdHkAAABGACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNi
+MDgyZTExOTRjMzguX0FwcGxpY2F0aW9uT2JqZWN0cwAAAAAuACQRU2NyaXB0VGFza19iZTdlMTUy
+YjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4
+YTkxMzNiMDgyZTExOTRjMzguTXkuTXlQcm9qZWN0AAAAGgAkEU1pY3Jvc29mdC5WaXN1YWxCYXNp
+YwAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnN0YW50cwAAAAAmACQRI01pY3Jvc29m
+dC5WaXN1YWxCYXNpYy5Db252ZXJzaW9uAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRGF0
+ZUFuZFRpbWUAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbGVTeXN0ZW0AAAAmACQRI01p
+Y3Jvc29mdC5WaXN1YWxCYXNpYy5GaW5hbmNpYWwAAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFz
+aWMuR2xvYmFscwAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW5mb3JtYXRpb24AACYAJBEj
+TWljcm9zb2Z0LlZpc3VhbEJhc2ljLkludGVyYWN0aW9uAAAiACQRI01pY3Jvc29mdC5WaXN1YWxC
+YXNpYy5WQk1hdGgAAAAiACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5TdHJpbmdzAAAyACQRU2Ny
+aXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5NeQAAQgAkEVNjcmlwdFRh
+c2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguX0FwcGxpY2F0aW9uT2JqZWN0cwAC
+AAYAAgAGADYAKhEAAAAAYAcAAAAAAAAPAAAAAAAAAAAAAAAEAAAGMgAAAAEAAAAAZ2V0X0NvbXB1
+dGVyAAAAFgADEaADAABcBwAADwAAADIAAAABAAAAPgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcx
+YjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAADoAJBEjU2NyaXB0VGFza19iZTdl
+MTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fVXRpbGl0eQAAAEYAJBEjU2NyaXB0VGFza19i
+ZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRpb25PYmplY3RzAAAAAC4A
+JBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4AD4AJBEjU2NyaXB0
+VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5NeS5NeVByb2plY3QAAAAaACQR
+TWljcm9zb2Z0LlZpc3VhbEJhc2ljAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29uc3Rh
+bnRzAAAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnZlcnNpb24AAAAmACQRI01pY3Jv
+c29mdC5WaXN1YWxCYXNpYy5EYXRlQW5kVGltZQAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMu
+RmlsZVN5c3RlbQAAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbmFuY2lhbAAAAAAiACQR
+I01pY3Jvc29mdC5WaXN1YWxCYXNpYy5HbG9iYWxzAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNp
+Yy5JbmZvcm1hdGlvbgAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW50ZXJhY3Rpb24AACIA
+JBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlZCTWF0aAAAACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJh
+c2ljLlN0cmluZ3MAADIAJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0
+YzM4Lk15AABCACQRU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5f
+QXBwbGljYXRpb25PYmplY3RzAB4AIBEAAAAAEgAAEQAAAAAAAAAAQ29tcHV0ZXIAAAAAAgAGAAIA
+BgA6ACoRAAAAACgLAAAAAAAADwAAAAAAAAAAAAAABQAABkEAAAABAAAAAGdldF9BcHBsaWNhdGlv
+bgAAAAAWAAMRZAcAACQLAAAPAAAAQQAAAAEAAAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFi
+NDc4YTkxMzNiMDgyZTExOTRjMzguTXkuTXlQcm9qZWN0AAAAOgAkESNTY3JpcHRUYXNrX2JlN2Ux
+NTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9VdGlsaXR5AAAARgAkESNTY3JpcHRUYXNrX2Jl
+N2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAALgAk
+EVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAPgAkESNTY3JpcHRU
+YXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAABoAJBFN
+aWNyb3NvZnQuVmlzdWFsQmFzaWMAAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5Db25zdGFu
+dHMAAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29udmVyc2lvbgAAACYAJBEjTWljcm9z
+b2Z0LlZpc3VhbEJhc2ljLkRhdGVBbmRUaW1lAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5G
+aWxlU3lzdGVtAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmluYW5jaWFsAAAAACIAJBEj
+TWljcm9zb2Z0LlZpc3VhbEJhc2ljLkdsb2JhbHMAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2lj
+LkluZm9ybWF0aW9uAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbnRlcmFjdGlvbgAAIgAk
+ESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuVkJNYXRoAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFz
+aWMuU3RyaW5ncwAAMgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRj
+MzguTXkAAEIAJBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9B
+cHBsaWNhdGlvbk9iamVjdHMAHgAgEQAAAAATAAARAAAAAAAAAABBcHBsaWNhdGlvbgACAAYAAgAG
+ADIAKhEAAAAA5A4AAAAAAAAPAAAAAAAAAAAAAAAGAAAGUAAAAAEAAAAAZ2V0X1VzZXIAAAAWAAMR
+LAsAAOAOAAAPAAAAUAAAAAEAAAA+ACQRI1NjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNi
+MDgyZTExOTRjMzguTXkuTXlQcm9qZWN0AAAAOgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3
+OGE5MTMzYjA4MmUxMTk0YzM4Ll9VdGlsaXR5AAAARgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcx
+YjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlvbk9iamVjdHMAAAAALgAkEVNjcmlwdFRh
+c2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgAPgAkESNTY3JpcHRUYXNrX2JlN2Ux
+NTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15Lk15UHJvamVjdAAAABoAJBFNaWNyb3NvZnQu
+VmlzdWFsQmFzaWMAAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5Db25zdGFudHMAAAAAJgAk
+ESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29udmVyc2lvbgAAACYAJBEjTWljcm9zb2Z0LlZpc3Vh
+bEJhc2ljLkRhdGVBbmRUaW1lAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5GaWxlU3lzdGVt
+AAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmluYW5jaWFsAAAAACIAJBEjTWljcm9zb2Z0
+LlZpc3VhbEJhc2ljLkdsb2JhbHMAACYAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkluZm9ybWF0
+aW9uAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbnRlcmFjdGlvbgAAIgAkESNNaWNyb3Nv
+ZnQuVmlzdWFsQmFzaWMuVkJNYXRoAAAAIgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuU3RyaW5n
+cwAAMgAkEVNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkAAEIA
+JBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9BcHBsaWNhdGlv
+bk9iamVjdHMAGgAgEQAAAAAUAAARAAAAAAAAAABVc2VyAAAAAAIABgACAAYAOgAqEQAAAACsEgAA
+AAAAAA8AAAAAAAAAAAAAAAcAAAZfAAAAAQAAAABnZXRfV2ViU2VydmljZXMAAAAAFgADEegOAACo
+EgAADwAAAF8AAAABAAAAPgAkESNTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUx
+MTk0YzM4Lk15Lk15UHJvamVjdAAAADoAJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEz
+M2IwODJlMTE5NGMzOC5fVXRpbGl0eQAAAEYAJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0Nzhh
+OTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRpb25PYmplY3RzAAAAAC4AJBFTY3JpcHRUYXNrX2Jl
+N2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4AD4AJBEjU2NyaXB0VGFza19iZTdlMTUyYjQ3
+MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5NeS5NeVByb2plY3QAAAAaACQRTWljcm9zb2Z0LlZpc3Vh
+bEJhc2ljAAAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuQ29uc3RhbnRzAAAAACYAJBEjTWlj
+cm9zb2Z0LlZpc3VhbEJhc2ljLkNvbnZlcnNpb24AAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNp
+Yy5EYXRlQW5kVGltZQAAJgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuRmlsZVN5c3RlbQAAACYA
+JBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLkZpbmFuY2lhbAAAAAAiACQRI01pY3Jvc29mdC5WaXN1
+YWxCYXNpYy5HbG9iYWxzAAAmACQRI01pY3Jvc29mdC5WaXN1YWxCYXNpYy5JbmZvcm1hdGlvbgAA
+JgAkESNNaWNyb3NvZnQuVmlzdWFsQmFzaWMuSW50ZXJhY3Rpb24AACIAJBEjTWljcm9zb2Z0LlZp
+c3VhbEJhc2ljLlZCTWF0aAAAACIAJBEjTWljcm9zb2Z0LlZpc3VhbEJhc2ljLlN0cmluZ3MAADIA
+JBFTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Lk15AABCACQRU2Ny
+aXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5fQXBwbGljYXRpb25PYmpl
+Y3RzAB4AIBEAAAAAFQAAEQAAAAAAAAAAV2ViU2VydmljZXMAAgAGAAIABgDyAAAASAAAAAkAAAAB
+AAEAKQAAAAAAAAAEAAAAPAAAAAAAAAB+AACACgAAAIkAAIAUAAAAlAAAgB4AAAAcAQCAGgAyABoA
+LQAaAC4AGgA3APIAAAA8AAAAMgAAAAEAAQAPAAAAAAAAAAMAAAAwAAAAAAAAAHkAAIABAAAAegAA
+gA4AAAB7AACADQAQABEAPgANABQA8gAAADwAAABBAAAAAQABAA8AAAAAAAAAAwAAADAAAAAAAAAA
+hQAAgAEAAACGAACADgAAAIcAAIANABAAEQA5AA0AFADyAAAAPAAAAFAAAAABAAEADwAAAAAAAAAD
+AAAAMAAAAAAAAACQAACAAQAAAJEAAIAOAAAAkgAAgA0AEAARADoADQAUAPIAAAA8AAAAXwAAAAEA
+AQAPAAAAAAAAAAMAAAAwAAAAAAAAAO0AAIABAAAA7gAAgA4AAADvAACADgARABEAQwANABQA9AAA
+AAgAAAABAAAAAAAAACgAAAAEBQAAHAUAADQFAABQBQAAaAUAAIgFAACgBQAAuAUAANAFAADwBQAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP////8aCS/x4AEAAOwCAACJBAAA
+AQAAALkDAAABAAAAnQEAAAEAAACFAAAAAQAAACkCAAABAAAAHQUAAAEAAAD1AwAAAQAAALkAAAAB
+AAAAXQIAAAEAAAAtAAAAAQAAANEDAAABAAAA7QQAAAEAAAABAAAAAQAAANkEAAABAAAAdQQAAAEA
+AABJBAAAAQAAAGkFAAABAAAAoQMAAAEAAABhAAAAAQAAAIkDAAABAAAASQAAAAEAAAD1AQAAAQAA
+ABUAAAABAAAAYQEAAAEAAAC5BQAAAQAAAMEEAAABAAAAGQEAAAEAAAD1AgAAAQAAAA0EAAABAAAA
+8QUAAAEAAABJAQAAAQAAAFEFAAABAAAAMQQAAAEAAACVAgAAAQAAAIkFAAABAAAAAQEAAAEAAABd
+BAAAAQAAAOkAAAABAAAAxQIAAAEAAAB1AgAAAQAAAJ0AAAABAAAAMQEAAAEAAADdAgAAAQAAANUB
+AAABAAAABQUAAAEAAAChBAAAAQAAACUDAAABAAAAhQEAAAEAAABZAwAAAQAAAL0BAAABAAAA0QAA
+AAEAAAA1BQAAAQAAAA0CAAABAAAAoQUAAAEAAAANAwAAAQAAANEFAAABAAAAQQIAAAEAAAA9AwAA
+AQAAAK0CAAABAAAAcQMAAAEAAAABBAQAAggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAAAC
+CAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAABAAAACIAAAAAAAAAAAAAAAACAABAAAACAAAAIAAA
+AAAABAAAAggAAAQAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEEAAACCAAAAAAAAAAAAAAAAAAAAAAA
+AEAAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABBAAAAAgAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAUEAAACCAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAEAAQABABAAAAAAAAgAAAAAAAAAAAAAAAAIA
+AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAACCAAAAAAAAAAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAABAAAIAAAAAAAAAAAAAAAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAA
+AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAABgAAAAkAAAAMAAAADwAAABIAAAAVAAAAGAA
+AABsAAAAeAAAAIQAAACQAAAAnAAAAMAAAADMAAAA2AAAAOQAAADwAAAA/AAAAAgBAAAUAQAAIAEA
+ACwBAAA4AQAARAEAAFABAABcAQAAaAEAAHQBAACAAQAAjAEAAJgBAACkAQAAsAEAALwBAADIAQAA
+1AEAAOABAADsAQAA+AEAAAQCAAAQAgAAHAIAACgCAAA0AgAAQAIAAEwCAABYAgAAZAIAAHACAAB8
+AgAAiAIAAJQCAACgAgAArAIAALgCAADEAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABIAJREAAAAABAAAAAcATWFpbgAAFgAp
+EQAAAAAEAAAABwAwNjAwMDAyMQAAGgAlEQAAAAAEAAAABQBTdG9wRGVidWdnaW5nABYAKREAAAAA
+BAAAAAUAMDYwMDAwMTEAACIAJREAAAAAZAMAAAUAUmVsZWFzZUlmQ29tT2JqZWN0AAAAABYAKREA
+AAAAZAMAAAUAMDYwMDAwMTIAABoAJREAAAAAyAYAAAUAUmVsZWFzZU9iamVjdAAWACkRAAAAAMgG
+AAAFADA2MDAwMDEzAAAWACURAAAAAAQAAAAGAFNldFNpdGUAAAAWACkRAAAAAAQAAAAGADA2MDAw
+MDE1AAAWACURAAAAAGADAAAGAFNldFRpdGxlAAAWACkRAAAAAGADAAAGADA2MDAwMDE2AAAWACUR
+AAAAALwGAAAGAFNldEhhbmRsZQAWACkRAAAAALwGAAAGADA2MDAwMDE3AAAiACURAAAAABgKAAAG
+AFB1c2hWQkhvc3RJbnRvTGlicmFyeQAWACkRAAAAABgKAAAGADA2MDAwMDE4AAAeACURAAAAAIAN
+AAAGAEdldFBhcmVudFdpbmRvdwAAABYAKREAAAAAgA0AAAYAMDYwMDAwMTkAAB4AJREAAAAACBEA
+AAYAR2V0V2luZG93VGl0bGUAAAAAFgApEQAAAAAIEQAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAP////8aCS/xAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGADA2MDAwMDFhAAAaACURAAAAAIwUAAAG
+AGdldF9IYW5kbGUAAAAAFgApEQAAAACMFAAABgAwNjAwMDAxYgAAGgAlEQAAAAAEGAAABgBTdGFy
+dHVwSGVscGVyABYAKREAAAAABBgAAAYAMDYwMDAwMWMAAB4AJREAAAAAZBsAAAYAU2h1dGRvd25I
+ZWxwZXIAAAAAFgApEQAAAABkGwAABgAwNjAwMDAxZAAAFgAlEQAAAADEHgAABgBTdGFydHVwAAAA
+FgApEQAAAADEHgAABgAwNjAwMDAxZQAAFgAlEQAAAAA8IgAABgBTaHV0ZG93bgAAFgApEQAAAAA8
+IgAABgAwNjAwMDAxZgAAFgAlEQAAAAAEAAAAAwBFcXVhbHMAAAAAFgApEQAAAAAEAAAAAwAwNjAw
+MDAwOAAAGgAlEQAAAAC8AwAAAwBHZXRIYXNoQ29kZQAAABYAKREAAAAAvAMAAAMAMDYwMDAwMDkA
+ABYAJREAAAAAgAcAAAMAR2V0VHlwZQAAABYAKREAAAAAgAcAAAMAMDYwMDAwMGEAABYAJREAAAAA
+PAsAAAMAVG9TdHJpbmcAABYAKREAAAAAPAsAAAMAMDYwMDAwMGIAACIAJREAAAAA/A4AAAMAQ3Jl
+YXRlX19JbnN0YW5jZV9fAAAAABYAKREAAAAA/A4AAAMAMDYwMDAwMGMAACIAJREAAAAAzBIAAAMA
+RGlzcG9zZV9fSW5zdGFuY2VfXwAAABYAKREAAAAAzBIAAAMAMDYwMDAwMGQAABIAJREAAAAAnBYA
+AAMALmN0b3IAFgApEQAAAACcFgAAAwAwNjAwMDAwZQAAEgAlEQAAAAAEAAAAAQAuY3RvcgAWACkR
+AAAAAAQAAAABADA2MDAwMDAyAAAeACURAAAAAAQAAAAEAGdldF9HZXRJbnN0YW5jZQAAABYAKREA
+AAAABAAAAAQAMDYwMDAwMGYAABIAJREAAAAA6AMAAAQALmN0b3IAFgApEQAAAADoAwAABAAwNjAw
+MDAxMAAAFgAlEQAAAAAEAAAAAgAuY2N0b3IAAAAAFgApEQAAAAAEAAAAAgAwNjAwMDAwMwAAGgAl
+EQAAAACgAwAAAgBnZXRfQ29tcHV0ZXIAABYAKREAAAAAoAMAAAIAMDYwMDAwMDQAAB4AJREAAAAA
+ZAcAAAIAZ2V0X0FwcGxpY2F0aW9uAAAAFgApEQAAAABkBwAAAgAwNjAwMDAwNQAAFgAlEQAAAAAs
+CwAAAgBnZXRfVXNlcgAAFgApEQAAAAAsCwAAAgAwNjAwMDAwNgAAHgAlEQAAAADoDgAAAgBnZXRf
+V2ViU2VydmljZXMAAAAWACkRAAAAAOgOAAACADA2MDAwMDA3AAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/////dwkxAQEAAAASAACIEwAnxhQAKgC4AwAA
+TAMAACwAAADwAAAAAAAAAAAAAAAWAAAAGQAAAAAA7sAAAAAAAAAAAP//AAAAAAAA/////wAAAAD/
+/wAAAAAAAAAAAAAAAA8AoAMAAAAAAABUAAAAAQAAAJA4wwAAAAAAAAAAAFNjcmlwdFRhc2tfYmU3
+ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkuTXlDb21wdXRlcgBBREMxQ0U2RAAAAAAA
+AP//AAAAAAAA/////wAAAAD//wAAAAAAAAAAAAAAABEAsBIAAAAAAABwAQAAAQAAACgRxwAAAAAA
+AAAAAFNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkuTXlQcm9q
+ZWN0ADA2NTc0QjAxAAAAAAAAAP//AAAAAAAA/////wAAAAD//wAAAAAAAAAAAAAAAA4AOBoAAAAA
+AAAcAgAAAQAAAChVwwAAAAAAAAAAAFNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgy
+ZTExOTRjMzguTXkuTXlQcm9qZWN0Lk15V2ViU2VydmljZXMARUExOUQzMzAAAAAAAP//AAAAAAAA
+/////wAAAAD//wAAAAAAAAAAAAAAABAAhAcAAAAAAADgAAAAAQAAAFBcxgAAAAAAAAAAAFNjcmlw
+dFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguTXkuTXlQcm9qZWN0LlRocmVh
+ZFNhZmVPYmplY3RQcm92aWRlcmAxAEE2ODdGQTkyAAAAAAAAAAD//wAAAAAAAP////8AAAAA//8A
+AAAAAAAAAAAAAAAMAEAKAAAAAAAAJAEAAAEAAABgQccAAAAAAAAAAABTY3JpcHRUYXNrX2JlN2Ux
+NTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4Ll9VdGlsaXR5ADBGOTBEOEY2AAAAAAAAAP//AAAA
+AAAA/////wAAAAD//wAAAAAAAAAAAAAAAA0AmCUAAAAAAABcAwAAAQAAAFAzwwAAAAAAAAAAAFNj
+cmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzguX1N0YXJ0dXAANUI4MjNE
+QzQAAAAAAAAA//8AAAAAAAD/////AAAAAP//AAAAAAAAAAAAAAAACwCQBQAAAAAAAPgBAAABAAAA
+oEvGAAAAAAAAAAAAU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC5T
+Y3JpcHRNYWluADJGNDIyQUZGAC26LvEBAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAQA1AAkA
+AAApAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAyAAAADwAAAAAAAAABAAAAAAAAAAAAAAABAAAAQQAA
+AA8AAAAAAAAAAQAAAAAAAAAAAAAAAQAAAFAAAAAPAAAAAAAAAAEAAAAAAAAAAAAAAAEAAABfAAAA
+DwAAAAAAAAABAAAAAAAAAAAAAAABAAAAbgAAABEAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAH8AAAAL
+AAAAAAAAAAIAAAAAAAAAAAAAAAEAAACKAAAADwAAAAAAAAACAAAAAAAAAAAAAAABAAAAmQAAAAsA
+AAAAAAAAAgAAAAAAAAAAAAAAAQAAAKQAAAAaAAAAAAAAAAIAAAAAAAAAAAAAAAEAAAC+AAAAEQAA
+AAAAAAACAAAAAAAAAAAAAAABAAAAzwAAAAkAAAAAAAAAAgAAAAAAAAAAAAAAAQAAANgAAAAuAAAA
+AAAAAAMAAAAAAAAAAAAAAAEAAAAGAQAAFAAAAAAAAAADAAAAAAAAAAAAAAABAAAAGgEAAA0AAAAA
+AAAABAAAAAAAAAAAAAAAAQAAACcBAAAcAAAAAAAAAAQAAAAAAAAAAAAAAAEAAABDAQAAIQAAAAAA
+AAAEAAAAAAAAAAAAAAABAAAAZAEAAAkAAAAAAAAABQAAAAAAAAAAAAAAAQAAAG0BAAAJAAAAAAAA
+AAUAAAAAAAAAAAAAAAEAAAB2AQAADwAAAAAAAAAFAAAAAAAAAAAAAAABAAAAhQEAABQAAAAAAAAA
+BQAAAAAAAAAAAAAAAQAAAJkBAAArAAAAAAAAAAUAAAAAAAAAAAAAAAEAAADEAQAACwAAAAAAAAAF
+AAAAAAAAAAAAAAABAAAAzwEAAAsAAAAAAAAABQAAAAAAAAAAAAAAAQAAANoBAAACAAAAAAAAAAUA
+AAAAAAAAAAAAAAEAAADcAQAAEwAAAAAAAAAFAAAAAAAAAAAAAAABAAAA7wEAACMAAAAAAAAABQAA
+AAAAAAAAAAAAAQAAABICAAAcAAAAAAAAAAUAAAAAAAAAAAAAAAEAAAAuAgAAFAIAAAAAAAAGAAAA
+AAAAAAAAAAACAAIADQEAAAAAAQD/////AAAAAEIEAAAIAgAAAAAAAP////8AAAAA/////wcABwAA
+AAEAAgADAAQABQAGAAEAAQABAAEAAQABAAEAiAAAAIgAAACIAAAAiAAAAEUAAABFAAAAAAAAAGR0
+czovL1NjcmlwdHMvU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2IwODJlMTE5NGMzOC9T
+Y3JpcHRNYWluAGR0czovL1NjcmlwdHMvU2NyaXB0VGFza19iZTdlMTUyYjQ3MWI0NzhhOTEzM2Iw
+ODJlMTE5NGMzOC9fU3RhcnR1cAAxN2QxNGY1Yy1hMzM3LTQ5NzgtODI4MS01MzQ5MzM3OGMxMDcx
+LnZiAAAAAP7v/u8BAAAAAQAAAAABAAAAAAAAAAAAAAD/////////////CgD/////////////AAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAlC4xAV3f4EYBAAAAKoI6A78GgE6CJLhZp8GTWvQAAAAv
+TGlua0luZm8AL25hbWVzAC9zcmMvaGVhZGVyYmxvY2sAL3NyYy9maWxlcy8xN2QxNGY1Yy1hMzM3
+LTQ5NzgtODI4MS01MzQ5MzM3OGMxMDcxLnZiAC9zcmMvZmlsZXMvZHRzOlxcc2NyaXB0c1xzY3Jp
+cHR0YXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0YzM4XF9zdGFydHVwAC9zcmMvZmls
+ZXMvZHRzOlxcc2NyaXB0c1xzY3JpcHR0YXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0
+YzM4XHNjcmlwdG1haW4ABgAAAAoAAAABAAAAfgAAAAAAAAARAAAABgAAAAAAAAAEAAAAIgAAAAcA
+AACkAAAACQAAAAoAAAAFAAAAVgAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAVAAAAGAAAAFwBAAA4AAAAjwgAAAAAAAB7AQAA2AAAAFgA
+AABYAAAAWAAAACgAAACUBwAAgAsAAFApAACQHAAAAAQAAHgIAABMFAAA3AQAACwAAAAIBgAAAwAA
+AFoAAAAGAAAAVQAAAFYAAABXAAAAWAAAAFkAAAALAAAADAAAAAcAAAAIAAAACQAAAAoAAAANAAAA
+DgAAAA8AAAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZAAAAGgAAABsAAAAc
+AAAAHQAAAB4AAAAfAAAAIAAAACEAAAAiAAAAIwAAACQAAAAlAAAAJgAAACcAAAAoAAAAKQAAACoA
+AAArAAAALAAAAC0AAAAuAAAALwAAADAAAAAxAAAAMgAAADMAAAA0AAAANQAAADYAAAA3AAAAOAAA
+ADkAAAA6AAAAOwAAADwAAAA9AAAAPgAAAD8AAABAAAAAQQAAAEIAAABDAAAARAAAAEUAAABGAAAA
+RwAAAEgAAABJAAAASgAAAEsAAABMAAAATQAAAE4AAABPAAAAUQAAAFAAAABSAAAAUwAAAFQAAAAA
+AAAAAAAAAMkA+BYAAAABSADiBngBFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAFsAAAAYAAAAXAEAADgAAACPCAAAAAAAAHsBAADYAAAAWAAA
+AFgAAABYAAAAKAAAACwIAACACwAAUCkAAJAcAAAABAAAeAgAAEwUAADcBAAALAAAAAgGAAADAAAA
+WwAAAAYAAABWAAAAVwAAAFgAAABZAAAAWgAAAAsAAAAMAAAABwAAAAgAAAAJAAAACgAAAA0AAAAO
+AAAADwAAABAAAAARAAAAEgAAABMAAAAUAAAAFQAAABYAAAAXAAAAGAAAABkAAAAaAAAAGwAAABwA
+AAAdAAAAHgAAAB8AAAAgAAAAIQAAACIAAAAjAAAAJAAAACUAAAAmAAAAJwAAACgAAAApAAAAKgAA
+ACsAAAAsAAAALQAAAC4AAAAvAAAAMAAAADEAAAAyAAAAMwAAADQAAAA1AAAANgAAADcAAAA4AAAA
+OQAAADoAAAA7AAAAPAAAAD0AAAA+AAAAPwAAAEAAAABBAAAAQgAAAEMAAABEAAAARQAAAEYAAABH
+AAAASAAAAEkAAABKAAAASwAAAEwAAABNAAAATgAAAE8AAABQAAAAUgAAAFEAAABTAAAAVAAAAFUA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8Aig4AAAABEM58BYAdegUAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem><BinaryItem Name="dts://Scripts/ScriptTask_be7e152b471b478a9133b082e1194c38/ScriptTask_be7e152b471b478a9133b082e1194c38.dll">TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAgAAAAA4fug4AtAnNIbgBTM0hVGhpcyBwcm9ncmFtIGNhbm5vdCBiZSBydW4gaW4gRE9TIG1v
+ZGUuDQ0KJAAAAAAAAABQRQAATAECAF3f4EYAAAAAAAAAAOAADiELAQgAACIAAAACAAAAAAAADkEA
+AAAgAAAAYAAAAABAAAAgAAAAAgAABAAAAAAAAAAEAAAAAAAAAACAAAAAAgAAAAAAAAIAAAQAABAA
+ABAAAAAAEAAAEAAAAAAAABAAAAAAAAAAAAAAAMBAAABLAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAGAAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAIAAACAAAAAAAAAAAAAAACCAAAEgAAAAAAAAAAAAAAC50ZXh0AAAAFCEAAAAgAAAAIgAAAAIA
+AAAAAAAAAAAAAAAAACAAAGAucmVsb2MAAAwAAAAAYAAAAAIAAAAkAAAAAAAAAAAAAAAAAABAAABC
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADw
+QAAAAAAAAEgAAAACAAUA3CUAAOQaAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAACYCKAEAAAoAACoAACoAAigFAAAKAAAqAKpzBwAACoABAAAE
+cwgAAAqAAgAABHMJAAAKgAMAAARzCgAACoAEAAAEACoAEzABABAAAAABAAARAH4BAAAEbwsAAAoK
+KwAGKhMwAQAQAAAAAgAAEQB+AgAABG8MAAAKCisABioTMAEAEAAAAAMAABEAfgMAAARvDQAACgor
+AAYqEzABABAAAAAEAAARAH4EAAAEbw4AAAoKKwAGKhMwAgASAAAABQAAEQACAygSAAAKKBMAAAoK
+KwAGKgAAEzABAAwAAAAGAAARAAIoFAAACgorAAYqEzABABAAAAAHAAARANAFAAACKBUAAAoKKwAG
+KhMwAQAMAAAACAAAEQACKBYAAAoKKwAGKhMwAQAbAAAACQAAEQACjAEAABstCigBAAArCisIKwUA
+AgorAQAGKgATMAIAEgAAAAoAABEAAxIA/hUCAAAbBoECAAAbACoAACoAAigYAAAKAAAqABMwAgAv
+AAAACwAAEQACexoAAApvGwAACgsHjAMAABstEygCAAArCwJ7GgAACgdvHAAACgAABworAAYqAFYA
+AigYAAAKAAJzHQAACn0aAAAKACoAADoAKB8AAApvIAAACgAAKgB2AAIoEgAACighAAAKLAwCKBIA
+AAooIgAACiYAACoAABswAgAiAAAADAAAEQAAAigSAAAKKBIAAAYA3g8lKCMAAAoKACgkAAAK3gAA
+ACoAAAEMAAAAAAIADhAADxsAAAEmAigYAAAKAAAqAAAqAAIDfQcAAAQAKgAqAAIDfQgAAAQAKgBC
+AAJ8CQAABAMoJgAACgAAKgAAAFYAAnMnAAAKfQoAAAQCKCgAAAoAACoAABMwAgAsAAAADQAAEQAC
+fAkAAAR+KgAACoweAAAB/hYeAAABbxMAAAosBhQKKwgrBQACCisBAAYqEzABAAwAAAAOAAARAAJ7
+CAAABAorAAYqEzABAAwAAAAPAAARAAJ7CQAABAorAAYqDgAAKlIAfgYAAAQoEwAABgAUgAYAAAQA
+KgAAABMwAgAkAAAAEAAAEQACbxwAAAYAAnsHAAAEcgEAAHBvLQAACnQHAAABgAYAAAQAKnYAAnsH
+AAAEKBMAAAYAAhR9BwAABAJvHQAABgAAKgAAJgIoGAAACgAAKgAAEzAGABUCAAARAAARAHIJAABw
+cy4AAAoMCG8vAAAKAHIGAQBwCgYIczAAAAoTCBEIbzEAAAoTBSsLEQUWbzIAAAoTBwARBW8zAAAK
+LexypwEAcHM0AAAKEwkXEwYbjSUAAAETDBEMFnJ+AgBwogARDBcRB6IAEQwYck8DAHCiABEMGRIG
+KDUAAAqiABEMGnJVAwBwogARDCg2AAAKKDcAAAosAisEAAArDgAAEQYX1hMGEQYfCTGlG40lAAAB
+EwwRDBZyfgIAcKIAEQwXEQeiABEMGHJPAwBwogARDBkSBig1AAAKogARDBpyVQMAcKIAEQwoNgAA
+ChYoOAAACnM5AAAKEwoWag0AEQlvOgAAChMLCRZqMxYRC3JfAwBwcmMDAHAXFRYoOwAAChMLABEK
+EQtyZQMAcCg8AAAKbz0AAAoACRdq1g0RCW8+AAAKFTO4EQpvPwAACgARCW9AAAAKAHNBAAAKEwQR
+BG9CAAAKcmsDAHBvQwAACgARBG9CAAAKcvQDAHBvRAAACgARBG9CAAAKHwmNJQAAARMMEQwWcgQE
+AHCiABEMFxEHogARDBhyTwMAcKIAEQwZEgYoNQAACqIAEQwackYEAHCiABEMGxEHogARDBxyTwMA
+cKIAEQwdEgYoNQAACqIAEQweclUDAHCiABEMKDYAAApvRQAACgARBG9GAAAKJnKnAQBwKEcAAAoA
+fgYAAAQWb0gAAAoAACoAAABCU0pCAQABAAAAAAAMAAAAdjIuMC41MDcyNwAAAAAFAGwAAADsCAAA
+I34AAFgJAABoCQAAI1N0cmluZ3MAAAAAwBIAAKQEAAAjVVMAZBcAABAAAAAjR1VJRAAAAHQXAABw
+AwAAI0Jsb2IAAAAAAAAAAgAAAVcXogsJDgAAAPoBMwAWAAABAAAAMAAAAAoAAAAKAAAAIQAAAAgA
+AAACAAAATAAAADAAAAAvAAAAAwAAAAYAAAAGAAAAAwAAAAkAAAABAAAABwAAAAIAAAADAAAAAgAA
+AAAAXQkBAAAAAAAKACsBAQEKAF8BQQEGAG8BaAEKAMcBAQEGAEUCaAEKAMcCnQIOAGMDOgMKAKAD
+eQMSAL0DqAMWANgDygMKAP0DeQMaAMYEsAQaAN8EsAQaAAwF9AQGADYFIwUGAFMFIwUKAGsFeQMK
+AIMFEwAaALgFmwUGAO0FzQUGAAsGaAEGAC8GaAEKAEgGEwAGAJYGdwYGALsGqgYGANoGdwYGAP8G
+aAEKAAkHeQMGADcHaAEGAE4HaAEeAJkHgwceAKQHgwcaALIHIwUeALoHgwcGANIHyAcGAN8HyAcG
+AA4IaAEGABUIaAEGACIIyAcGADoILggKAFgIEwAKAGAIEwAaAIcIIwUGAPIIIwWzAAYJAAAGABUJ
+zQUGADUJzQUWAFMJygMAAAAAAQAAAAAAAQABAAAAAAApADcABQABAAEAAAAAAGYANwAJAAEAAgAA
+ARAAcQA3AA0AAQADAAUBAAB7AAAADQAFAAgABQEAAIkAAAANAAUADwABAQAApACtAA0ABgARAAEB
+AADZAK0ADQAGABQAAQAAAO0ArQANAAcAFAABAAAA9gCtAA0ACwAgADEAigEgADEAswEtADEA1QE6
+ADEA+gFHACEA1gKQABYAdQOrAAYA4QOvAAYA6QOzAAYA9AO2AAYACgS5AFAgAAAAAAYYOwETAAEA
+XCAAAAAABhg7ARMAAQBoIAAAAAARGHYBFwABAJQgAAAAABMIfQEbAAEAsCAAAAAAEwijASgAAQDM
+IAAAAAATCMwBNQABAOggAAAAABMI6gFCAAEABCEAAAAARgIwAmMAAQAkIQAAAABGAjkCaAACADwh
+AAAAAIMASgJsAAIAWCEAAAAARgJSAnEAAgBwIQAAAAARAFsCeAACAJghAAAAAAEAeQKAAAMAuCEA
+AAAABhg7ARMABADEIQAAAAADCI0CiwAEAAAiAAAAAAYYOwETAAQAGCIAAAAAFgDsAhcABAAoIgAA
+AAARAPoCnQAEAEgiAAAAABYADQOdAAUAiCIAAAAABhg7ARMABgCUIgAAAAAGABMEvQAGAKAiAAAA
+AAYAGwTDAAcArCIAAAAABgAoBMgACADAIgAAAAAGADYEEwAJANgiAAAAAGYDTATNAAkAECMAAAAA
+ZgNcBHEACQAoIwAAAABmC2sE0gAJAEAjAAAAAAYAdgQTAAkARCMAAAAABgCEBBMACQBcIwAAAAAG
+AJMEEwAJAIwjAAAAAAYAmwQTAAkArCMAAAAABhg7ARMACQC4IwAAAAAGAKsEEwAJAAAAAQA3AgAA
+AQBwAgAAAQBwAgAAAQA3AgAAAQA3AgAAAQA3AgAAAQAkBAAAAQAyBAkAIQAJACUACQA7ARMAYQA7
+AdoAcQA7AekAeQA7ARMAEQA7ARMAgQA7ARMAJAA7ARMALAA7ARMANAA7ARMAPAA7ARMAJACNAosA
+LACNAosANACNAosAPACNAosAiQA7ARMAkQA7ARMAmQA7AcMAoQD8BYIBGQAwAmMAGQA5AmgAKQAd
+Bo8BGQBSAnEAsQA5Bp8BGQA7ARMAuQA7Aa8BRADWApAATABjBosATABtBiwCTAA7ARMAwQA7ATkC
+yQDCBkQCyQDUBhMA0QDiBkkC0QDuBk4C4QAVB1MC4QAlBxcA6QA7ARMA8QA7AcgAWQA7ARMAWQBV
+B14CQQBMBM0A8QBgB7YAQQBcBHEASQBrBNIAUQBlB20CAQE7AcMAAQHsBxMA+QA7AXYC+QDxB34C
+EQH/B4QCEQEJCIkCGQE7AcMAMQFSAnEAKQEbCI0COQEnCJMCQQFDCJgCIQE7AZ4CGQFPCHEASQFu
+CKcCKQEbCLMCIQF2CMMAGQF8CGgAIQGBCBMAGQGBCBMACQE7ARMACQGYCLkCWQGmCMMAWQG7CMMA
+WQHICMMACQHWCIkCOQHcCL8COQDjCMgAYQE7AeECcQE7AcgAeQE7ARMAgQE7ATkCIAAjAAcBKQCL
+ADwBLgBTAvECLgBLAugCLgBbAvoCLgBjAhkDQAAzAAcBQAATAOAAQwAbAO8AQwATAOAASQCLAE0B
+YAAjAAcBYwATAOAAYwAbAO8AaQCLAGEBgAAzAAcBgwCDAAcBgwB7AAcBgwAbAO8AiQCLAG4BoAAz
+AAcBowATAOAAowDLALcBwAAzAAcBwQArAQcBwwDzAD4CwwATAOAA4AAzAAcB4wB7AAcBAAETAOAA
+AAEzAAcBAwF7AAcBIAEzAAcBIAETAOAAIwEjAAcBQAEzAAcBQAETAOAAYAEzAAcBYAETAOAAgAEz
+AAcBoAEzAAcBwAETAOAAwAEzAAcB4AEzAAcBAAITAOAAAAIzAAcBgAIjAAcBAAQjAAcBKAEtATIB
+NwGHAYsBlgGbAaoBqgEyAlkCZAKbAWkCcgLEAh8DIwMnAysDLwMyAzUDswA5AzkDPQM9A0EDRQOz
+ALYASQOzAEwDUANVA1gDXQMyA7MATANiA2cDbAOzAAQAAQAGAAUACQAGAAAAXwFPAAAAGAJUAAAA
+xwFZAAAAJAJeAAAA4AKYAAAApATWAAIABAADAAIABQAFAAIABgAHAAIABwAJAAIADwALAAIAGwAN
+AAkAMgBTAAkANABXAAkANgBZAHUAdQCIAAwBEwEaASEBGQIgAgSAAAAAAAAAAAAAAAAAAAAAAF0J
+AAACAAAAAAAAAAAAAAABAAoAAAAAAAgAAAAAAAAAAAAAAAoAEwAAAAAACQAAAPIAAAAAAAAAogAb
+AwAAAAACAAAAAAAAAAAAAAABAKgDAAAAAAgAAAAAAAAAAAAAAAoAygMAAAAAAgAAAAAAAAAAAAAA
+AQBoAQAAAAACAAAAAAAAAAAAAAABAHcHAAAAAAUABAAGAAQAAAAQAAwAbgIAABAAGQBuAgAAAAAb
+AG4CLwClAS8AJwIAAAAAADxNb2R1bGU+AG1zY29ybGliAE1pY3Jvc29mdC5WaXN1YWxCYXNpYwBN
+eUFwcGxpY2F0aW9uAFNjcmlwdFRhc2tfYmU3ZTE1MmI0NzFiNDc4YTkxMzNiMDgyZTExOTRjMzgu
+TXkATXlDb21wdXRlcgBNeVByb2plY3QATXlXZWJTZXJ2aWNlcwBUaHJlYWRTYWZlT2JqZWN0UHJv
+dmlkZXJgMQBfVXRpbGl0eQBTY3JpcHRUYXNrX2JlN2UxNTJiNDcxYjQ3OGE5MTMzYjA4MmUxMTk0
+YzM4AF9BcHBsaWNhdGlvbk9iamVjdHMAX1N0YXJ0dXAAU2NyaXB0TWFpbgBNaWNyb3NvZnQuVmlz
+dWFsQmFzaWMuQXBwbGljYXRpb25TZXJ2aWNlcwBBcHBsaWNhdGlvbkJhc2UALmN0b3IATWljcm9z
+b2Z0LlZpc3VhbEJhc2ljLkRldmljZXMAQ29tcHV0ZXIAU3lzdGVtAE9iamVjdAAuY2N0b3IAZ2V0
+X0NvbXB1dGVyAG1fQ29tcHV0ZXJPYmplY3RQcm92aWRlcgBnZXRfQXBwbGljYXRpb24AbV9BcHBP
+YmplY3RQcm92aWRlcgBVc2VyAGdldF9Vc2VyAG1fVXNlck9iamVjdFByb3ZpZGVyAGdldF9XZWJT
+ZXJ2aWNlcwBtX015V2ViU2VydmljZXNPYmplY3RQcm92aWRlcgBBcHBsaWNhdGlvbgBXZWJTZXJ2
+aWNlcwBFcXVhbHMAbwBHZXRIYXNoQ29kZQBUeXBlAEdldFR5cGUAVG9TdHJpbmcAQ3JlYXRlX19J
+bnN0YW5jZV9fAFQAaW5zdGFuY2UARGlzcG9zZV9fSW5zdGFuY2VfXwBnZXRfR2V0SW5zdGFuY2UA
+TWljcm9zb2Z0LlZpc3VhbEJhc2ljLk15U2VydmljZXMuSW50ZXJuYWwAQ29udGV4dFZhbHVlYDEA
+bV9Db250ZXh0AEdldEluc3RhbmNlAFN0b3BEZWJ1Z2dpbmcAUmVsZWFzZUlmQ29tT2JqZWN0AFJl
+bGVhc2VPYmplY3QATWljcm9zb2Z0LlNxbFNlcnZlci5TY3JpcHRUYXNrAE1pY3Jvc29mdC5TcWxT
+ZXJ2ZXIuRHRzLlRhc2tzLlNjcmlwdFRhc2sAU2NyaXB0T2JqZWN0TW9kZWwARHRzAE1pY3Jvc29m
+dC5WaXN1YWxCYXNpYy5Db21waWxlclNlcnZpY2VzAElWYkhvc3QAU3lzdGVtLldpbmRvd3MuRm9y
+bXMASVdpbjMyV2luZG93AE1pY3Jvc29mdC5Wc2EASVZzYVNpdGUAbV9wU2l0ZQBtX3N0clRpdGxl
+AG1fSGFuZGxlAEhvc3RTZXJ2aWNlcwBtX1ZCSG9zdABTZXRTaXRlAFNldFRpdGxlAHN0cgBTZXRI
+YW5kbGUAaW50AFB1c2hWQkhvc3RJbnRvTGlicmFyeQBHZXRQYXJlbnRXaW5kb3cAR2V0V2luZG93
+VGl0bGUAZ2V0X0hhbmRsZQBTdGFydHVwSGVscGVyAFNodXRkb3duSGVscGVyAFN0YXJ0dXAAU2h1
+dGRvd24ASGFuZGxlAE1haW4AU3lzdGVtLkNvbXBvbmVudE1vZGVsAEVkaXRvckJyb3dzYWJsZUF0
+dHJpYnV0ZQBFZGl0b3JCcm93c2FibGVTdGF0ZQBTeXN0ZW0uQ29kZURvbS5Db21waWxlcgBHZW5l
+cmF0ZWRDb2RlQXR0cmlidXRlAFN5c3RlbS5EaWFnbm9zdGljcwBEZWJ1Z2dlck5vblVzZXJDb2Rl
+QXR0cmlidXRlAERlYnVnZ2VySGlkZGVuQXR0cmlidXRlAFN0YW5kYXJkTW9kdWxlQXR0cmlidXRl
+AEhpZGVNb2R1bGVOYW1lQXR0cmlidXRlAFN5c3RlbS5Db21wb25lbnRNb2RlbC5EZXNpZ24ASGVs
+cEtleXdvcmRBdHRyaWJ1dGUAU3lzdGVtLlJ1bnRpbWUuQ29tcGlsZXJTZXJ2aWNlcwBSdW50aW1l
+SGVscGVycwBHZXRPYmplY3RWYWx1ZQBSdW50aW1lVHlwZUhhbmRsZQBHZXRUeXBlRnJvbUhhbmRs
+ZQBBY3RpdmF0b3IAQ3JlYXRlSW5zdGFuY2UATXlHcm91cENvbGxlY3Rpb25BdHRyaWJ1dGUAZ2V0
+X1ZhbHVlAHNldF9WYWx1ZQBTeXN0ZW0uUnVudGltZS5JbnRlcm9wU2VydmljZXMAQ29tVmlzaWJs
+ZUF0dHJpYnV0ZQBTeXN0ZW0uVGhyZWFkaW5nAFRocmVhZABnZXRfQ3VycmVudFRocmVhZABBYm9y
+dABNYXJzaGFsAElzQ29tT2JqZWN0AFJlbGVhc2VDb21PYmplY3QARXhjZXB0aW9uAFByb2plY3RE
+YXRhAFNldFByb2plY3RFcnJvcgBDbGVhclByb2plY3RFcnJvcgBDb250ZXh0U3RhdGljQXR0cmli
+dXRlAEludFB0cgBzZXRfVkJIb3N0AFplcm8AR2V0R2xvYmFsSW5zdGFuY2UAU3lzdGVtLkRhdGEA
+U3lzdGVtLkRhdGEuU3FsQ2xpZW50AFNxbENvbW1hbmQAU3FsQ29ubmVjdGlvbgBQcm9jZXNzAFNx
+bERhdGFSZWFkZXIAU3lzdGVtLklPAFN0cmVhbVJlYWRlcgBTdHJlYW1Xcml0ZXIAT3BlbgBFeGVj
+dXRlUmVhZGVyAEdldFN0cmluZwBSZWFkAFN0cmluZwBJbnQzMgBDb25jYXQARmlsZQBFeGlzdHMA
+U3lzdGVtLlRleHQARW5jb2RpbmcAZ2V0X1VuaWNvZGUAUmVhZExpbmUAU3RyaW5ncwBDb21wYXJl
+TWV0aG9kAFJlcGxhY2UAV3JpdGUAUGVlawBDbG9zZQBQcm9jZXNzU3RhcnRJbmZvAGdldF9TdGFy
+dEluZm8Ac2V0X1dvcmtpbmdEaXJlY3RvcnkAc2V0X0ZpbGVOYW1lAHNldF9Bcmd1bWVudHMAU3Rh
+cnQARGVsZXRlAHNldF9UYXNrUmVzdWx0AERlYnVnZ2FibGVBdHRyaWJ1dGUARGVidWdnaW5nTW9k
+ZXMAQ29tcGlsYXRpb25SZWxheGF0aW9uc0F0dHJpYnV0ZQBSdW50aW1lQ29tcGF0aWJpbGl0eUF0
+dHJpYnV0ZQBWc2FNb2R1bGUAVkJBc3NlbWJseQAAB0QAdABzAACA+0QAYQB0AGEAIABTAG8AdQBy
+AGMAZQA9AEIARABEAEgAMAAxAC0AUwAwADAAMAA1AFwAUwBRADIASwA1AFQAXwAwADIAOwBJAG4A
+aQB0AGkAYQBsACAAQwBhAHQAYQBsAG8AZwA9ADcANwA4ADIAMgBfAFMASABJAFIARQBfAFMAVABB
+AEcASQBOAEcAOwBJAG4AdABlAGcAcgBhAHQAZQBkACAAUwBlAGMAdQByAGkAdAB5AD0AZgBhAGwA
+cwBlADsAVQBzAGUAcgAgAEkARAA9AHMAYQA7AFAAYQBzAHMAdwBvAHIAZAA9AFAAYQAkACQAdwAw
+AHIAZAABgJ9zAGUAbABlAGMAdAAgAG0AYQB4ACgAcABlAHIAaQBvAGQAKQAgAGYAcgBvAG0AIABk
+AGIAbwAuAFMAUwBGAEQAXwA3ADcAOAAyADIAXwBVAEsAXwBIAE8AUwBQAEkAVABBAEwAXwBOAEEA
+VABJAE8ATgBBAEwAXwBNAE8ATgBUAEgATABZAF8ARABBAFQAQQBfAEUAWABQAE8AUgBUAACA1UQA
+OgBcAGMAdQBzAHQAbwBtAGUAcgBzAFwANwA3ADgAMgAyAF8AUwBoAGkAcgBlAF8AUwB0AGEAZwBp
+AG4AZwBcAEQAYQB0AGEAXABVAG4AaQB0AGUAZAAgAEsAaQBuAGcAZABvAG0AXABIAE8AUwBfAE4A
+QQBUAFwATwB1AHQAcAB1AHQAXABJAE0AUwBfAFUASwBfAEgAUABBAF8ATgBBAFQASQBPAE4AQQBM
+AF8ASABPAFMAUABJAFQAQQBMAF8AUwBGAEYAMAAxAC4AVABYAFQAAIDPRAA6AFwAYwB1AHMAdABv
+AG0AZQByAHMAXAA3ADcAOAAyADIAXwBTAGgAaQByAGUAXwBTAHQAYQBnAGkAbgBnAFwARABhAHQA
+YQBcAFUAbgBpAHQAZQBkACAASwBpAG4AZwBkAG8AbQBcAEgATwBTAF8ATgBBAFQAXABPAHUAdABw
+AHUAdABcAEkATQBTAF8AVQBLAF8ASABQAEEAXwBOAEEAVABJAE8ATgBBAEwAXwBIAE8AUwBQAEkA
+VABBAEwAXwBTAEYARgAwADEAXwAABV8AMAAACS4AVABYAFQAAAMiAAABAAUNAAoAAICHRAA6AFwA
+YwB1AHMAdABvAG0AZQByAHMAXAA3ADcAOAAyADIAXwBTAGgAaQByAGUAXwBTAHQAYQBnAGkAbgBn
+AFwARABhAHQAYQBcAFUAbgBpAHQAZQBkACAASwBpAG4AZwBkAG8AbQBcAEgATwBTAF8ATgBBAFQA
+XABPAHUAdABwAHUAdAAAD3oAaQBwAC4AZQB4AGUAAEEtAHIAIABJAE0AUwBfAFUASwBfAEgAUABB
+AF8ATgBBAFQASQBPAE4AQQBMAF8ASABPAFMAUABJAFQAQQBMAF8AAVsuAHoAaQBwACAALgAgAC0A
+aQAgAEkATQBTAF8AVQBLAF8ASABQAEEAXwBOAEEAVABJAE8ATgBBAEwAXwBIAE8AUwBQAEkAVABB
+AEwAXwBTAEYARgAwADEAXwABAABbj1FGmgkoRr5XLRuc/JQEAAi3elxWGTTgiQiwP19/EdUKOgMg
+AAEDAAABBAAAEgwHBhUSGAESDAQAABIIBwYVEhgBEggEAAASEQcGFRIYARIRBAAAEhQHBhUSGAES
+FAQIABIMBAgAEggECAASEQQIABIUBCABAhwDIAAIBCAAEhUDIAAOAh4ABxABAR4AHgAHMAEBARAe
+AAITAAQgABMABwYVEhkBEwAEKAATAAQAAQEcCImEXc2AgMyRAwYSHQMGEikCBg4CBhgDBhItBSAB
+ARIpBCABAQ4EIAEBCAQgABIlAyAAGAMoABgFIAEBETUIAQABAAAAAAAFIAIBDg4XAQAKTXlUZW1w
+bGF0ZQc4LjAuMC4wAAAEAQAAAAYVEhgBEgwGFRIYARIIBhUSGAESEQYVEhgBEhQEBwESDAQHARII
+BAcBEhEEBwESFBABAAtNeS5Db21wdXRlcgAAEwEADk15LkFwcGxpY2F0aW9uAAAMAQAHTXkuVXNl
+cgAAEwEADk15LldlYlNlcnZpY2VzAAAEAAEcHAMHAQIDBwEIBgABEhURVQQHARIVAwcBDgUQAQAe
+AAQKAR4ABAcBHgAHIAQBDg4ODmEBADRTeXN0ZW0uV2ViLlNlcnZpY2VzLlByb3RvY29scy5Tb2Fw
+SHR0cENsaWVudFByb3RvY29sEkNyZWF0ZV9fSW5zdGFuY2VfXxNEaXNwb3NlX19JbnN0YW5jZV9f
+AAAABhUSGAETAAYVEhkBEwAECgETAAUgAQETAAYHAhMAEwAEIAEBAgUBAAAAAAQAABJlBAABAhwE
+AAEIHAUAAQESbQQHARJtBQABARIhBAcBEiUDBwEYBCABHA4DBwEcByACAQ4SgIEFIAASgIkEIAEO
+CAMgAAIFAAEOHQ4EAAECDgUAABKAoQggAwEOAhKAoQsABg4ODg4ICBGAqQUAAg4ODgUgABKArQQA
+AQEOHAcNDhJ9EoCBChKAhRKAiQgOEn0SgI0SgJEOHQ4GIAEBEYC1CAEAAwEAAAAACAEACAAAAAAA
+HgEAAQBUAhZXcmFwTm9uRXhjZXB0aW9uVGhyb3dzAQUBAAEAAAMGEgwDBhIIAwYSEQMGEhQCBgIC
+BggDBhIVAwYeAAMGEwADBhJtAwYSJQIGHAMGEn0EBhKAgQIGCgQGEoCFBAYSgIkEBhKAjQQGEoCR
+AwYdDuhAAAAAAAAAAAAAAP5AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwQAAAAAAAAAAAX0Nv
+ckRsbE1haW4AbXNjb3JlZS5kbGwAAAAAAP8lACBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAwAAAAQMQAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem></ScriptProject></DTS:ObjectData></DTS:Executable>
+<DTS:PrecedenceConstraint><DTS:Property DTS:Name="Value">0</DTS:Property><DTS:Property DTS:Name="EvalOp">2</DTS:Property><DTS:Property DTS:Name="LogicalAnd">-1</DTS:Property><DTS:Property DTS:Name="Expression"></DTS:Property><DTS:Executable IDREF="{C06966F3-CD07-4B3C-B773-FF62291D6BE9}" DTS:IsFrom="-1"/><DTS:Executable IDREF="{f3f34d67-70d8-4642-bcf8-45cbd837565d}" DTS:IsFrom="0"/><DTS:Property DTS:Name="ObjectName">Constraint</DTS:Property><DTS:Property DTS:Name="DTSID">{1F2F6B6E-1683-41BC-B117-2C9E24E5C1EC}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName"></DTS:Property></DTS:PrecedenceConstraint><DTS:Property DTS:Name="ObjectName">SSDF_77822_EXPORT_UK_HOPITAL_NATIONAL_MONTHLY</DTS:Property><DTS:Property DTS:Name="DTSID">{52805489-FE36-4AF0-A5CB-5FD291D2F727}</DTS:Property><DTS:Property DTS:Name="Description"></DTS:Property><DTS:Property DTS:Name="CreationName">MSDTS.Package.1</DTS:Property><DTS:Property DTS:Name="DisableEventHandlers">0</DTS:Property></DTS:Executable>

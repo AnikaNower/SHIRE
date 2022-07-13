@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataTransformationsUserConfiguration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <StartObjectID>77822_UK_OUTLET_SCM_IMPORT_ALD3710W 3.dtsx</StartObjectID>
+        <UserIDs>
+          <ConfigurationSetting>
+            <Id>{7F2B5BF2-0D16-4FCB-8291-AA8519AC9E1B}</Id>
+            <Name>{7F2B5BF2-0D16-4FCB-8291-AA8519AC9E1B}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmxeoqbkKOUaQd3GXFmjg0wAAAABOAAAAewA3AEYAMgBCADUAQgBGADIALQAwAEQAMQA2AC0ANABGAEMAQgAtADgAMgA5ADEALQBBAEEAOAA1ADEAOQBBAEMAOQBFADEAQgB9AAAAA2YAAKgAAAAQAAAAnefOoI7qh3Dk90GU+lgaVQAAAAAEgAAAoAAAABAAAAC21A3gNyPyMdBTqg7hNiQPCAAAAHdYCo/5WVlZFAAAACnmQinw0vMZaZcaLlS80IG+1KTK</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>{fc7af2c5-e962-4e5b-a76a-f02a0f5b4e86}</Id>
+            <Name>{fc7af2c5-e962-4e5b-a76a-f02a0f5b4e86}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmxeoqbkKOUaQd3GXFmjg0wAAAABOAAAAewBmAGMANwBhAGYAMgBjADUALQBlADkANgAyAC0ANABlADUAYgAtAGEANwA2AGEALQBmADAAMgBhADAAZgA1AGIANABlADgANgB9AAAAA2YAAKgAAAAQAAAAWvZKNUmfVvtiGN8p/veHrAAAAAAEgAAAoAAAABAAAAAoHcxZOOFRy/k6KcZoXYB4CAAAAJZS3xtAP5LuFAAAAJRzb+rptQDiDNot9u5UokWnhZ2m</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>{2E546622-6DAD-41DF-A89B-855319FDA05E}</Id>
+            <Name>{2E546622-6DAD-41DF-A89B-855319FDA05E}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2PC/0ZtsX0i5HW9q+wMn3gAAAABOAAAAewAyAEUANQA0ADYANgAyADIALQA2AEQAQQBEAC0ANAAxAEQARgAtAEEAOAA5AEIALQA4ADUANQAzADEAOQBGAEQAQQAwADUARQB9AAAAA2YAAKgAAAAQAAAAuI62Heb9q8zjBKIw7owfHgAAAAAEgAAAoAAAABAAAABPqkxBJr7gbvSIFfxJ8PbhKAAAAGY+pveZ5snRhJIXmbvpyB1h+6E3rDZnfVivMOW/ZQJMKzeE6/GuWk4UAAAAy54GFEUayOA0OkX6f3Id0yreojo=</Value>
+          </ConfigurationSetting>
+        </UserIDs>
+        <UserPasswords>
+          <ConfigurationSetting>
+            <Id>{7F2B5BF2-0D16-4FCB-8291-AA8519AC9E1B}</Id>
+            <Name>{7F2B5BF2-0D16-4FCB-8291-AA8519AC9E1B}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmxeoqbkKOUaQd3GXFmjg0wAAAABOAAAAewA3AEYAMgBCADUAQgBGADIALQAwAEQAMQA2AC0ANABGAEMAQgAtADgAMgA5ADEALQBBAEEAOAA1ADEAOQBBAEMAOQBFADEAQgB9AAAAA2YAAKgAAAAQAAAAfYc0eRbJVMu1KoLZ7AOeOgAAAAAEgAAAoAAAABAAAACMIRYyHeKaIrFjyQ3XYeu2GAAAABPNtperwr+5iEZAt0vYsFoyg8ROyRChLhQAAADBSteiCAkLQ2y+6AIgNBDN/5Uv8g==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>{fc7af2c5-e962-4e5b-a76a-f02a0f5b4e86}</Id>
+            <Name>{fc7af2c5-e962-4e5b-a76a-f02a0f5b4e86}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAmxeoqbkKOUaQd3GXFmjg0wAAAABOAAAAewBmAGMANwBhAGYAMgBjADUALQBlADkANgAyAC0ANABlADUAYgAtAGEANwA2AGEALQBmADAAMgBhADAAZgA1AGIANABlADgANgB9AAAAA2YAAKgAAAAQAAAA3+qNyuTKKHsoiCHMxg3nRQAAAAAEgAAAoAAAABAAAADIX4W12eGhJYLLxDwp539aGAAAAHW7pQvpfGlOeWkBxFL0fc4SSKXoMGm2lhQAAADpsIFedh1i3ZjlUWCvCxCOF8po9Q==</Value>
+          </ConfigurationSetting>
+          <ConfigurationSetting>
+            <Id>{2E546622-6DAD-41DF-A89B-855319FDA05E}</Id>
+            <Name>{2E546622-6DAD-41DF-A89B-855319FDA05E}</Name>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA2PC/0ZtsX0i5HW9q+wMn3gAAAABOAAAAewAyAEUANQA0ADYANgAyADIALQA2AEQAQQBEAC0ANAAxAEQARgAtAEEAOAA5AEIALQA4ADUANQAzADEAOQBGAEQAQQAwADUARQB9AAAAA2YAAKgAAAAQAAAAcBEyPKcLu2IFqB/E81Er1AAAAAAEgAAAoAAAABAAAAAGcKRSTpvdypYqhwQZOZKoGAAAACAOAIgBA6J1ALtVSFbhdqRpBUjZgVI2/RQAAAAB4slbyCZLT/k0/k1W3nj3LhMXFQ==</Value>
+          </ConfigurationSetting>
+        </UserPasswords>
+        <OfflineMode>false</OfflineMode>
+      </Options>
+    </Configuration>
+  </Configurations>
+</DataTransformationsUserConfiguration>

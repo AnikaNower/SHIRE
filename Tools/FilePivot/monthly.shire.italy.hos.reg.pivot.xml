@@ -1,0 +1,12 @@
+<configuration>
+  <SourceFile>D:\customers\77822_Shire_Staging\Data\Italy\HOS_REG_NEW\Input\Temp\ITALY_HOS_REG_DUMP.TXT</SourceFile>
+  <SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+  <SourceKeyColumns>ITALIA,REGIONE,CRP,MNF,ATC1,ATC2,ATC3,ATC4,PRD,LPRDDTE,FRM2,NFC123,PCK no size,LPCKDTE,CLS,STR,CHNL,MOL</SourceKeyColumns>
+  <SourceValueColumns>Sell-in UMF,Sell-in EUR/MNF con sconto,Sell-in USD/MNF con sconto</SourceValueColumns>
+  <TargetFileName>D:\customers\77822_Shire_Staging\Data\Italy\HOS_REG_NEW\Input\Temp\ITALY_HOS_REG_PIVOTED.TXT</TargetFileName>
+  <TargetKeyColumns>TOT~MKT,GEO,CRP,MNF,ATC1,ATC2,ATC3,ATC4,PRD,LPRD,FRM2,NFC123,PCK,LPCK,CLS,STR,CHNLS,MOL</TargetKeyColumns>
+  <TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+  <TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+  <DCKeyColumn></DCKeyColumn>
+  <MoleculeColumn></MoleculeColumn>
+</configuration>

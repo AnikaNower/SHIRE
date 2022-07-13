@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProductVersion>9.0.5000.0</ProductVersion>
+  <SchemaVersion>9.0.1.0</SchemaVersion>
+  <State>$base64$PFNvdXJjZUNvbnRyb2xJbmZvIHhtbG5zOnhzZD0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOmRkbDI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yIiB4bWxuczpkZGwyXzI9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vYW5hbHlzaXNzZXJ2aWNlcy8yMDAzL2VuZ2luZS8yLzIiIHhtbG5zOmR3ZD0iaHR0cDovL3NjaGVtYXMubWljcm9zb2Z0LmNvbS9EYXRhV2FyZWhvdXNlL0Rlc2lnbmVyLzEuMCI+DQogIDxFbmFibGVkPmZhbHNlPC9FbmFibGVkPg0KICA8UHJvamVjdE5hbWU+PC9Qcm9qZWN0TmFtZT4NCiAgPEF1eFBhdGg+PC9BdXhQYXRoPg0KICA8TG9jYWxQYXRoPjwvTG9jYWxQYXRoPg0KICA8UHJvdmlkZXI+PC9Qcm92aWRlcj4NCjwvU291cmNlQ29udHJvbEluZm8+</State>
+  <Database>
+    <Name>SHIRE_77822.database</Name>
+    <FullPath>SHIRE_77822.database</FullPath>
+  </Database>
+  <Cubes />
+  <Dimensions />
+  <DataSources />
+  <DataSourceViews />
+  <MiningModels />
+  <Roles />
+  <Miscellaneous />
+  <Configurations>
+    <Configuration>
+      <Name>Development</Name>
+      <Options>
+        <OutputPath>bin</OutputPath>
+        <ConnectionMappings />
+        <ConnectionProviderMappings />
+        <ConnectionSecurityMappings />
+      </Options>
+    </Configuration>
+  </Configurations>
+  <DTSPackages>
+    <DtsPackage>
+      <Name>SSDF_77822_IMPORT_UK_COMBINED_NATIONAL_MONTHLY.dtsx</Name>
+      <FullPath>SSDF_77822_IMPORT_UK_COMBINED_NATIONAL_MONTHLY.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>SSDF_77822_IMPORT_UK_HOPITAL_NATIONAL_MONTHLY.dtsx</Name>
+      <FullPath>SSDF_77822_IMPORT_UK_HOPITAL_NATIONAL_MONTHLY.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>SSDF_77822_EXPORT_UK_HOPITAL_NATIONAL_MONTHLY.dtsx</Name>
+      <FullPath>SSDF_77822_EXPORT_UK_HOPITAL_NATIONAL_MONTHLY.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>SSDF_77822_IMPORT_IE_RETAIL_NATIONAL_MONTHLY.dtsx</Name>
+      <FullPath>SSDF_77822_IMPORT_IE_RETAIL_NATIONAL_MONTHLY.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>SSDF_77822_IMPORT_IE_HOSPITAL_BRICK_RETAIL_REGIONAL_MONTHLY.dtsx</Name>
+      <FullPath>SSDF_77822_IMPORT_IE_HOSPITAL_BRICK_RETAIL_REGIONAL_MONTHLY.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>SSDF_77822_IMPORT_IE_MINIBRICK_RETAIL_REGIONAL_MONTHLY.dtsx</Name>
+      <FullPath>SSDF_77822_IMPORT_IE_MINIBRICK_RETAIL_REGIONAL_MONTHLY.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_BRICK_MONTHLY_RSA_EXPORT_RSA17800 1.dtsx</Name>
+      <FullPath>77822_UK_BRICK_MONTHLY_RSA_EXPORT_RSA17800 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_EXPORT_SHI01D_BRICK3.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_EXPORT_SHI01D_BRICK3.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_EXPORT_SHI09P_BRICK5.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_EXPORT_SHI09P_BRICK5.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_IMPORT_SHI05P_BRICK1.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_IMPORT_SHI05P_BRICK1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_IMPORT_SHI01D_BRICK3.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_IMPORT_SHI01D_BRICK3.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_IMPORT_SHI03_BRICK4.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_IMPORT_SHI03_BRICK4.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_IMPORT_SHI09P_BRICK5.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_IMPORT_SHI09P_BRICK5.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_OUTLET_SCM_EXPORT_ALD3710W.dtsx</Name>
+      <FullPath>77822_UK_OUTLET_SCM_EXPORT_ALD3710W.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>Package6.dtsx</Name>
+      <FullPath>Package6.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>Package4.dtsx</Name>
+      <FullPath>Package4.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>Package7.dtsx</Name>
+      <FullPath>Package7.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_IT_HOSPITAL_REGIONAL_IMPORT_EXPORT.dtsx</Name>
+      <FullPath>77822_IT_HOSPITAL_REGIONAL_IMPORT_EXPORT.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>SSDF_77822_EXPORT_IE_MINIBRICK_RETAIL_REGIONAL_MONTHLY.dtsx</Name>
+      <FullPath>SSDF_77822_EXPORT_IE_MINIBRICK_RETAIL_REGIONAL_MONTHLY.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_OUTLET_SCM_IMPORT_ALD3710W 3.dtsx</Name>
+      <FullPath>77822_UK_OUTLET_SCM_IMPORT_ALD3710W 3.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_OUTLET_SCM_EXPORT_ALD3710M 1.dtsx</Name>
+      <FullPath>77822_UK_OUTLET_SCM_EXPORT_ALD3710M 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_OUTLET_SCM_IMPORT_ALD3710M 1.dtsx</Name>
+      <FullPath>77822_UK_OUTLET_SCM_IMPORT_ALD3710M 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_CONSOLIDATION.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_CONSOLIDATION.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_EXPORT_SHI05P_BRICK1 2.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_EXPORT_SHI05P_BRICK1 2.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>SSDF_77822_EXPORT_IE_BRICK_RETAIL_REGIONAL_MONTHLY 1.dtsx</Name>
+      <FullPath>SSDF_77822_EXPORT_IE_BRICK_RETAIL_REGIONAL_MONTHLY 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_EXPORT_SHI02_BRICK2 1.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_EXPORT_SHI02_BRICK2 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>SSDF_77822_EXPORT_IE_RETAIL_NATIONAL_MONTHLY 1.dtsx</Name>
+      <FullPath>SSDF_77822_EXPORT_IE_RETAIL_NATIONAL_MONTHLY 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>SSDF_77822_EXPORT_UK_COMBINED_NATIONAL_MONTHLY 1.dtsx</Name>
+      <FullPath>SSDF_77822_EXPORT_UK_COMBINED_NATIONAL_MONTHLY 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_IMPORT_SHI06_BRICK4 1.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_IMPORT_SHI06_BRICK4 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_IMPORT_SUB01_BRICK4 1.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_IMPORT_SUB01_BRICK4 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_EXPORT_SUB01_BRICK4 1.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_EXPORT_SUB01_BRICK4 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_EXPORT_SHI03_BRICK4 1.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_EXPORT_SHI03_BRICK4 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>01@shire_hospital_regional_combined.dtsx</Name>
+      <FullPath>01@shire_hospital_regional_combined.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>SSDF_77822_EXPORT_IE_HOSPITAL_BRICK_RETAIL_REGIONAL_MONTHLY 2.dtsx</Name>
+      <FullPath>SSDF_77822_EXPORT_IE_HOSPITAL_BRICK_RETAIL_REGIONAL_MONTHLY 2.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>01@shire ireland combined.dtsx</Name>
+      <FullPath>01@shire ireland combined.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_SPAIN_HOSPITAL_NATIONAL_IMPORT.dtsx</Name>
+      <FullPath>77822_SPAIN_HOSPITAL_NATIONAL_IMPORT.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_SPAIN_RETAIL_NATIONAL_IMPORT_EXPORT.dtsx</Name>
+      <FullPath>77822_SPAIN_RETAIL_NATIONAL_IMPORT_EXPORT.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>SSDF_77822_IMPORT_IE_BRICK_RETAIL_REGIONAL_MONTHLY 1.dtsx</Name>
+      <FullPath>SSDF_77822_IMPORT_IE_BRICK_RETAIL_REGIONAL_MONTHLY 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>Package11.dtsx</Name>
+      <FullPath>Package11.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>spain_hospital.dtsx</Name>
+      <FullPath>spain_hospital.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_IT_HOSPITAL_REGIONAL_IMPORT_EXPORT_OLD.dtsx</Name>
+      <FullPath>77822_IT_HOSPITAL_REGIONAL_IMPORT_EXPORT_OLD.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_IMPORT_SHI02_BRICK2 1.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_IMPORT_SHI02_BRICK2 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>Package3 2.dtsx</Name>
+      <FullPath>Package3 2.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_BRICK_MONTHLY_RSA_IMPORT_RSA17800 2.dtsx</Name>
+      <FullPath>77822_UK_BRICK_MONTHLY_RSA_IMPORT_RSA17800 2.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>77822_UK_HOSPITAL_BRICK_EXPORT_SHI06_BRICK4 3.dtsx</Name>
+      <FullPath>77822_UK_HOSPITAL_BRICK_EXPORT_SHI06_BRICK4 3.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>02@new updated shire ireland combined.dtsx</Name>
+      <FullPath>02@new updated shire ireland combined.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+    <DtsPackage>
+      <Name>Package5 1.dtsx</Name>
+      <FullPath>Package5 1.dtsx</FullPath>
+      <References />
+    </DtsPackage>
+  </DTSPackages>
+</Project>

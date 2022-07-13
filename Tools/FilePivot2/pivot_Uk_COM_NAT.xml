@@ -1,0 +1,21 @@
+<configuration>
+<SourceFile>D:\customers\77822_Shire_Staging\Data\United Kingdom\COM_NAT\Input\UK_COM_NAT_DUMP.txt</SourceFile>
+<SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+<SourceKeyColumns>PANEL,MKT~TYPE,ATC3,ATC4,CORP,MANU~FACT,NFC~123,STR,GEN,PI,REIM,PRES~BND,PROD~AGE,PROD,PACK,MOL,DCKey 1,LP MAR 2008</SourceKeyColumns>
+<SourceValueColumns>UNITS,STG,CNT.UNITS</SourceValueColumns>
+<TargetFileName>D:\customers\77822_Shire_Staging\Data\United Kingdom\COM_NAT\Input\UK_COM_NAT_PIVOTED.txt</TargetFileName>
+<TargetKeyColumns>PANEL,MKT~TYPE,ATC3,ATC4,CORP,MANU~FACT,NFC~123,STR,GEN,PI,REIM,PRES~BND,PROD~AGE,PROD,PACK,MOL,DCKey 1,Latest Price</TargetKeyColumns>
+<TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+<TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+<DCKeyColumn>DCKey 1</DCKeyColumn>
+<MoleculeColumn>MOL</MoleculeColumn>
+</configuration>
+
+
+
+
+
+
+
+
+

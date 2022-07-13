@@ -1,0 +1,2 @@
+FilePivot.exe pivot_Spain_national_retail.xml
+pause

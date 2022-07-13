@@ -1,0 +1,12 @@
+<configuration>
+<SourceFile>D:\Pliva\National\Data\Source\Czech\Czech.txt</SourceFile>
+<SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+<SourceKeyColumns>Pharm~Hosp,ATC1,ATC2,ATC3,ATC4,Crp,MIDAS~Crp,Mnf,Prd,Str,Pck,NFC~1,NFC~2,NFC~3,RX/OTC,Launch~Year,Launch~Date,DDD~Fact,DDD~Unit,Mono~Combi,DCKey 1,MOL,Latest MNF Price Oct/06,Latest Price Oct/06</SourceKeyColumns>
+<SourceValueColumns>Units,LC Sales,USD Sales,EURO Sales,DOT</SourceValueColumns>
+<TargetFileName>D:\Pliva\National\Data\Source\Czech\Czech_unpivoted.txt</TargetFileName>
+<TargetKeyColumns>Pharm~Hosp,ATC1,ATC2,ATC3,ATC4,Crp,MIDAS~Crp,Mnf,Prd,Str,Pck,NFC~1,NFC~2,NFC~3,RX/OTC,Launch~Year,Launch~Date,DDD~Fact,DDD~Unit,Mono~Combi,DCKey 1,MOL,Latest MNF Price Oct/06,Latest Price Oct/06</TargetKeyColumns>
+<TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+<TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+<DCKeyColumn>DCKey 1</DCKeyColumn>
+<MoleculeColumn>MOL</MoleculeColumn>
+</configuration>

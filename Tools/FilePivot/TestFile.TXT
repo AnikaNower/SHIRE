@@ -1,0 +1,1905 @@
+Serial|Nick|Desig|Member of Team|Assigned|Skill Set|Team|Pivotal|Project|DATE-1/29/2007|DATE-2/5/2007|DATE-2/12/2007|DATE-2/19/2007|DATE-2/26/2007|DATE-3/5/2007|DATE-3/12/2007|DATE-3/19/2007|DATE-3/26/2007|DATE-4/2/2007|DATE-4/9/2007|DATE-4/16/2007|DATE-4/23/2007|DATE-4/30/2007|DATE-5/7/2007|DATE-5/14/2007|DATE-5/21/2007|DATE-5/28/2007|DATE-6/4/2007|DATE-6/11/2007|DATE-6/18/2007|DATE-6/25/2007|DATE-7/2/2007|DATE-7/9/2007|DATE-7/16/2007|DATE-7/23/2007|DATE-7/30/2007|DATE-8/6/2007|DATE-8/13/2007|DATE-8/20/2007|DATE-8/27/2007  
+|Reza|APM|1||Analyst PM|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Reza|APM|1|y|Analyst PM|10|INT|Training/Other|||20||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2||CRB project extension|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Reza|APM|1|y|Analyst PM|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Reza|APM|1|y|Analyst PM|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|1|NA|QA|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Reza|APM|1|y|Analyst PM|3|TBA|GSK SCM Survey and Production|||10||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM||PROP|E-learning|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Reza|APM|1|y|Analyst PM|2|TBA|Bayers Reportive (500)|||30||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM||x|Un Assigned|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM||x|Un Assigned|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM||x|Un Assigned|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM||x|Un Assigned|||||||||||||||||||||||||||||||
+|Reza|APM|1||Analyst PM|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Reza|APM|1|y|Analyst PM|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Rahat|AA|1|y|Analyst/Oracle |10|INT|Training/Other|||20||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle ||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2||CRB project extension|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle ||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Rahat|AA|1|y|Analyst/Oracle |1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Rahat|AA|1|y|Analyst/Oracle |1||PEP Document Navigator|||50||||||||||||||||||||||||||||
+|Rahat|AA|1|y|Analyst/Oracle |10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Rahat|AA|1|y|Analyst/Oracle |1|NA|QA|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Rahat|AA|1|y|Analyst/Oracle |3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2||3rd Level Support|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Rahat|AA|1|y|Analyst/Oracle |10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |1||WAS 5.0|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle ||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle ||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle ||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle ||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle ||PROP|E-learning|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle |3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Rahat|AA|1||Analyst/Oracle ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Rahat|AA|1|y|Analyst/Oracle |10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Rahat|AA|1|y|Analyst/Oracle |10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3||Epervier2 - Phase III - Client Billable|||10||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|10|INT|Training/Other|||10||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3||Pliva Dashboard|||50||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2||CRB project extension|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|1|NA|QA|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3||Pfizer TMS Maint & Production|||5||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard||PROP|E-learning|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3|Internal|Team Management Ativities|||10||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|3|TBA|Grunenthal Dashboard (60)|||20||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard||x|Un Assigned|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard||x|Un Assigned|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard||x|Un Assigned|||||||||||||||||||||||||||||||
+|Khaled|SE|3||Java, JavaScript, VB.Net, SQL Oracle. Dashboard||x|Un Assigned|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Khaled|SE|3|y|Java, JavaScript, VB.Net, SQL Oracle. Dashboard|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |10|INT|Training/Other|||10||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2||ClinTCF R2 |||50||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle ||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2||CRB project extension|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle ||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |1|NA|QA|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2||3rd Level Support|||50||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |1||WAS 5.0|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle ||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle ||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle ||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle ||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle ||PROP|E-learning|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2|TBA|Daichii-Sankyo Germany Reportive|||5||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle |3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2||PB, Oracle ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Tanveer|SSE|2|y|PB, Oracle |10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Arif|SSE|2|y|Oracle, SQL|10|INT|Training/Other|||10||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Arif|SSE|2|y|Oracle, SQL|2||ClinTCF R2 |||50||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Arif|SSE|2|y|Oracle, SQL|2||CRB project extension|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|1|NA|QA|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Arif|SSE|2|y|Oracle, SQL|2||3rd Level Support|||50||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL||PROP|E-learning|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Arif|SSE|2||Oracle, SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Arif|SSE|2|y|Oracle, SQL|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Arif|SSE|2|y|Oracle, SQL|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Chisty|SSE|1|y|J2EE, Hibernate, Oracle, SQL|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Chisty|SSE|1|y|J2EE, Hibernate, Oracle, SQL|10|INT|Training/Other|||20||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2||CRB project extension|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Chisty|SSE|1|y|J2EE, Hibernate, Oracle, SQL|1||PEP Document Navigator|||20||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|1|NA|QA|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL||PROP|E-learning|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Chisty|SSE|1||J2EE, Hibernate, Oracle, SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Chisty|SSE|1|y|J2EE, Hibernate, Oracle, SQL|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Chisty|SSE|1|y|J2EE, Hibernate, Oracle, SQL|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Saif|SSE|1|y|J2EE, IMS DATA|10|INT|Training/Other|||10||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2||CRB project extension|||||||||||||||||||||||||||||||
+|Saif|SSE|1|y|J2EE, IMS DATA||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Saif|SSE|1|y|J2EE, IMS DATA|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Saif|SSE|1|y|J2EE, IMS DATA|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|1|NA|QA|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Saif|SSE|1|y|J2EE, IMS DATA|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Saif|SSE|1|y|J2EE, IMS DATA|1||AvaGuide Maintenance|||1||||||||||||||||||||||||||||
+|Saif|SSE|1|y|J2EE, IMS DATA|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Saif|SSE|1|y|J2EE, IMS DATA||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA||PROP|E-learning|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Saif|SSE|1|y|J2EE, IMS DATA|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA||x|Un Assigned|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA||x|Un Assigned|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA||x|Un Assigned|||||||||||||||||||||||||||||||
+|Saif|SSE|1||J2EE, IMS DATA||x|Un Assigned|||||||||||||||||||||||||||||||
+|Saif|SSE|1|y|J2EE, IMS DATA|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Saif|SSE|1|y|J2EE, IMS DATA|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Zahid|SSE|1|y|J2EE, Hibernate, Oracle, SQL|10|INT|Training/Other|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2||CRB project extension|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Zahid|SSE|1|y|J2EE, Hibernate, Oracle, SQL|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Zahid|SSE|1|y|J2EE, Hibernate, Oracle, SQL|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Zahid|SSE|1|y|J2EE, Hibernate, Oracle, SQL|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|1|NA|QA|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Zahid|SSE|1|y|J2EE, Hibernate, Oracle, SQL|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL||PROP|E-learning|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Zahid|SSE|1|y|J2EE, Hibernate, Oracle, SQL|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Zahid|SSE|1||J2EE, Hibernate, Oracle, SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Zahid|SSE|1|y|J2EE, Hibernate, Oracle, SQL|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Zahid|SSE|1|y|J2EE, Hibernate, Oracle, SQL|10|INT|Leave / Holiday|||100||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Nusrat|SE|2|y|DOC,  JAVA, PB,AScript, Flash, Java, |10|INT|Training/Other|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Nusrat|SE|2|y|DOC,  JAVA, PB,AScript, Flash, Java, |2||ClinTCF R2 |||50||||||||||||||||||||||||||||
+|Nusrat|SE|2|y|DOC,  JAVA, PB,AScript, Flash, Java, |3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, ||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |2||CRB project extension|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, ||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Nusrat|SE|2|y|DOC,  JAVA, PB,AScript, Flash, Java, |||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |1|NA|QA|||||||||||||||||||||||||||||||
+|Nusrat|SE|1|y|DOC,  JAVA, PB,AScript, Flash, Java, |1|TBA|Novartis - CareerPathway - Training material|||5||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Nusrat|SE|2|y|DOC,  JAVA, PB,AScript, Flash, Java, |2||3rd Level Support|||45||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Nusrat|SE|2|y|DOC,  JAVA, PB,AScript, Flash, Java, |2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |1||WAS 5.0|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, ||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, ||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, ||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, ||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, ||PROP|E-learning|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, |3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Nusrat|SE|2||DOC,  JAVA, PB,AScript, Flash, Java, ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Nusrat|SE|2|y|DOC,  JAVA, PB,AScript, Flash, Java, |10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Nusrat|SE|2|y|DOC,  JAVA, PB,AScript, Flash, Java, |10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2|y|PB, Java,  Dotnet|10|INT|Training/Other|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2|y|PB, Java,  Dotnet|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2|y|PB, Java,  Dotnet|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2|y|PB, Java,  Dotnet|2||ClinTCF R2 |||50||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|2||CRB project extension|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2|y|PB, Java,  Dotnet|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|1|NA|QA|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2|y|PB, Java,  Dotnet|2||3rd Level Support|||50||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Mahfuz|SE|2|y|PB, Java,  Dotnet|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet||PROP|E-learning|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet||x|Un Assigned|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet||x|Un Assigned|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet||x|Un Assigned|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2||PB, Java,  Dotnet||x|Un Assigned|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2|y|PB, Java,  Dotnet|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Mahfuz|SE|2|y|PB, Java,  Dotnet|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Aabir|SE|3|y|Infra, Backend , Support and documentation|3||Derivatives Appr Project|||20||||||||||||||||||||||||||||
+|Aabir|SE|3|y|Infra, Backend , Support and documentation|3||Derivatives Maintenance|||40||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Aabir|SE|3|y|Infra, Backend , Support and documentation|3|INT|Infrastructure|||10||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Aabir|SE|3|y|Infra, Backend , Support and documentation|10|INT|Training/Other|||20||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2||CRB project extension|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|1|NA|QA|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation||PROP|E-learning|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Aabir|SE|3|y|Infra, Backend , Support and documentation|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Aabir|SE|3|y|Infra, Backend , Support and documentation|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation||x|Un Assigned|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation||x|Un Assigned|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation||x|Un Assigned|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation||x|Un Assigned|||||||||||||||||||||||||||||||
+|Aabir|SE|3||Infra, Backend , Support and documentation|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Aabir|SE|3|y|Infra, Backend , Support and documentation|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Akber|WD|1|y|Web, Graphics, Action Script|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Akber|WD|1|y|Web, Graphics, Action Script|10|INT|Training/Other|||20||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2||CRB project extension|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Akber|WD|1|y|Web, Graphics, Action Script|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Akber|WD|1|y|Web, Graphics, Action Script|1|NA|QA|||10||||||||||||||||||||||||||||
+|Akber|WD|1|y|Web, Graphics, Action Script|1|TBA|Novartis - CareerPathway - Training material|||70||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Akber|WD|1|y|Web, Graphics, Action Script|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script||PROP|E-learning|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script||x|Un Assigned|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script||x|Un Assigned|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script||x|Un Assigned|||||||||||||||||||||||||||||||
+|Akber|WD|1||Web, Graphics, Action Script||x|Un Assigned|||||||||||||||||||||||||||||||
+|Akber|WD|1|y|Web, Graphics, Action Script|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Akber|WD|1|y|Web, Graphics, Action Script|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |3||Epervier2 - Phase III - Client Billable|||5||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||5||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |10|INT|Training/Other|||10||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |3||Pliva Dashboard|||40||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 ||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2||CRB project extension|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 ||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |3||Ferring Parallel Trade Project|||5||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |1|NA|QA|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2||3rd Level Support|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |1||WAS 5.0|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |3||AZ TDD Europe  -Maintenance|||15||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 ||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 ||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 ||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 ||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 ||PROP|E-learning|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 |2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |3|TBA|Grunenthal Dashboard (60)|||25||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Imran|SSE|3||.Net, SQL, VB, Dev2000 ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Imran|SSE|3|y|.Net, SQL, VB, Dev2000 |10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||5||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB|10|INT|Training/Other|||15||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2||CRB project extension|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB|3||Ferring Parallel Trade Project|||10||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|1|NA|QA|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB||PROP|E-learning|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB|3|TBA|Grunenthal Dashboard (60)|||70||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB||x|Un Assigned|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB||x|Un Assigned|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB||x|Un Assigned|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3||INFRA, PB||x|Un Assigned|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Rezwan|SSE|3|y|INFRA, PB|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Shurid|SSE|1|y|DOTNET SQL|10|INT|Training/Other|||10||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Shurid|SSE|1|y|DOTNET SQL|2|NA|WebInfo - Core|||50||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Shurid|SSE|1|y|DOTNET SQL|3||Pliva Dashboard|||40||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2||CRB project extension|||||||||||||||||||||||||||||||
+|Shurid|SSE|1|y|DOTNET SQL||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Shurid|SSE|1|y|DOTNET SQL|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|1|NA|QA|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL||PROP|E-learning|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Shurid|SSE|1||DOTNET SQL||x|Un Assigned|||||||||||||||||||||||||||||||
+|Shurid|SSE|1|y|DOTNET SQL|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Shurid|SSE|1|y|DOTNET SQL|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1|y|SQA, Documentation|10|INT|Training/Other|||50||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2||CRB project extension|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1|y|SQA, Documentation||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1|y|SQA, Documentation|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1|y|SQA, Documentation|1|NA|QA|||20||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1|y|SQA, Documentation|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1|y|SQA, Documentation|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1|y|SQA, Documentation||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1|y|SQA, Documentation||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation||PROP|E-learning|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1|y|SQA, Documentation|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1|y|SQA, Documentation|2|TBA|Bayers Reportive (500)|||30||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation||x|Un Assigned|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation||x|Un Assigned|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation||x|Un Assigned|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1||SQA, Documentation||x|Un Assigned|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1|y|SQA, Documentation|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Mahbub|SSE|1|y|SQA, Documentation|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Rajib|SE|3|y|INFRA, |3||Derivatives Appr Project|||60||||||||||||||||||||||||||||
+|Rajib|SE|3|y|INFRA, |3||Derivatives Maintenance|||20||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Rajib|SE|3|y|INFRA, |3|INT|Infrastructure|||5||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Rajib|SE|3|y|INFRA, |10|INT|Training/Other|||10||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, ||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2||CRB project extension|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, ||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |1|NA|QA|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2||3rd Level Support|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |1||WAS 5.0|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, ||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, ||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, ||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, ||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, ||PROP|E-learning|||||||||||||||||||||||||||||||
+|Rajib|SE|3|y|INFRA, |3|Internal|Team Management Ativities|||5||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, |3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Rajib|SE|3||INFRA, ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Rajib|SE|3|y|INFRA, |10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Rajib|SE|3|y|INFRA, |10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|3||Derivatives Appr Project|||5||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||30||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||25||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|3|INT|Infrastructure|||10||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|10|INT|Training/Other|||10||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2||CRB project extension|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|3|TBA|Schering-Plough Performance Dash board|||20||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|1|NA|QA|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB||PROP|E-learning|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB||x|Un Assigned|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB||x|Un Assigned|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB||x|Un Assigned|||||||||||||||||||||||||||||||
+|Ritesh|SE|3||.NET SQL, VB||x|Un Assigned|||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Ritesh|SE|3|y|.NET SQL, VB|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Abedin|SSE|1|y|Java, J2EE, XML, WebDev|10|INT|Training/Other|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2||CRB project extension|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Abedin|SSE|1|y|Java, J2EE, XML, WebDev|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|1|NA|QA|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev||PROP|E-learning|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev||x|Un Assigned|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev||x|Un Assigned|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev||x|Un Assigned|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev||x|Un Assigned|||||||||||||||||||||||||||||||
+|Abedin|SSE|1||Java, J2EE, XML, WebDev|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Abedin|SSE|1|y|Java, J2EE, XML, WebDev|10|INT|Leave / Holiday|||80||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2|y|PB, Java, .Net, VC++, Oracle|10|INT|Training/Other|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2|y|PB, Java, .Net, VC++, Oracle|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2|y|PB, Java, .Net, VC++, Oracle|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|2||CRB project extension|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|1|NA|QA|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2|y|PB, Java, .Net, VC++, Oracle|2||3rd Level Support|||100||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle||PROP|E-learning|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle||x|Un Assigned|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle||x|Un Assigned|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle||x|Un Assigned|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2||PB, Java, .Net, VC++, Oracle||x|Un Assigned|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2|y|PB, Java, .Net, VC++, Oracle|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Shonjoy |SE|2|y|PB, Java, .Net, VC++, Oracle|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2|y|.NET, SQL, PB|10|INT|Training/Other|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2|y|.NET, SQL, PB|2||ClinTCF R2 |||50||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|2||CRB project extension|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|1|NA|QA|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2|y|.NET, SQL, PB|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB||PROP|E-learning|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2|y|.NET, SQL, PB|2|TBA|Daichii-Sankyo Germany Reportive|||20||||||||||||||||||||||||||||
+|Iftekhar|SE|2|y|.NET, SQL, PB|2|TBA|Bayers Reportive (500)|||25||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB||x|Un Assigned|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB||x|Un Assigned|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB||x|Un Assigned|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2||.NET, SQL, PB||x|Un Assigned|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2|y|.NET, SQL, PB|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Iftekhar|SE|2|y|.NET, SQL, PB|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Debasish|SSE|1|y|Java, DOTNET|10|INT|Training/Other|||20||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2||CRB project extension|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Debasish|SSE|1|y|Java, DOTNET|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Debasish|SSE|1|y|Java, DOTNET|3|TBA|IMS PMO DB|||40||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|1|NA|QA|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Debasish|SSE|1|y|Java, DOTNET|3|TBA|GSK SCM Survey and Production|||30||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Debasish|SSE|1|y|Java, DOTNET|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Debasish|SSE|1|y|Java, DOTNET|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Debasish|SSE|1|y|Java, DOTNET||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Debasish|SSE|1|y|Java, DOTNET||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET||PROP|E-learning|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Debasish|SSE|1|y|Java, DOTNET|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET||x|Un Assigned|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET||x|Un Assigned|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET||x|Un Assigned|||||||||||||||||||||||||||||||
+|Debasish|SSE|1||Java, DOTNET||x|Un Assigned|||||||||||||||||||||||||||||||
+|Debasish|SSE|1|y|Java, DOTNET|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Debasish|SSE|1|y|Java, DOTNET|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Sadman|SSE|1|y|Sybase|10|INT|Training/Other|||30||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Sadman|SSE|1|y|Sybase|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2||CRB project extension|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Sadman|SSE|1|y|Sybase|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|1|NA|QA|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase||PROP|E-learning|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Sadman|SSE|1|y|Sybase|3|TBA|Grunenthal Dashboard (60)|||50||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase||x|Un Assigned|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase||x|Un Assigned|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase||x|Un Assigned|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase||x|Un Assigned|||||||||||||||||||||||||||||||
+|Sadman|SSE|1||Sybase|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Sadman|SSE|1|y|Sybase|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Borua|SSE|2|y|PB, Java|10|INT|Training/Other|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Borua|SSE|3|y|PB, Java|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|2||CRB project extension|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Borua|SSE|2|y|PB, Java|3||Ferring Parallel Trade Project|||40||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|1|NA|QA|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java||PROP|E-learning|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Borua|SSE|2|y|PB, Java|2|TBA|Daichii-Sankyo Germany Reportive|||30||||||||||||||||||||||||||||
+|Borua|SSE|2|y|PB, Java|2|TBA|Bayers Reportive (500)|||30||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java||x|Un Assigned|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java||x|Un Assigned|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java||x|Un Assigned|||||||||||||||||||||||||||||||
+|Borua|SSE|2||PB, Java||x|Un Assigned|||||||||||||||||||||||||||||||
+|Borua|SSE|2|y|PB, Java|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Borua|SSE|2|y|PB, Java|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Azad|SE|2|y|PB, Java|10|INT|Training/Other|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Azad|SE|2|y|PB, Java|2|TBA|PADDS 7|||100||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|2||CRB project extension|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|1|NA|QA|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Azad|SE|2|y|PB, Java|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java||PROP|E-learning|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java||x|Un Assigned|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java||x|Un Assigned|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java||x|Un Assigned|||||||||||||||||||||||||||||||
+|Azad|SE|2||PB, Java||x|Un Assigned|||||||||||||||||||||||||||||||
+|Azad|SE|2|y|PB, Java|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Azad|SE|2|y|PB, Java|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Sadeka|SE|2|y|PB, Java|10|INT|Training/Other|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Sadeka|SE|2|y|PB, Java|2|TBA|PADDS 7|||100||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|2||CRB project extension|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|1|NA|QA|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Sadeka|SE|2|y|PB, Java|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java||PROP|E-learning|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Sadeka|SE|2|y|PB, Java|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java||x|Un Assigned|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java||x|Un Assigned|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java||x|Un Assigned|||||||||||||||||||||||||||||||
+|Sadeka|SE|2||PB, Java||x|Un Assigned|||||||||||||||||||||||||||||||
+|Sadeka|SE|2|y|PB, Java|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Sadeka|SE|2|y|PB, Java|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Towhid|SE|3|y|Infra, C++|3||Derivatives Appr Project|||10||||||||||||||||||||||||||||
+|Towhid|SE|3|y|Infra, C++|3||Derivatives Maintenance|||30||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Towhid|SE|3|y|Infra, C++|3|INT|Infrastructure|||10||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Towhid|SE|3|y|Infra, C++|10|INT|Training/Other|||50||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|2||CRB project extension|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|1|NA|QA|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Towhid|SE|3|y|Infra, C++|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++||PROP|E-learning|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Towhid|SE|3|y|Infra, C++|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Towhid|SE|3|y|Infra, C++|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Towhid|SE|3|y|Infra, C++|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++||x|Un Assigned|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++||x|Un Assigned|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++||x|Un Assigned|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++||x|Un Assigned|||||||||||||||||||||||||||||||
+|Towhid|SE|3||Infra, C++|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Towhid|SE|3|y|Infra, C++|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Shameen|SE|2|y|Oracle, PB, Backend |10|INT|Training/Other|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Shameen|SE|2|y|Oracle, PB, Backend |2||ClinTCF R2 |||100||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend ||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Shameen|SE|2|y|Oracle, PB, Backend |2||CRB project extension|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend ||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |1|NA|QA|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |2||3rd Level Support|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |1||WAS 5.0|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend ||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend ||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend ||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend ||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend ||PROP|E-learning|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend |3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Shameen|SE|2||Oracle, PB, Backend ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Shameen|SE|2|y|Oracle, PB, Backend |10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Shameen|SE|2|y|Oracle, PB, Backend |10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||30||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |10|INT|Training/Other|||10||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |3||Pliva Dashboard|||40||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  ||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |2||CRB project extension|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  ||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |3|TBA|Schering-Plough Performance Dash board|||10||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |1|NA|QA|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |2||3rd Level Support|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |1||WAS 5.0|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  ||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  ||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  ||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  ||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  ||PROP|E-learning|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  |3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Atiar|SE|3||JAVA DOTNET Net SQL)  ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Atiar|SE|3|y|JAVA DOTNET Net SQL)  |10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Maftuha|SE|2|y|Fresh (Reportive)|10|INT|Training/Other|||10||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Maftuha|SE|2|y|Fresh (Reportive)|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|2||CRB project extension|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|1|NA|QA|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Maftuha|SE|2|y|Fresh (Reportive)|2||3rd Level Support|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Maftuha|SE|2|y|Fresh (Reportive)|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|1||WAS 5.0|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)||PROP|E-learning|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Maftuha|SE|2|y|Fresh (Reportive)|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Maftuha|SE|2|y|Fresh (Reportive)|2|TBA|Bayers Reportive (500)|||20||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)||x|Un Assigned|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)||x|Un Assigned|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)||x|Un Assigned|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)||x|Un Assigned|||||||||||||||||||||||||||||||
+|Maftuha|SE|2||Fresh (Reportive)|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Maftuha|SE|2|y|Fresh (Reportive)|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|PBNEW|SE|2|y|PB (DOT Net SQL)  |10|INT|Training/Other|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|PBNEW|SE|2|y|PB (DOT Net SQL)  |2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|PBNEW|SE|2|y|PB (DOT Net SQL)  |2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  ||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |2||CRB project extension|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  ||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |1|NA|QA|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3||Migration Crystal II|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|PBNEW|SE|2|y|PB (DOT Net SQL)  |2||3rd Level Support|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|PBNEW|SE|2|y|PB (DOT Net SQL)  |2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |1||WAS 5.0|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  ||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  ||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  ||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  ||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  ||PROP|E-learning|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  ||x|Un Assigned|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  ||x|Un Assigned|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  ||x|Un Assigned|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  ||x|Un Assigned|||||||||||||||||||||||||||||||
+|PBNEW|SE|2||PB (DOT Net SQL)  |10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|PBNEW|SE|2|y|PB (DOT Net SQL)  |10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|PADDS1|SE|2|y|VB/Dotnet + Trained Reportive|10|INT|Training/Other|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|PADDS1|SE|2|y|VB/Dotnet + Trained Reportive|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|2||CRB project extension|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|1|NA|QA|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|PADDS1|SE|2|y|VB/Dotnet + Trained Reportive|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|PADDS1|SE|2|y|VB/Dotnet + Trained Reportive|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|2||3rd Level Support|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|1||WAS 5.0|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive||PROP|E-learning|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive||x|Un Assigned|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive||x|Un Assigned|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive||x|Un Assigned|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive||x|Un Assigned|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|PADDS1|SE|2||VB/Dotnet + Trained Reportive|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|Java1|SE|2|y|JAVA DOTNET Net SQL)  |10|INT|Training/Other|||||||||||||||||||||||||||||||
+|Java1|SE|2|y|JAVA DOTNET Net SQL)  |2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|Java1|SE|2|y|JAVA DOTNET Net SQL)  |2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  ||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |2||CRB project extension|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  ||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |1|NA|QA|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3||Migration Crystal II|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |2||3rd Level Support|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |1||WAS 5.0|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  ||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  ||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  ||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  ||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  ||PROP|E-learning|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  ||x|Un Assigned|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|Java1|SE|2||JAVA DOTNET Net SQL)  |10|INT|Leave / Holiday|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3||Derivatives Appr Project|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3||Derivatives Maintenance|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3||Epervier2 - Phase III - Client Billable|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3|TBA-Q|AsiaPacific AZ Dashboard Prod &Maint|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3|5296/5297|Pfizer EUCAN/PGP Europe Data Feeds|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3|INT|Infrastructure|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3|TBA|Generic Dashboard Mockup|||||||||||||||||||||||||||||||
+|DEV1|SSE|1|y|DOT Net SQL /VBA|10|INT|Training/Other|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2||WinFx 6.2 Maintenance ( Feb 06 - Jan 07)|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2|NA|WebInfo - Core|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2||ClinTCF R2 |||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3||Pliva Dashboard|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA||NA|SSIS Reportive Service USA|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2|TBA|PADDS 7|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2||CRB project extension|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA||TBA|Marck NGAT-Phase II + T&M|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|1||Sankyo eCRF|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|1||PEP Document Navigator|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|10|PROP|Buissness Development|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2||WinFX 6.0 Upgrade|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2||WebInfo Maintenance (Novatis) |||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|||ClinTransfer WSL 8.1 Migration|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3|TBA|IMS PMO DB|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3||Ferring Parallel Trade Project|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3|TBA|Schering-Plough Performance Dash board|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|1|NA|QA|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|1|TBA|Novartis - CareerPathway - Training material|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2|TBA|PADDS  (Japanese PADDS)|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2|TBA|World review - Reportive (PADDS)|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3|TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3||Migration Crystal II|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2|TBA|PADDS (Italy)|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2||3rd Level Support|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|||EEMEA Country Market Tracker |||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2|Internal|InfoFX Migration|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|10|PROP|Business Development USA|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|1||AvaGuide Maintenance|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|1||WAS 5.0|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3||AZ TDD Europe  -Maintenance|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3||Pfizer TMS Maint & Production|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3||Servier Epervier Dashboard Maintenance |||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA||TBA|GSK SCM Survey and Production|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA||IM_39136|SPMSD Sanofi-Pasteur|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA||PROP|SQL (USA)|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA||PROP|BI  (USA) |||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA||PROP|E-learning|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3|Internal|Team Management Ativities|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2|TBA|Daichii-Sankyo Germany Reportive|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|2|TBA|Bayers Reportive (500)|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|3|TBA|Grunenthal Dashboard (60)|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA||x|Un Assigned|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA||x|Un Assigned|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA||x|Un Assigned|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA||x|Un Assigned|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|10|INT|Reserved for PF in Pipeline|||||||||||||||||||||||||||||||
+|DEV1|SSE|1||DOT Net SQL /VBA|10|INT|Leave / Holiday|||||||||||||||||||||||||||||||

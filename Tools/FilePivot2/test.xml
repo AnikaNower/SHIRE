@@ -1,0 +1,14 @@
+<configuration>
+  <SourceFile>D:\customers\77822_Shire_Staging\Tools\FilePivot\testFile.TXT</SourceFile>
+  <SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+  
+<SourceKeyColumns>Serial,Nick,Desig,Member of Team,Assigned,Skill Set,Team,Pivotal,Project</SourceKeyColumns>
+
+
+<SourceValueColumns>DATE-</SourceValueColumns>
+  <TargetFileName>D:\customers\77822_Shire_Staging\Tools\FilePivot\TestFilePivot.TXT</TargetFileName>
+  
+<TargetKeyColumns>Serial,Nick,Desig,Member of Team,Assigned,Skill Set,Team,Pivotal,Project</TargetKeyColumns>
+<TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+  <TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+</configuration>

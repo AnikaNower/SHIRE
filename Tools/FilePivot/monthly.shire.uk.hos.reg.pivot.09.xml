@@ -1,0 +1,12 @@
+<configuration>
+  <SourceFile>Y:\77822_Shire_Staging\Data\United Kingdom\HOS_REG\SHI09P\Input\Temp\DUMP_SHI09P.TXT</SourceFile>
+  <SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+  <SourceKeyColumns>Product,Pack,In~Out,Dept,Manf,Hosp,Hosp~Code,Market,Region,Terr,Brick,Comb~mole,NFC</SourceKeyColumns>
+  <SourceValueColumns>Cash,Volume</SourceValueColumns>
+  <TargetFileName>Y:\77822_Shire_Staging\Data\United Kingdom\HOS_REG\SHI09P\Input\Temp\PIVOT_SHI09P.TXT</TargetFileName>
+  <TargetKeyColumns>Product,Pack,[In~Out],Dept,Manf,Hosp,[Hosp~Code],Market,Region,Terr,Brick,[Comb~mole],NFC</TargetKeyColumns>
+  <TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+  <TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+  <DCKeyColumn></DCKeyColumn>
+  <MoleculeColumn></MoleculeColumn>
+</configuration>

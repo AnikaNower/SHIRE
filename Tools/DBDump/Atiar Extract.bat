@@ -1,0 +1,2 @@
+D:\customers\77822_Shire_Staging\Tools\DBDump\DbDump.exe D:\customers\77822_Shire_Staging\Data\Ireland\Hospital Brick\DBNSHHAA.ZIP D:\customers\77822_Shire_Staging\Data\Ireland\Hospital Brick\IE_DUMP.txt D:\Temp
+pause

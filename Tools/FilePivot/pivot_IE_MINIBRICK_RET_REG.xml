@@ -1,0 +1,22 @@
+<configuration>
+<SourceFile>D:\customers\77822_Shire_Staging\Data\Ireland\Retail Minibrick\Input\Temp\IE_MINIBRICK_DUMP.txt</SourceFile>
+<SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+<SourceKeyColumns>TERR~ITORY,OLD~BRICK,BRICK,MINI~BRICK,MKT,PROD</SourceKeyColumns>
+<SourceValueColumns>EUROS,UNITS</SourceValueColumns>
+<SkipSourceValueColumns>EUROS QTR,UNITS QTR,EUROS MAT,UNITS MAT</SkipSourceValueColumns>
+<TargetFileName>D:\customers\77822_Shire_Staging\Data\Ireland\Retail Minibrick\Input\Temp\IE_MINIBRICK_RET_REG_PIVOTED.TXT</TargetFileName>
+<TargetKeyColumns>TERR~ITORY,OLD~BRICK,BRICK,MINI~BRICK,MKT,PROD</TargetKeyColumns>
+<TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+<TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+<DCKeyColumn></DCKeyColumn>
+<MoleculeColumn></MoleculeColumn>
+</configuration>
+
+
+
+
+
+
+
+
+

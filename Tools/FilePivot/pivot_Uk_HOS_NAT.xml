@@ -1,0 +1,16 @@
+<configuration>
+<SourceFile>D:\customers\77822_Shire_Staging\Data\United Kingdom\HOS_NAT\Input\UK_HOS_NAT_DUMP.txt</SourceFile>
+<SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+<SourceKeyColumns>MKT~TYPE,ATC1,ATC2,ATC3,ATC4,CORP,MANU~FACT,STR,PROD,PACK,MOL,DCKey 1,LP APR 2012</SourceKeyColumns>
+<SourceValueColumns>UNITS,STG,CNT.UNITS</SourceValueColumns>
+<TargetFileName>D:\customers\77822_Shire_Staging\Data\United Kingdom\HOS_NAT\Input\UK_HOS_NAT_PIVOTED.txt</TargetFileName>
+<TargetKeyColumns>MKT~TYPE,ATC1,ATC2,ATC3,ATC4,CORP,MANU~FACT,STR,PROD,PACK,MOL,DCKey 1,Latest Price</TargetKeyColumns>
+<DCKeyColumn>DCKey 1</DCKeyColumn>
+<MoleculeColumn></MoleculeColumn>
+<TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+<TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+</configuration>
+
+
+
+

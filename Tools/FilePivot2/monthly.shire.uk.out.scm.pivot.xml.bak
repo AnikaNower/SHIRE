@@ -1,0 +1,12 @@
+<configuration>
+  <SourceFile>D:\customers\77822_Shire_Staging\Data\United Kingdom\OUT_SCM\ALD3710M\Input\Temp\DUMP_DBX3710M.TXT</SourceFile>
+  <SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+  <SourceKeyColumns>SUPPLIER~GROUP,SUPPLIER~DEPOT,SUPPLIER~TYPE,OUTLET~TYPE,OUTLET~GROUP,OUTLET,REGION,TERR~ITORY,RSA~BRICK,MKT,PROD,PRD~PCK</SourceKeyColumns>
+  <SourceValueColumns>VALUES,UNITS</SourceValueColumns>
+  <TargetFileName>D:\customers\77822_Shire_Staging\Data\United Kingdom\OUT_SCM\ALD3710M\Input\Temp\PIVOT_DBX3710M.TXT</TargetFileName>
+  <TargetKeyColumns>[SUPPLIER~GROUP],[SUPPLIER~DEPOT],[SUPPLIER~TYPE],[OUTLET~TYPE],[OUTLET~GROUP],OUTLET,REGION,[TERR~ITORY],[RSA~BRICK],MKT,PROD,[PRD~PCK]</TargetKeyColumns>
+  <TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+  <TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+  <DCKeyColumn></DCKeyColumn>
+  <MoleculeColumn></MoleculeColumn>
+</configuration>

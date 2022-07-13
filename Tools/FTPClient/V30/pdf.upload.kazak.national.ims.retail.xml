@@ -1,0 +1,9 @@
+<configuration>
+  <Server>bddh01-s0005</Server>
+  <Username>test01</Username>
+  <Password>123</Password>
+  <LocalDirectory>D:\customers\Pliva\PDF-65410\staging_area\Data\Kazak\National\Output</LocalDirectory>
+  <LocalFilePattern>*.zip</LocalFilePattern>
+  <RemoteDirectory>Productionization\65410 Pliva CEE\Output</RemoteDirectory>
+  <RemoteFilePattern>*.zip</RemoteFilePattern>
+</configuration>

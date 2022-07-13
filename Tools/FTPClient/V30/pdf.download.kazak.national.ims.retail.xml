@@ -1,0 +1,9 @@
+<configuration>
+  <Server>bddh01-s0005</Server>
+  <Username>test01</Username>
+  <Password>123</Password>
+  <LocalDirectory>D:\customers\Pliva\PDF-65410\staging_area\Data\Kazak\National\Input</LocalDirectory>
+  <LocalFilePattern>Kazak.txt</LocalFilePattern>
+  <RemoteDirectory>Productionization\65410 Pliva CEE\Input\Kazak\National_IMS_Retail</RemoteDirectory>
+  <RemoteFilePattern>Kazak.txt</RemoteFilePattern>
+</configuration>

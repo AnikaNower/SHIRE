@@ -1,0 +1,12 @@
+<configuration>
+  <SourceFile>D:\customers\77822_Shire_Staging\Data\United Kingdom\HOS_REG\SUB01\Input\Temp\DUMP_SUB01.TXT</SourceFile>
+  <SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+  <SourceKeyColumns>In~Out,Dept,Total Market,Prod by Man,Total Prod,Pack,Manf,Hosp,Hosp~Code,Region,Terr,Brick,Product,Comb~mole,NFC</SourceKeyColumns>
+  <SourceValueColumns>Cash,Volume</SourceValueColumns>
+  <TargetFileName>D:\customers\77822_Shire_Staging\Data\United Kingdom\HOS_REG\SUB01\Input\Temp\PIVOT_SUB01.TXT</TargetFileName>
+  <TargetKeyColumns>[In~Out],Dept,[Total~Market],[Prod~by~Man],[Total~prod],Pack,Manf,Hosp,[Hosp~Code],Region,Terr,Brick,Product,[Comb~Mole],NFC</TargetKeyColumns>
+  <TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+  <TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+  <DCKeyColumn></DCKeyColumn>
+  <MoleculeColumn></MoleculeColumn>
+</configuration>

@@ -1,0 +1,12 @@
+<configuration>
+  <SourceFile>D:\Projects\PFIZER1\Tools\Staging\Tools\FilePivot\IRL_RET_NAT.TXT</SourceFile>
+  <SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+  <SourceKeyColumns>CRP,MNF,PRES,CLASS3,CLASS4,PRD,PRD-AGE,GMS,FORM,PCK,PCK-AGE,STR,COMP,MOL,DCKey 1,EURO/LP FEB/07</SourceKeyColumns>
+  <SourceValueColumns>UN,EURO</SourceValueColumns>
+  <TargetFileName>D:\Projects\PFIZER1\Tools\Staging\Tools\FilePivot\IRL_RET_NAT_PIV.TXT</TargetFileName>
+  <TargetKeyColumns>CRP,MNF,PRES,CLASS3,CLASS4,PRD,[PRD-AGE],GMS,FORM,PCK,[PCK-AGE],STR,COMP,MOL,[DCKey 1],[Latest Period]</TargetKeyColumns>
+  <TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+  <TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+  <DCKeyColumn>DCKey 1</DCKeyColumn>
+  <MoleculeColumn>MOL</MoleculeColumn>
+</configuration>

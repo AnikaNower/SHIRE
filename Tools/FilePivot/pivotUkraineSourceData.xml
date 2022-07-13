@@ -1,0 +1,12 @@
+<configuration>
+<SourceFile>D:\customers\Pliva\PDF-65410\staging_area\Data\Ukraine\National\Input\UkraineDUMP.TXT</SourceFile>
+<SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+<SourceKeyColumns>ATC1,ATC2,ATC3,ATC4,Crp,Mnf,Prd,Str,Pck,Launch~Year,Launch~Date,Mono~Combi,Mole~cule,DCKey 1,Latest Price M1/2007</SourceKeyColumns>
+<SourceValueColumns>Units M,LC Sales M,Value (Doll)</SourceValueColumns>
+<SkipSourceValueColumns>Latest Price in Euro M12/2006,Value (Euro) M1/2005,Value (Euro) M2/2005,Value (Euro) M3/2005,Value (Euro) M4/2005,Value (Euro) M5/2005,Value (Euro) M6/2005,Value (Euro) M7/2005,Value (Euro) M8/2005,Value (Euro) M9/2005,Value (Euro) M10/2005,Value (Euro) M11/2005,Value (Euro) M12/2005,Value (Euro) M1/2006,Value (Euro) M2/2006,Value (Euro) M3/2006,Value (Euro) M4/2006,Value (Euro) M5/2006,Value (Euro) M6/2006,Value (Euro) M7/2006,Value (Euro) M8/2006,Value (Euro) M9/2006,Value (Euro) M10/2006,Value (Euro) M11/2006,Value (Euro) M12/2006,Units Year/2002,LC Sales Year/2002,Value (Doll) Year/2002,Value (Euro) Year/2002,Units Year/2003,LC Sales Year/2003,Value (Doll) Year/2003,Value (Euro) Year/2003,Units Year/2004,LC Sales Year/2004,Value (Doll) Year/2004,Value (Euro) Year/2004,Units Year/2005,LC Sales Year/2005,Value (Doll) Year/2005,Value (Euro) Year/2005,Units Year/2006,LC Sales Year/2006,Value (Doll) Year/2006,Value (Euro) Year/2006</SkipSourceValueColumns> 
+<TargetFileName>D:\customers\Pliva\PDF-65410\staging_area\Data\Ukraine\National\Input\UkrainePivot.txt</TargetFileName>
+<TargetKeyColumns>ATC1,ATC2,ATC3,ATC4,CRP,MNF,PRD,STR,PCK,LCH~YEAR,LCH~DATE,MONO~COMBI,MOL,DCKey 1,LATEST PRICE</TargetKeyColumns>
+<DCKeyColumn>DCKey 1</DCKeyColumn>
+<MoleculeColumn>Mole~cule</MoleculeColumn>
+</configuration>
+

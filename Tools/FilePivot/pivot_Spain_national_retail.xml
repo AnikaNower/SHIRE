@@ -1,0 +1,16 @@
+<configuration>
+<SourceFile>D:\customers\77822_Shire_Staging\Data\Spain\National_Retail\input\Temp\SPAIN_RET_NAT_DUMP.txt</SourceFile>
+<SourceColumnsDelimiter>|</SourceColumnsDelimiter>
+<SourceKeyColumns>ATC1,ATC2,ATC3,ATC4,CRP,MNF,PRES,PRD-AGE,NFC1,NFC2,NFC123,PCK,MOL,DCKey 1,EUR/MNF/LP MTH/9/10</SourceKeyColumns>
+<SourceValueColumns>UN,EUR</SourceValueColumns>
+<TargetFileName>D:\customers\77822_Shire_Staging\Data\Spain\National_Retail\input\Temp\SPAIN_RET_NAT_PIVOTED.txt</TargetFileName>
+<TargetKeyColumns>ATC1,ATC2,ATC3,ATC4,CRP,MNF,PRES,PRD-AGE,NFC1,NFC2,NFC123,PCK,MOL,DCKey 1,Latest Price</TargetKeyColumns>
+<DCKeyColumn>DCKey 1</DCKeyColumn>
+<MoleculeColumn></MoleculeColumn>
+<TargetNameColumn>COLUMN_NAME</TargetNameColumn>
+<TargetValueColumn>COLUMN_VALUE</TargetValueColumn>
+</configuration>
+
+
+
+

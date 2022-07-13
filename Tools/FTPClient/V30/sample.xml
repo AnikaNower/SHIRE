@@ -1,0 +1,11 @@
+<configuration>
+  <Server>ftp.lnd.gb.eu.rxcorp.com</Server>
+  <Username>epervier</Username>
+  <Password>3pervier</Password>
+  <LocalDirectory>c:\</LocalDirectory>
+  <LocalFilePattern>astrazeneca.monthly.imsdata12.zip</LocalFilePattern>
+  <RemoteDirectory>AZ\data\IMS Data</RemoteDirectory>
+  <RemoteFilePattern>astrazeneca\.monthly\.@actualyear\.0?@actualmonth\.imsdata\.?([0-9]*)?\.zip</RemoteFilePattern>
+  <ConnectionString>server=CHAL01-s0025;user=sa;password=S0025;database=AZTMS_STAGING</ConnectionString>
+  <ReplacmentProcedure>AZTMSS_Get_Settings</ReplacmentProcedure>
+</configuration>

@@ -1,0 +1,13 @@
+<configuration>
+  <SourceFile>D:\Pliva\FilePivot\test.txt</SourceFile> 
+  <SourceColumnsDelimiter>|</SourceColumnsDelimiter> 
+  <SourceKeyColumns>CTY,PCK,MOL,DC Key</SourceKeyColumns> 
+  <SourceValueColumns>USD</SourceValueColumns>
+  <SkipSourceValueColumns>USD MAT</SkipSourceValueColumns> 
+  <TargetFileName>D:\Pliva\FilePivot\test1.txt</TargetFileName> 
+  <TargetKeyColumns>CTY,PCK,MOL,DC Key</TargetKeyColumns> 
+  <TargetNameColumn>COLUMN_NAME</TargetNameColumn> 
+  <TargetValueColumn>COLUMN_VALUE</TargetValueColumn> 
+  <DCKeyColumn>DC Key</DCKeyColumn> 
+  <MoleculeColumn>MOL</MoleculeColumn> 
+   </configuration>
